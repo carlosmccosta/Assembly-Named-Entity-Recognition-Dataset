@@ -1,0 +1,10 @@
+﻿Final Assembly
+Fit the final drive wheel to the existing differential using the original bolts tightened to 132Nm with Loctite 648
+Fit the outer bearing, BEA-099 (#18) into the appropriate counterbore in the clutch housing. Place the differential assembly into the clutch housing.
+Fit the fork assembly onto the three clutch rings (Fig 5-1) and, while held in place, mesh the layshaft and its gears into engagement with drive gears on the mainshaft(Fig 5-2). Holding both shafts and the
+selector rods locked together (Fig 5-3), lower the complete assembly into the clutch housing (Fig 5-4). The layshaft should be guided through the oil seal allowing its bearing to locate in the bellhousing.
+The mainshaft will engage in the final drive wheel and its bearing into the outer race. At the same time the three selector rods will align with their respective location bores.
+Place bearing BEA-148 (#17) onto it’s inner race on the mainshaft.
+Using heavy grease, hold the layshaft and mainshaft shims into their counterbores in the main case.Using Hylamar to seal the faces, lower the maincase onto the gear assembly. Check that the selector rods are free by sliding them through their travel before finally bolting up the cases(44Nm).
+Fit the detents to the selector rods in the neutral position. Replace the selector mechanism and its locking pin.
+Exchange the reverse idler gear MRA-237 (#11) using the original spacers and circlip. Remount in its cradle inside the sump aperture and fit the plate using sealant.

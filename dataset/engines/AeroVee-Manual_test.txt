@@ -1,0 +1,159 @@
+ELECTRONIC IGNITION TIMING
+
+Timing Basics
+The electronic (secondary) ignition is timed to match the Magnatron (primary) ignition, which is fixed at 28 degrees BTDC. Accurate timing is accomplished when the two ignition systems are firing as one, which is indicated by little or no difference in engine RPM when switching between ignition systems.
+The trigger cap (A) of the secondary ignition system rotates to make timing adjustments. It is locked in position by a socket head cap screw (D). When the magnet in the trigger cap passes by the sensor in the triggers (C), it fires the spark plugs. The location of the magnet in the trigger cap is marked with a line (B).
+
+
+Timing the Secondary Ignition
+Important: The secondary ignition will spark when the ignition is on and the trigger magnet passes by the sensor. This can cause ignition. Avoid serious injury or death by turning off the fuel, ignition switch, and master switch and remaining clear of the propeller while timing the ignition.
+Initial timing is achieved by aligning the right edge of the magnet shoe on the flywheel (E, photo below) with the right edge of the top Magnatron (F) and then rotating the trigger cap
+(A) until the mark on the cap (B, previous column) is centered under the sensor (C) of the upper trigger. The following steps detail this process.
+
+The black / white line on the right shows how the top Magnatron and magnet shoe on the flywheel align prior to setting the secondary ignition timing. For clarity these parts are shown removed from the engine.
+
+1. Turn off the aircraft's Master switch, secondary ignition switch and fuel valve.
+2. Pull the cockpit mixture control to "Idle Cut-off".
+3. Rotate the crank until the right edge of the magnet shoe on the flywheel (E, above) is aligned with the right edge of the top Magnatron (F, above). Look down between the accessory plate and the rear flange of the engine case to check the alignment of the top Magnatron to magnet shoe on the flywheel.
+4. Loosen the socket head cap screw (D) and rotate the magnet cap (A) until the mark on the magnet cap (B) is centered under the sensor (C) of the upper trigger.
+5. Tighten the socket head cap screw.
+
+Timing Check
+Ground Check. Running the engine and performing a mag check will indicate the accuracy of the timing of the secondary ignition. A mag check at 1600 - 2000 RPM should reveal little or no change in RPM. If a change of 50 RPM or greater is noted, the magnet cap should be rotated slightly one way or the other.
+In Flight Check. Under normal cruise power (2900 to 3400 rpm):
+1.Turn off the secondary ignition and observe the cylinder head temperature.
+2.Turn on the secondary ignition and turn off the Primary ignition. Observe the cylinder head temperature.
+If the cylinder head temperature rises when operating with only the secondary ignition, the secondary ignition is advanced. Retard the secondary ignition by turning the magnet cap slightly clockwise, as viewed from the flywheel end of the engine.
+
+
+
+
+ALTERNATOR / REGULATOR WIRING
+
+Alternator - Regulator Wiring
+1. Attach the two wires from the alternator to the two outer terminals of the voltage regulator. It does not matter which wire attaches to which terminal.
+2. Attach an 8 or 10 gauge wire from the center terminal of the voltage regulator to the positive battery terminal.
+3. If you will be using a tachometer which senses pulses from the alternator, it must be spliced in to one of the wires from the alternator. Consult the instrument manufacturer's instructions for proper installation and set-up.
+Note: The 20 amp alternator delivers 6 pulses per revolution.
+4. If the voltage regulator is attached to a non-conductive surface a ground wire needs to be attached between the body of the regulator and an appropriate airframe ground.
+
+
+
+
+STARTER INSTALLATION / WIRING
+
+Starter Installation
+Note: Though the starter is grounded through the bolts which secure it to the accessory plate, anodizing in the threads of the accessory plate and the recommended use of Locktite can degrade this ground path. You may wish to install an 8 to 10 gauge supplemental ground wire under one of the starter attachment bolts and attach the other end to an appropriate ground on the airframe or battery.
+do not use an engine mount bolt for a grounding point as they are insulated from the engine by the rubber engine mounts and do not provide a good ground path.
+
+1. Attach the starter to the accessory plate using two (2) ACV-Z01-14 cap screws and Locktite 262.
+
+Starter Wiring
+The drawing below illustrates a typical starter wiring schematic. This can be modified to suit your needs. Note that a separate starter solenoid is not needed as the AeroVee starter has a built-in solenoid. The starter has two points for electrical connections:
+A large threaded lug (A) for the 6 gauge starter wire, and a small male spade terminal (B) for the 14 gauge solenoid wire.
+
+
+
+
+OIL BREATHER TUBE
+
+Breather Installation
+1. Form an engine breather tube from 5/8 diameter x .035" wall 6061-T6 or 5052-0 aluminum tube. The tube should curve up slightly after exiting the breather plate. This encourages oil to flow back into the case rather than get discharged. Additionally, a 1/16" diameter hole drilled at the top of the curve permits crankcase breathing in the event the exit tube freezes shut. Route the tube so it discharges out the bottom of the cowling, or into the top of the optional AeroConversions Oil Separator.
+2. Secure the tube in the breather plate with high temperature silicone gasket.
+3. Secure the tube as needed to prevent vibration.
+
+
+
+
+OIL COOLER, BOTTOM MOUNT
+
+Installing the Oil Cooler
+The optional Sonex / AeroVee Fence Baffle kit includes laser-cut parts for the oil cooler installation.
+1. 	Position the oil cooler near the back of the lower shroud with the inlet ports facing forward. Make sure the cooler does not interfere with the exhaust and mark the location of the mounting holes.
+2. 	Drill four 3/16" diameter mounting holes in the shroud to match those in the oil cooler and attach the cooler with four AN3-3A bolts, MS20365-1032 nuts, and AN960-10 washers.
+3. 	Cut an air passage in the bottom of the shroud and install an air deflector to force the air traveling under the oil sump to exit through the oil cooler.
+4. 	Attach the oil cooler shroud to the engine case with four M6x1 screws, or re-tap the holes and use 1/4-20 screws. See photo below.
+5. 	Apply teflon paste (do not use teflon tape) to the threads of each AN912-4D bushing and install one in each port of the oil cooler.
+6. 	Apply teflon paste (do not use teflon tape) to the threads of two AN816-6-6D nipples and install one in each of the bushings installed in step 5.
+7. 	Install a straight hose fitting (Jeg's p/n 799-610020) on each end of a 12" length of Pro-Flex hose. Do this twice to make two hose assemblies.
+8. 	Install the hose assemblies on the oil cooler. Do not use sealing compounds or teflon tape on these fittings.
+9. 	Apply teflon paste (do not use teflon tape) to the threads of each AN816-6D nipple and install one in each port of the oil pump.
+10. Install the free end of each hose assembly on the oil pump. Do not use sealing compounds or teflon tape on these fittings.
+Note: The cooling air inlets of the cowl must be cut open before you install the baffle seal. Refer to the "Cowl Openings" section of this manual.
+11. Fit one half of the cowl at a time and note any interference with the oil cooler shroud. Remove the cowl and trim the shroud as needed to achieve a gap of 1/4" to 3/8" between the cowling and the shroud.
+Note: Bend the front lips of the cooling shroud as needed so they seal above and below the cowl's oil cooler inlet.
+12. Install baffle seal to seal the gap between the metal shroud and cowling.
+13. Install the Oil Pressure Bypass Plate. See next column.
+
+
+
+
+OIL COOLER BYPASS PLATE
+
+The oil cooler bypass plate is required on all bottom-mounted oil cooler installations.
+1. Insert Viton O-ring into the oil cooler bypass plate.
+2. Install the oil cooler bypass plate using the ACV-Z01-19 bolt (Qty. 1), ACV-Z01-17 bolts (Qty. 2), ACV-Z01-22 elastic stop nut (Qty 2), and ACV-Z01-25 washer (Qty 2).
+3. Install a 1/8 NPT pipe plug or an optional oil pressure sender (B) (1/8 NPT) in the tapped hole of the oil bypass plate. The pipe plug can be installed with teflon paste. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+OIL COOLER, TOP MOUNT
+
+Installing the Oil Cooler
+1. 	Insert the two orange-colored cylindrical seals from the gasket kit (provided with your AeroVee engine) in the oil cooler ports on the top, right-hand side of the engine.
+2. Carefully position the Oil Cooler Mount Plate over the seals and bolt the plate to the engine case using the hard-Supplied by/available from Sonex Aircraft: ware identified in the photo below.
+3. Insert the two short, orange-colored flanged seals from the gasket kit (provided with your AeroVee engine) in the oil ports of the Top Plate. See photo below.
+Important: The gasket kit contains both tall (thick) and short (thin) flanged oil seals. Be sure to use the short (thin) seals for this installation.
+4. Remove a 1-5/8" long portion of the front, lower flange of the oil cooler. This is necessary to eliminate interference between the oil cooler's flange and the adapter plate. See photo below for details.
+5. Carefully position the oil cooler over the seals in the mount plate and bolt the oil cooler to the plate using the hardware identified in the photo below.
+6. Install the optional oil pressure sender or a 1/8 NPT pipe plug in the port in the side of the case (F).
+important: do not overtighten the oil pressure sender or the pipe plug as this can result in a cracked case. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+BYPASSING / REMOVING A BOTTOM-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler. You must, however, retain the cooling shroud to direct cooling air across the bottom of the engine case.
+To operate the AeroVee without the bottom-mounted oil cooler:
+1. 	Disconnect the oil cooler lines from the oil pump.
+2.  Remove the oil cooler and hoses from the cooling shroud.
+3. 	Seal the opening in the bottom of the cooler shroud with a piece of aluminum.
+important: do not plug the inlet and outlet ports of the oil pump after removing the hoses. This will result in oil starvation and engine damage. To properly eliminate the oil cooler from the system you must complete one of the options in step 4, below.
+4. 	Run a loop of -06 braided hose from the inlet port of the existing oil pump to the outlet port.
+or:
+Remove the oil pump and replace it with a Standard Oil Pump, AeroConversion part number ACV-P01-56.
+
+
+
+
+BYPASSING / REMOVING A TOP-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler.
+To operate the AeroVee without the top-mounted oil
+cooler:
+
+1. Remove the oil cooler from the adapter plate.
+2. Remove the adapter plate.
+3. Install the Oil Cooler Bypass Plate as shown on page 52.
+
+
+
+INSTALLING the EXHAUST
+
+1. Using the supplied Exhaust Attach Bolts (ACV-Z01-39), temporarily attach the exhaust manifolds to the cylinder heads without exhaust gaskets.
+Note: If your cylinder heads have exhaust studs installed they will need to be removed to fit the 2-into-1 exhaust.
+Note: The left side exhaust pipe (pilot's side) may contact the super tin and/or cylinder head baffle. The super tin and/or baffle can be reformed as needed to minimize the contact, though some contact is not a concern.
+Note: The space between the exhaust flanges can be increased or decreased by hand if it is too tight or too loose on the cylinder head. Tightening the exhaust attach bolts during final installation will pull the header together for a proper fit on the cylinder head.
+2. Slide an extension pipe onto each manifold. It may be necessary to shorten the length of the exhaust manifold if the extensions interfere with the firewall. Do not shorten the expanded portion of the extension pipes.
+3. After each exhaust manifold has been trimmed to the proper length, remove the manifolds from the cylinder heads and re-install them with new exhaust gaskets (included in the gasket kit).
+4. Attach a spring between each pair of spring clips. It may be necessary to shorten the springs for your particular installation.
+5. Attach a loop-type line support clamp (AN742 or equivalent) to the firewall approximately 3" above the spring clips on the exhaust extensions.
+6. Attach a spring between the support clamp and each exhaust extension. It may be necessary to shorten the springs for your particular installation.
+7. Trim the ends of the exhaust pipes to final length. The pipes must be long enough to ensure the exhaust gases exit the cowl, yet pipes which extend too far below the cowl will add drag and reduce your airspeed.
+
+Installing EGT Probes
+EGT probe(s) must be installed 4" from the exhaust flange of each cylinder that is being monitored. This distance is based on a path down the center of the exhaust pipe. It is also important to consider the orientation of each probe to avoid interference between the probe and cowling.
+important: do not trim the egT probe wires.
+There are a variety of EGT probe styles with different mounting methods. Follow the instructions provided with your probes for the proper mounting method.

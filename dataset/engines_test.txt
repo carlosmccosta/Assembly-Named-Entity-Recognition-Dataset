@@ -1,0 +1,249 @@
+ELECTRONIC IGNITION TIMING
+
+Timing Basics
+The electronic (secondary) ignition is timed to match the Magnatron (primary) ignition, which is fixed at 28 degrees BTDC. Accurate timing is accomplished when the two ignition systems are firing as one, which is indicated by little or no difference in engine RPM when switching between ignition systems.
+The trigger cap (A) of the secondary ignition system rotates to make timing adjustments. It is locked in position by a socket head cap screw (D). When the magnet in the trigger cap passes by the sensor in the triggers (C), it fires the spark plugs. The location of the magnet in the trigger cap is marked with a line (B).
+
+
+Timing the Secondary Ignition
+Important: The secondary ignition will spark when the ignition is on and the trigger magnet passes by the sensor. This can cause ignition. Avoid serious injury or death by turning off the fuel, ignition switch, and master switch and remaining clear of the propeller while timing the ignition.
+Initial timing is achieved by aligning the right edge of the magnet shoe on the flywheel (E, photo below) with the right edge of the top Magnatron (F) and then rotating the trigger cap
+(A) until the mark on the cap (B, previous column) is centered under the sensor (C) of the upper trigger. The following steps detail this process.
+
+The black / white line on the right shows how the top Magnatron and magnet shoe on the flywheel align prior to setting the secondary ignition timing. For clarity these parts are shown removed from the engine.
+
+1. Turn off the aircraft's Master switch, secondary ignition switch and fuel valve.
+2. Pull the cockpit mixture control to "Idle Cut-off".
+3. Rotate the crank until the right edge of the magnet shoe on the flywheel (E, above) is aligned with the right edge of the top Magnatron (F, above). Look down between the accessory plate and the rear flange of the engine case to check the alignment of the top Magnatron to magnet shoe on the flywheel.
+4. Loosen the socket head cap screw (D) and rotate the magnet cap (A) until the mark on the magnet cap (B) is centered under the sensor (C) of the upper trigger.
+5. Tighten the socket head cap screw.
+
+Timing Check
+Ground Check. Running the engine and performing a mag check will indicate the accuracy of the timing of the secondary ignition. A mag check at 1600 - 2000 RPM should reveal little or no change in RPM. If a change of 50 RPM or greater is noted, the magnet cap should be rotated slightly one way or the other.
+In Flight Check. Under normal cruise power (2900 to 3400 rpm):
+1.Turn off the secondary ignition and observe the cylinder head temperature.
+2.Turn on the secondary ignition and turn off the Primary ignition. Observe the cylinder head temperature.
+If the cylinder head temperature rises when operating with only the secondary ignition, the secondary ignition is advanced. Retard the secondary ignition by turning the magnet cap slightly clockwise, as viewed from the flywheel end of the engine.
+
+
+
+
+ALTERNATOR / REGULATOR WIRING
+
+Alternator - Regulator Wiring
+1. Attach the two wires from the alternator to the two outer terminals of the voltage regulator. It does not matter which wire attaches to which terminal.
+2. Attach an 8 or 10 gauge wire from the center terminal of the voltage regulator to the positive battery terminal.
+3. If you will be using a tachometer which senses pulses from the alternator, it must be spliced in to one of the wires from the alternator. Consult the instrument manufacturer's instructions for proper installation and set-up.
+Note: The 20 amp alternator delivers 6 pulses per revolution.
+4. If the voltage regulator is attached to a non-conductive surface a ground wire needs to be attached between the body of the regulator and an appropriate airframe ground.
+
+
+
+
+STARTER INSTALLATION / WIRING
+
+Starter Installation
+Note: Though the starter is grounded through the bolts which secure it to the accessory plate, anodizing in the threads of the accessory plate and the recommended use of Locktite can degrade this ground path. You may wish to install an 8 to 10 gauge supplemental ground wire under one of the starter attachment bolts and attach the other end to an appropriate ground on the airframe or battery.
+do not use an engine mount bolt for a grounding point as they are insulated from the engine by the rubber engine mounts and do not provide a good ground path.
+
+1. Attach the starter to the accessory plate using two (2) ACV-Z01-14 cap screws and Locktite 262.
+
+Starter Wiring
+The drawing below illustrates a typical starter wiring schematic. This can be modified to suit your needs. Note that a separate starter solenoid is not needed as the AeroVee starter has a built-in solenoid. The starter has two points for electrical connections:
+A large threaded lug (A) for the 6 gauge starter wire, and a small male spade terminal (B) for the 14 gauge solenoid wire.
+
+
+
+
+OIL BREATHER TUBE
+
+Breather Installation
+1. Form an engine breather tube from 5/8 diameter x .035" wall 6061-T6 or 5052-0 aluminum tube. The tube should curve up slightly after exiting the breather plate. This encourages oil to flow back into the case rather than get discharged. Additionally, a 1/16" diameter hole drilled at the top of the curve permits crankcase breathing in the event the exit tube freezes shut. Route the tube so it discharges out the bottom of the cowling, or into the top of the optional AeroConversions Oil Separator.
+2. Secure the tube in the breather plate with high temperature silicone gasket.
+3. Secure the tube as needed to prevent vibration.
+
+
+
+
+OIL COOLER, BOTTOM MOUNT
+
+Installing the Oil Cooler
+The optional Sonex / AeroVee Fence Baffle kit includes laser-cut parts for the oil cooler installation.
+1. 	Position the oil cooler near the back of the lower shroud with the inlet ports facing forward. Make sure the cooler does not interfere with the exhaust and mark the location of the mounting holes.
+2. 	Drill four 3/16" diameter mounting holes in the shroud to match those in the oil cooler and attach the cooler with four AN3-3A bolts, MS20365-1032 nuts, and AN960-10 washers.
+3. 	Cut an air passage in the bottom of the shroud and install an air deflector to force the air traveling under the oil sump to exit through the oil cooler.
+4. 	Attach the oil cooler shroud to the engine case with four M6x1 screws, or re-tap the holes and use 1/4-20 screws. See photo below.
+5. 	Apply teflon paste (do not use teflon tape) to the threads of each AN912-4D bushing and install one in each port of the oil cooler.
+6. 	Apply teflon paste (do not use teflon tape) to the threads of two AN816-6-6D nipples and install one in each of the bushings installed in step 5.
+7. 	Install a straight hose fitting (Jeg's p/n 799-610020) on each end of a 12" length of Pro-Flex hose. Do this twice to make two hose assemblies.
+8. 	Install the hose assemblies on the oil cooler. Do not use sealing compounds or teflon tape on these fittings.
+9. 	Apply teflon paste (do not use teflon tape) to the threads of each AN816-6D nipple and install one in each port of the oil pump.
+10. Install the free end of each hose assembly on the oil pump. Do not use sealing compounds or teflon tape on these fittings.
+Note: The cooling air inlets of the cowl must be cut open before you install the baffle seal. Refer to the "Cowl Openings" section of this manual.
+11. Fit one half of the cowl at a time and note any interference with the oil cooler shroud. Remove the cowl and trim the shroud as needed to achieve a gap of 1/4" to 3/8" between the cowling and the shroud.
+Note: Bend the front lips of the cooling shroud as needed so they seal above and below the cowl's oil cooler inlet.
+12. Install baffle seal to seal the gap between the metal shroud and cowling.
+13. Install the Oil Pressure Bypass Plate. See next column.
+
+
+
+
+OIL COOLER BYPASS PLATE
+
+The oil cooler bypass plate is required on all bottom-mounted oil cooler installations.
+1. Insert Viton O-ring into the oil cooler bypass plate.
+2. Install the oil cooler bypass plate using the ACV-Z01-19 bolt (Qty. 1), ACV-Z01-17 bolts (Qty. 2), ACV-Z01-22 elastic stop nut (Qty 2), and ACV-Z01-25 washer (Qty 2).
+3. Install a 1/8 NPT pipe plug or an optional oil pressure sender (B) (1/8 NPT) in the tapped hole of the oil bypass plate. The pipe plug can be installed with teflon paste. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+OIL COOLER, TOP MOUNT
+
+Installing the Oil Cooler
+1. 	Insert the two orange-colored cylindrical seals from the gasket kit (provided with your AeroVee engine) in the oil cooler ports on the top, right-hand side of the engine.
+2. Carefully position the Oil Cooler Mount Plate over the seals and bolt the plate to the engine case using the hard-Supplied by/available from Sonex Aircraft: ware identified in the photo below.
+3. Insert the two short, orange-colored flanged seals from the gasket kit (provided with your AeroVee engine) in the oil ports of the Top Plate. See photo below.
+Important: The gasket kit contains both tall (thick) and short (thin) flanged oil seals. Be sure to use the short (thin) seals for this installation.
+4. Remove a 1-5/8" long portion of the front, lower flange of the oil cooler. This is necessary to eliminate interference between the oil cooler's flange and the adapter plate. See photo below for details.
+5. Carefully position the oil cooler over the seals in the mount plate and bolt the oil cooler to the plate using the hardware identified in the photo below.
+6. Install the optional oil pressure sender or a 1/8 NPT pipe plug in the port in the side of the case (F).
+important: do not overtighten the oil pressure sender or the pipe plug as this can result in a cracked case. When installing the optional oil pressure sender do not use teflon paste or teflon tape on the threads as this will inhibit the grounding of the sender; good grounding is required for an accurate signal. You may even consider adding a dedicated ground wire to the body of the sender.
+
+
+
+
+BYPASSING / REMOVING A BOTTOM-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler. You must, however, retain the cooling shroud to direct cooling air across the bottom of the engine case.
+To operate the AeroVee without the bottom-mounted oil cooler:
+1. 	Disconnect the oil cooler lines from the oil pump.
+2.  Remove the oil cooler and hoses from the cooling shroud.
+3. 	Seal the opening in the bottom of the cooler shroud with a piece of aluminum.
+important: do not plug the inlet and outlet ports of the oil pump after removing the hoses. This will result in oil starvation and engine damage. To properly eliminate the oil cooler from the system you must complete one of the options in step 4, below.
+4. 	Run a loop of -06 braided hose from the inlet port of the existing oil pump to the outlet port.
+or:
+Remove the oil pump and replace it with a Standard Oil Pump, AeroConversion part number ACV-P01-56.
+
+
+
+
+BYPASSING / REMOVING A TOP-MOUNTED OIL COOLER
+
+The AeroVee has flown successfully in the Sonex airframes without an oil cooler. Depending on your flight conditions and climate, you may not need the oil cooler.
+To operate the AeroVee without the top-mounted oil
+cooler:
+
+1. Remove the oil cooler from the adapter plate.
+2. Remove the adapter plate.
+3. Install the Oil Cooler Bypass Plate as shown on page 52.
+
+
+
+INSTALLING the EXHAUST
+
+1. Using the supplied Exhaust Attach Bolts (ACV-Z01-39), temporarily attach the exhaust manifolds to the cylinder heads without exhaust gaskets.
+Note: If your cylinder heads have exhaust studs installed they will need to be removed to fit the 2-into-1 exhaust.
+Note: The left side exhaust pipe (pilot's side) may contact the super tin and/or cylinder head baffle. The super tin and/or baffle can be reformed as needed to minimize the contact, though some contact is not a concern.
+Note: The space between the exhaust flanges can be increased or decreased by hand if it is too tight or too loose on the cylinder head. Tightening the exhaust attach bolts during final installation will pull the header together for a proper fit on the cylinder head.
+2. Slide an extension pipe onto each manifold. It may be necessary to shorten the length of the exhaust manifold if the extensions interfere with the firewall. Do not shorten the expanded portion of the extension pipes.
+3. After each exhaust manifold has been trimmed to the proper length, remove the manifolds from the cylinder heads and re-install them with new exhaust gaskets (included in the gasket kit).
+4. Attach a spring between each pair of spring clips. It may be necessary to shorten the springs for your particular installation.
+5. Attach a loop-type line support clamp (AN742 or equivalent) to the firewall approximately 3" above the spring clips on the exhaust extensions.
+6. Attach a spring between the support clamp and each exhaust extension. It may be necessary to shorten the springs for your particular installation.
+7. Trim the ends of the exhaust pipes to final length. The pipes must be long enough to ensure the exhaust gases exit the cowl, yet pipes which extend too far below the cowl will add drag and reduce your airspeed.
+
+Installing EGT Probes
+EGT probe(s) must be installed 4" from the exhaust flange of each cylinder that is being monitored. This distance is based on a path down the center of the exhaust pipe. It is also important to consider the orientation of each probe to avoid interference between the probe and cowling.
+important: do not trim the egT probe wires.
+There are a variety of EGT probe styles with different mounting methods. Follow the instructions provided with your probes for the proper mounting method.
+
+
+Hold the connecting rod with needle nose pliers near the crosshead. Place tape or paper on the jaws of the pliers to keep from scratching the connecting rod. Now tighten the piston into the crosshead guide with a screwdriver in the slot of the piston while keeping the fork from rotating by holding the connecting rod with the pliers. When finished, the fork must not bind on the connecting rod.
+Slide the eccentric strap back onto the eccentric hub of the flywheel because it will have probably fallen off by now. A groove will be visible in the eccentric. Rotate the flywheel so the eccentric strap moves as far away from the base as possible. The set screw hole in the flywheel will be approximately on top. Place the points of the E-ring (40043) into the groove of the eccentric. Press the ring down until it snaps in place. The points will center up on the crankshaft to keep the ring from rotating. Rotate the flywheel while observing the E-ring. If properly installed, the outer edge of the ring will be concentric with the eccentric strap.
+Install the 2-56 set screw (12608) in the flywheel hub but do not tighten.
+NOTE: When tightening the set screw in the following steps, position the flywheel on the crankshaft so it is near but not touching the bearing at the crankdisk end of the crankshaft. The crankdisk should be touching the bearing.
+Rotate the crankshaft until the crankpin is nearest the cylinder. Make sure the setscrew in the flywheel is still on top. Tighten the setscrew.
+Observe the valve in the steam chest while rotating the flywheel. The valve will uncover a portion of the cylinder ports at each end of its travel. At each extreme of travel, the amount of the port uncovered should be the same. If it is not, rotate the valve spindle with needle nose pliers until the amount of port uncovered at each end is the same.
+Rotate the flywheel until the crankpin is nearest the cylinder again. Observe the valve. Both ports should be covered. If both ports are not covered, loosen the set screw and repeat the last two steps until the ports are covered in both positions of the piston.
+Tighten the 00-90 nut on the valve spindle.
+Place two drops of oil in the steam chest around the valve. Press the valve against the cylinder port face. The oil will help hold the valve in place.
+Remove the two bolts holding the steam chest in place. Install the steam chest cover (53133) using an oiled gasket and the two screws just removed plus two more 0-80 x 5/16” hex head screws. Try to ensure the valve stays against the cylinder face.
+Install the plain cylinder cover (53115) with an oiled gasket using four 0-80 x 1/8” hex head screws.
+Screw the 3/32” diameter steam pipe assembly (A1005) into the steam chest cover.
+Screw the 1/8” diameter exhaust pipe assembly (A1006) into the cylinder.
+
+
+Use a small screwdriver to push the piston down to engage the piston rod thread in the guide. Turn the piston using the screwdriver in the slot in the piston rod to thread the rod into the guide. Thread the rod into the guide until you feel the piston touch the cylinder mount. Make sure the guide is at the bottom of the stroke nearest the base.  Rotate the piston in the opposite direction about 5/8 of a turn. Rotate the crankshaft to place the piston at the top end of the cylinder. There should be about 1/64” (.015”) between the piston top and the top of the cylinder. Tighten the piston rod jam nut against the guide while keeping the piston from turning with the screwdriver.
+This engine can’t be reversed in operation, but it can be adjusted to run in either direction by the setting of the eccentric.  Decide which direction you want the engine to run.
+Rotate the crankshaft so the piston is at the top of the cylinder. Rotate the eccentric so the setscrew faces the side of the engine that you want the top of the flywheel to rotate toward. Center the face of the eccentric in the valve drive yoke and tighten the setscrew. Rotate the crankshaft so the eccentric setscrew is up. Check that the position of the scotch yoke guide is in the middle of it’s travel.
+With the eccentric setscrew facing up, press the valve rod down to engage the 0-80 threads.  Thread the valve rod into the valve drive yoke.  If a small drill chuck is available, use it to grip the portion of the valve rod that protrudes above the steam chest.  Otherwise, use smooth jaw needle nose pliers to turn the rod.
+After the rod is started in the yoke, remove the drill chuck (if used) and rotate the crankshaft. Adjust the valve rod so the steam ports I the cylinder are uncovered an equal amount at the ends of the valve travel.  Tighten the 0-80 nut on the valve rod against the yoke. Check the setting of the valve once again.
+Remove the two screws holding the steam chest in place.  Using these two screws and two more, install the steam chest cover on the steam chest. Align the chest cover and the chest to the cylinder edges and tighten the screws.
+Rotate the crankshaft several times to check for binding.  Install the cylinder cover on the cylinder on the cylinder using six 2-56 x 3/16” fillister head screws. Check for any binding again.
+Attach the steam fittings with pipes to the cylinder and steam chest with 0-80 x 1/8” fillister head screws. The 1/8” pipe is the steam inlet and attaches to the steam chest.  The 5/32” pipe is the exhaust pipe and attaches to the cylinder block.
+
+
+
+Place the cylinder assembly on the 4 columns of the base assembly with the connecting rods entering the crosshead guides. Make sure the side of the cylinder assembly with 3 holes lines up with the side of the base with 3 holes.
+Secure the cylinder mount to the 4 columns with four 2-56 x 1/4 pan head screws.
+Place the connecting rod end in the crosshead slot and align holes between the connecting rod and the crosshead. It may be necessary to rotate the crankshaft and slide the piston up or down to accomplish this.
+For the following operation, it may be necessary to rotate the eccentric, the t-slide, or both to obtain clearance to work in. Insert the threaded end of the crosshead-connecting rod pin (53064) in the crosshead and through the connecting rod. Screw the pin into the far side of the crosshead. Tighten the pin securely. Repeat for the other cylinder.
+Place the free end of the short 2 hole link in the slot in the fork on the valve spindle. Align the holes. Insert a bushing (53101) through the hole in the fork and the hole in the link. The bushing will be almost flush with the surface of the fork. Insert a 0-80 X 3/16 pan head screw in the bushing and tighten. Repeat for the other end of the engine.
+Rotate the connector on the valve gear so the setscrews face down. Insert the end of the handle assembly (A2008) in the hole of the connector from the other side of the engine until the end is flush on the far side of the connector. Tighten the center set screw on the connector to hold the handle assembly.
+Install the valve detent bar (53086) between the cylinder mount and the base. The notches must be nearest the cylinder mount, and face the front of the engine. With the connector slid toward the front of the engine, the bar on the handle will lightly engage the notches on the valve detent bar. Secure using a 2-56 x 3/16” fillister head screw (12414) through the base and a 2-56 x 1/4” pan head screw through the cylinder mount. You may have to loosen the four screws holding the cylinder mount to the columns to make it easier to get the detent bar in there.
+Place the handle bar in the notch nearest the base of the engine. Rotate the two female T-slides so they are vertical and align with the flat sides of the columns. Slide the connector so it is centered between the columns. This will bend the handle bar slightly so it is forced into the notches on the valve detent bar. Make sure the female T-slides are pushed up against each column and tighten the two outer setscrews in the connector.
+Rotate the crankshaft until one of the pistons is at the top of its stroke. Adjust the position of the piston by rotating it with a screwdriver in the slot in the center of the piston. Adjust it so it is flush with the top of the cylinder, and then turn it 3/4 of a turn clockwise to lower it into the cylinder. Tighten the 5-40 lock nut using the supplied open-ended wrench (51009). Repeat for the second cylinder.
+Position the handle bar in the center notch of the valve detent bar. Rotate the crankshaft so the FRONT piston is at the BOTTOM of its stroke. Set the eccentric on the REAR so the setscrew is in line with the arm of the eccentric strap and tighten the setscrew. It may be necessary to rotate the valve spindle in the fork to adjust the position of the valve so it does not strike the end of the steam chest.
+Rotate the crankshaft so the REAR piston is at the TOP of its stroke. Set the eccentric on the FRONT so the setscrew is in line with the arm of the eccentric strap and tighten the setscrew. Check that the valve has clearance in the steam chest.
+Check that the handle is in the center notch. With the REAR piston still at the top of its stroke, adjust the REAR valve spindle to center the valve so it covers all the ports on the port face. Place the handle in the first notch above the middle notch. Rotate the crankshaft while observing the valve. The edges of the valve should just come to the edge of the cylinder ports. The cylinder ports may or may not be visible at any position. If one port is visible and the other is not visible at any position, adjust the valve spindle to center the valve on the ports.
+Check the adjustment by placing the handle in the first notch below the center notch. Rotate the crankshaft and observe the valve. The valve should line up on the ports so they are completely covered at all times or have equal clearance between the both edges of the valve and the cylinder ports as the crankshaft is rotated.
+Lock the valve spindle by tightening the 0-80 nut on the valve spindle against the fork.
+Rotate the crankshaft so the FRONT piston is at the top of its stroke. Adjust the FRONT valve spindle to center the valve so it covers all the ports on the port face.
+Adjust the front valve in the same way as the rear was adjusted. Lock the spindle with the 0-80 nut.
+Now it's getting close to test run time. Before closing up everything, put a drop of oil in each cylinder and in each steam chest.
+Place a cylinder cover on each cylinder with the lapped side of the cylinder cover against the cylinder. Secure each cover with six 2-56 X 3/16 fillister head screws.
+Remove the 2 temporary retaining screws holding the steam chest in place. Install a steam chest cover (51005) on the steam chest with the lapped side next to the steam chest and secure with four 2-56 X 7/16 pan head screws. Repeat for the second steam chest.
+Install the steam inlet and exhaust manifolds on the steam chests and cylinders respectively. Use four 0-80 X 1/8 fillister head screws on each manifold.
+
+
+
+FINAL ASSEMBLY AND ADJUSTMENT
+Now it will really become an engine. It is time to tie everything together, make all the adjustments, and finish up the engine.
+Place the base assembly with the front to your right. The coupler for the valve gear should be away from you. Notice the hole in the base on the side nearest you near the center of the crankshaft assembly. With the crosshead guides down, rotate the cylinder assembly so the side with the hole near the middle is nearest you.
+Place the cylinder assembly on the 4 columns of the base assembly with the connecting rods entering the crosshead guides. Make sure the side of the cylinder assembly with 3 holes lines up with the side of the base with 3 holes.
+Secure the cylinder mount to the 4 columns with four 2-56 x 1/4 pan head screws.
+Place the connecting rod end in the crosshead slot and align holes between the connecting rod and the crosshead. It may be necessary to rotate the crankshaft and slide the piston up or down to accomplish this.
+For the following operation, it may be necessary to rotate the eccentric, the t-slide, or both to obtain clearance to work in. Insert the threaded end of the crosshead-connecting rod pin (53064) in the crosshead and through the connecting rod. Screw the pin into the far side of the crosshead. Tighten the pin securely. Repeat for the other cylinder.
+Place the free end of the short 2 hole link in the slot in the fork on the valve spindle. Align the holes. Insert a bushing (53101) through the hole in the fork and the hole in the link. The bushing will be almost flush with the surface of the fork. Insert a 0-80 X 3/16 pan head screw in the bushing and tighten. Repeat for the other end of the engine.
+Rotate the connector on the valve gear so the setscrews face down. Insert the end of the handle assembly (A2008) in the hole of the connector from the other side of the engine until the end is flush on the far side of the connector. Tighten the center set screw on the connector to hold the handle assembly.
+Install the valve detent bar (53086) between the cylinder mount and the base. The notches must be nearest the cylinder mount, and face the front of the engine. With the connector slid toward the front of the engine, the bar on the handle will lightly engage the notches on the valve detent bar. Secure using a 2-56 x 3/16” fillister head screw (12414) through the base and a 2-56 x ¼” pan head screw through the cylinder mount. You may have to loosen the four screws holding the cylinder mount to the columns to make it easier to get the detent bar in there.
+Place the handle bar in the notch nearest the base of the engine. Rotate the two female T-slides so they are vertical and align with the flat sides of the columns. Slide the connector so it is centered between the columns. This will bend the handle bar slightly so it is forced into the notches on the valve detent bar. Make sure the female T-slides are pushed up against each column and tighten the two outer setscrews in the connector.
+Rotate the crankshaft until one of the pistons is at the top of its stroke. Adjust the position of the piston by rotating it with a screwdriver in the slot in the center of the piston. Adjust it so it is flush with the top of the cylinder, and then turn it 3/4 of a turn clockwise to lower it into the cylinder. Tighten the 5-40 lock nut using the supplied open-ended wrench (51009). Repeat for the second cylinder.
+Position the handle bar in the center notch of the valve detent bar. Rotate the crankshaft so the FRONT piston is at the BOTTOM of its stroke. Set the eccentric on the REAR so the setscrew is in line with the arm of the eccentric strap and tighten the setscrew. It may be necessary to rotate the valve spindle in the fork to adjust the position of the valve so it does not strike the end of the steam chest.
+Rotate the crankshaft so the REAR piston is at the TOP of its stroke. Set the eccentric on the FRONT so the setscrew is in line with the arm of the eccentric strap and tighten the setscrew. Check that the valve has clearance in the steam chest.
+Check that the handle is in the center notch. With the REAR piston still at the top of its stroke, adjust the REAR valve spindle to center the valve so it covers all the ports on the port face. Place the handle in the first notch above the middle notch. Rotate the crankshaft while observing the valve. The edges of the valve should just come to the edge of the cylinder ports. The cylinder ports may or may not be visible at any position. If one port is visible and the other is not visible at any position, adjust the valve spindle to center the valve on the ports.
+Check the adjustment by placing the handle in the first notch below the center notch. Rotate the crankshaft and observe the valve. The valve should line up on the ports so they are completely covered at all times or have equal clearance between the both edges of the valve and the cylinder ports as the crankshaft is rotated.
+Lock the valve spindle by tightening the 0-80 nut on the valve spindle against the fork.
+Rotate the crankshaft so the FRONT piston is at the top of its stroke. Adjust the FRONT valve spindle to center the valve so it covers all the ports on the port face.
+Adjust the front valve in the same way as the rear was adjusted. Lock the spindle with the 0-80 nut.
+Now it's getting close to test run time. Before closing up everything, put a drop of oil in each cylinder and in each steam chest.
+Place a cylinder cover on each cylinder with the lapped side of the cylinder cover against the cylinder. Secure each cover with six 2-56 X 3/16 fillister head screws.
+Remove the 2 temporary retaining screws holding the steam chest in place. Install a steam chest cover (51005) on the steam chest with the lapped side next to the steam chest and secure with four 2-56 X 7/16 pan head screws. Repeat for the second steam chest.
+Install the steam inlet and exhaust manifolds on the steam chests and cylinders respectively. Use four 0-80 X 1/8 fillister head screws on each manifold.
+
+
+
+Rotate the crankshaft so the crankpin is nearest the base. Rotate the eccentric so the hub setscrew is to the side of the engine opposite of the reversing lever. Insert the .035” hex wrench (40030) in the eccentric setscrew. While keeping the crankpin nearest the base, rotate the eccentric so the hex wrench is 3/4” above the base where it crosses the standard. Slide the crankshaft against the inside bearing and slide the eccentric towards the opposite side of the inside bearing. Tighten the eccentric setscrew. The crankshaft should be able to slide in the bearings a little bit.
+Place the small end of the connecting rod (53095) in the crosshead guide and slide the large end on the crankpin of the crankshaft assembly. Slide the piston and rotate the crankshaft until the connecting rod can be engaged in the slot in the crosshead. Align the holes in the connecting rod and the crosshead and insert pin (53064) from the rear of the engine. Screw in the pin firmly.
+Slide the flywheel on the crankshaft and secure with the 4-40 x 3/32” setscrew and the .050” hex wrench. There should be some fore-aft play in the crankshaft with the flywheel attached.
+Rotate the crankshaft until the piston is nearest the top of the cylinder. Adjust the piston position by rotating the piston with a small screwdriver in the slot in the piston rod. The piston is adjusted so the top of the piston is half way between the top of the cylinder and the point where the steam passage meets the cylinder bore. This is about 0.015” below the top of the cylinder.
+Rotate the crankshaft to bring the piston down and tighten the 5-40 lock nut on the piston rod against the crosshead.
+Move the reversing lever to one extreme. Rotate the crankshaft until the valve is in the uppermost position of travel. Adjust the valve spindle until about 3/4 of the lower steam port is uncovered by the valve.
+Rotate the crankshaft until the valve is at the bottom of travel. The upper steam port should be uncovered the same amount as the lower one was in the previous step. If not, adjust the valve spindle until the openings are equal at the two valve extremes.
+Tighten the lock nut on the valve spindle against the valve drive block.
+Place the remaining round gasket with no center cutout on the top of the cylinder and align the screw holes. Use a drop of oil to hold it in place. Place the cylinder cover (51004) with the lapped side against the cylinder and gasket. Secure with (6) 2-56 x 3/16” fillister head screws (12412).
+Remove the two screws holding the steam chest to the cylinder.
+Install the remaining rectangular gasket with no center cutout on the face of the steam chest. Install the steam chest cover (51005) with the lapped side against the gasket. Secure with (4) 2-56 x 7/16” pan head screws (10228).
+Attach the exhaust pipe assembly (A1002) to the cylinder using (2) 0-80 x 1/8” fillister head screws (10808). This is the larger diameter pipe.
+Attach the steam inlet pipe assembly (A1001) to the steam chest using (2) 0-80 x 1/8” fillister head screws (10808).

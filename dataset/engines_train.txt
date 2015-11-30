@@ -1,0 +1,778 @@
+CRANKSHAFT ASSEMBLY
+
+Preparation:
+1. Inspect the bore of the Crank Timing Gear for burrs. If necessary, lightly polish it with fine emery cloth.
+2. Thoroughly clean all parts with Mineral Spirits.
+3. Remove the four (4) hex plugs from the crankshaft and thoroughly clean the crankshaft with Mineral Spirits. Re-install the hex plugs with Locktite #242.
+4. Test fit the prop hub. The prop hub should noT slide onto the crankshaft.
+5. Place the cleaned crankshaft in a freezer at least 12 hours prior to assembly.
+6. Heat an oven to 450o F. Place the crank timing gear and prop hub in the oven and heat for 60 minutes.
+7. 	Apply an even coat of white lithium grease to the inside surface of bearing #1 and bearing #2 from the Main Bearing Set.
+
+Assembly Instructions:
+1. Install the Aft Woodruff Key into the crankshaft. Make sure it is fully seated.
+2. Slide bearing #2 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the crankshaft's counter-weight.
+3. Install the Timing Gear with the two machined dots (arrow in photo) facing away from bearing #2.
+4. Install the Retaining Ring in the groove in the crank.
+5. Enlarge the oil supply hole in bearing #1 by updrilling it with a #30 drill bit. Remove any burrs which may occur while drilling.
+6. Slide bearing #1 (with an even coat of white lithium grease applied to the inside surface) onto the crankshaft with the machined dot (arrow in photo) toward the retaining ring.
+7. Slide the Oil Slinger onto the crankshaft with the curved (concave) side of the slinger facing the end of the crankshaft.
+8. Install the Forward Woodruff Key into the crankshaft.
+9. Align the keyway of the Prop Hub with the forward woodruff key installed in the crankshaft and tap the prop hub into place using a mallet and block of wood.
+The prop hub must be tight against the oil slinger. Immediately install prop hub Bushing and Washer and Bolt (ACV-Z01-74). Use an impact wrench to tighten the bolt and push the prop hub against the oil slinger.
+
+
+
+CAM ASSEMBLY
+
+Assembly Instructions:
+Note: The Assembly Lube provided with the cam gear will be used to lubricate the valve lifters in a later operation. Do not lubricate the cam shaft bolts as instructed on the assembly lube package included with the cam shaft.
+Note: Cam shafts are supplied with varying hardware, all of which is acceptable. Use the hardware supplied with the cam to attach the cam gear. This may include either:
+Cam Bolts with integral lock washers.
+Cam bolts and wavy spring washers. Cam bolts and tab lock washers.
+Note: While not common, slight interference between the cam and the connecting rods does occasionally occur. One cause of this interference is a raised edge around the numbers stamped in the shaft of the cam. Lightly polishing these numbers will remove the raised edge and eliminate a possible source of interference.
+
+1. Align the machined dot on the face of the Cam Gear (arrow in photo)  with the slot in the Cam Shaft. Apply Red Locktite to the bolts and install the bolts and washers (if provided).
+2. Torque the bolts to 20 ft-lbs.
+3. If tabbed washers were provided with your cam shaft, bend the tabs against the bolt heads with a flat-blade screw- driver.
+
+
+
+CONNECTING ROD ASSEMBLY
+
+Assembly Instructions:
+Note: Both parts of each connecting rod are stamped with a unique number, identifying them as matched parts. The connecting rods must be reassembled as matched parts, with the numbers together as shown in this photograph.
+
+1. Remove the fastener from each Connecting Rod and carefully separate the two parts. Do not scratch or score the machined surface of the connecting rods.
+2. Wipe the mating surfaces of the connecting rods and bearing halves so they are free of oil and dust. Install the bearing halves by aligning the tab on each bearing half with the notch in each connecting rod and pressing the bearing halves into place.
+
+Note: The clearance between the rod bearings and rod journals must be between .002" and .0025". When assembling new parts, as provided in the AeroVee 2.1 kit, the proper clearance is often assumed. When rebuilding an engine using remanufactured parts, this clearance must be checked. Detailed instructions for checking this clearance are given in Tom Wilson's book "How to Rebuild Your Volkswagen Air Cooled Engine".
+
+3. Apply an even coat of white lithium grease to the exposed surfaces of each bearing half.
+4. The connecting rods are attached to the crankshaft, as shown in the photo below, with the stamped numbers facing up. Be sure to re-assemble the connecting rods as matched parts.
+5. ACV-p06-33 Rods only (with starred bolt and nut): Apply Moly Lube to each rod bolt and install. Torque each bolt as follows:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 38 ft.-lbs.
+
+ACV-p01-33 Rods only (with hex bolt): Apply "Red" Locktite (or, if supplied with your rods, ARP Ultra-Torque) to the threads of each rod bolt and install.
+Torque each bolt in four steps:
+first to 8 ft.-lbs.
+then to 15 ft.-lbs.
+then 24 ft.-lbs.
+Then the final torque of 30 ft.-lbs.
+
+6. 	Check each connecting rod for freedom of movement and .005" to .020" side clearance.
+
+
+
+
+CRANK CASE PREPARATION
+
+Preparation:
+1. Separate the case halves and thoroughly clean them with mineral spirits. Remove all traces of metal chips and dust from the case. Pay particular attention to removing metal chips which still cling to the edge of machined surfaces (see photo) and to casting slag on the inside of the case which may dislodge after the engine is in service.
+2. If you are painting the case, now is the best time to do so. Mask off all machined surfaces, mating surfaces, and holes before painting.
+
+Assembly Instructions:
+1. Install the head studs as shown in the photos below.
+2. Lay the case on it's side so the oil pressure relief ports in the bottom of the case are accessible.
+3. Find the oil pressure relief plungers (2), springs (1 long, 1 short), metal gaskets (2) and retaining plugs (2) in the Case Kit. Note: The remainder of the case kit may be discarded as it is not needed on the AeroVee.
+4. Insert the grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the prop hub. Note: The plungers must move freely in the passages. If they do not, clean the plungers with fine emery cloth until they do.
+5. Insert the long spring behind the grooved plunger.
+6. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+7. Insert the non-grooved plunger, lightly lubricated with motor oil, solid end first into the oil pressure relief port in the bottom of the case near the flywheel.
+8. Insert the short spring behind the non-grooved plunger.
+9. Place a metal gasket on a retaining plug and screw the plug into the relief port.
+10. Install the Main Bearing Stud Seals (Qty. 6) from the Gasket Set (ACV-P02-15). The seals slide over the 6 large studs in the right case half.
+11. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the left half of the case. The following photos show where each bearing is installed.
+12. The flanged cam bearing for the right case half must have its alignment tab filed off. File the tab off with a fine file.
+13. Wipe clean the case journals and the back of each Cam Bearing and install the bearings in the right half of the case. The following photos show where each bearing is installed.
+14. Test fit each Valve Lifter in a guide. The lifters must slide freely in the guides. If a lifter sticks, clean the guide with very fine emery cloth. After test-fitting, liberally lubricate each lifter with white lithium grease and install them in their guides.
+15. Test fit the Cam Shaft in each case half to make sure there is clearance between the lobes of the camshaft and each valve lifter. Interference between the cam shaft and a lifter must be investigated.
+16. Install four (4) Dowel Pins in the right case half. Make sure they are fully inserted.
+17. Install one (1) Dowel Pin in the left case half. Make sure it is fully inserted.
+18. Install one half of the Split Main Bearing (from Main Bearing Set, ACV-P01-57) into the middle journal of each case half, carefully aligning the recess in the bearing with the dowel pin in the journal. A light tap may be required to properly seat each bearing half.
+19. Apply an even coat of white lithium grease to all of the cam bearings and main bearings.
+
+
+
+
+CRANK CASE ASSEMBLY
+
+Assembly Instructions:
+1. 	Apply a coat of white lithium grease to the inside of Main Bearing #4 and slide it onto the end of the crank shaft assembly. Make sure the dowel pin hole is toward the end of the crankshaft.
+2. 	Carefully set the crank shaft assembly into right case half. Make sure dowel pin hole in each bearing is aligned with the dowel pins in the case half, and the crankshaft assembly is fully seated in the case half.
+3. 	Important! Temporarily mate the case halves and rotate the crankshaft. Listen and "feel" for a knock which may indicate the case is interfering with the connecting rods. If interference is detected:
+3a. Disassemble the case halves and identify the location of the interference.
+3b. Remove crank assembly.
+3c. Taking care not to get grinding dust on other parts, use a remove case material to provide at least .045" clearance. Dremel-style motor tools work well for this operation.
+3d. Reinstall the crankshaft assembly and repeat step 3 until all interference is eliminated.
+4. 	Apply a small amount of cam assembly lubricant to each valve lifter.
+5. 	Align the single dot on the gear of the cam shaft assembly with the two dots on the gear of the crankshaft assembly and rotate the cam down into the into the cam bearings in the right case half. After seating the camshaft in the bearing, make sure the dots still align as shown in photo 5a.
+6. 	impoRTAnT! Make sure the main bearings of the crankshaft are still fully seated on the dowel pins in the case half.
+7. 	Align the 8 holes in the center of the flywheel with the dowel pins on the end of the crankshaft. The hole pattern permits the flywheel to be installed in only one position.
+8. 	The flywheel is a tight fit onto the crankshaft. It must go on squarely. If it binds, remove it and lightly polish the dowel pins with fine emery cloth. Once the flywheel has been started by hand, complete the installation by tightening the gland with an impact wrench.
+9. 	Push the crankshaft towards the back (flywheel end) of the engine and, with a feeler gauge, measure the gap between the flywheel and the rear main bearing. Record this measurement in the "Shim Chart".
+10. Complete the shim chart by subtracting .006" from gap recorded in step 9. This is the total thickness of shims you will use to set the proper end play.
+11. Clean the end shims with a mild solvent to remove the preservative.
+12. Select any combination of three to five shims which most closely equals the "Shim Thickness" determined in step 10.
+13. Check your shim selection by sliding the shims, together with a feeler gauge, between the flywheel and the main bearing. You should have between .003" and .006" of end play. If necessary, adjust your shim selection to achieve the required end play of .003" to .006". Set the shims aside for later installation.
+14. Remove the gland nut and flywheel from the crank shaft. It may be necessary to use a flywheel puller.
+15. Carefully align the Cam Plug, with its closed (flat) end out, and install it in the cam plug bore at the flywheel end of the case. Note: Most cases have a smooth cam bore for a “ribbed” plug. Some cases have a groove in the cam bore for a cam plug with a raised bead.
+16. Apply Permatex Aviation Form-A-Gasket #3 or Flange Sealant to the mating surfaces of the case halves. Apply according to the product manufacturer's instructions. Apply sparingly.
+17. Note: While assembling the case halves, the lifters in the left half will want to slide out. This can be minimized by giving them each a heavy coat of white lithium grease. Assemble the two case halves by placing the left half over the right half. Gently tap the left half with a rubber mallet to seat it against the right half of the case.
+18. Place one ACV-Z01-28 washer and one ACV-Z01-75 12mm elastic stop nut on each of the six large studs. do not tighten the nuts at this time.
+19. In the order shown in the photo above, torque the 6 large nuts to 15 foot-pounds.
+20. Check for free movement of the crankshaft. If interference is detected, identify the source of the interference
+(most likely poorly seated main or cam bearings). Note: If the connecting rods are not held near their normal operating position while checking for interference, you may experience interference which does not exist on an assembled engine.
+21. In the order shown in the photo, re-torque the 6 large nuts to 25 foot-pounds. do not exceed 25 foot-pounds.
+22. Check for free movement of the crankshaft, as described in step 20.
+23. Apply Permatex Aviation Form-A-Gasket #3 to two (2) ACV-Z01-26 washers and place them over the cam shaft studs the lower left side of the engine.
+24. Install an ACV-Z01-23 stop nut on each cam shaft stud and lightly tighten.
+25. Install an ACV-Z01-26 washer and ACV-Z01-23 stop nut on the remaining (10) studs on the perimeter of the case. Lightly tighten each nut.
+26. Install and lightly tighten an ACV-Z01-16 hex head cap screw, two (2) ACV-Z01-26 washers, and an ACVZ01-23 stop nut in each of the three through-holes which serve to join to two case halves. Minimal thread engagement is normal. Nuts will be flush with ends of screws.
+27. Torque the two cam nuts (from step 24) to 10 ft.-lbs.
+28. Torque the remaining case-assembly nuts (from steps 25 and 26) to 13 ft-lbs. There is no defined order for torquing these nuts.
+29. Check for free movement of the crankshaft, as described in step 20.
+
+
+
+
+PISTON & CYLINDER ASSEMBLY
+
+Assembly Instructions:
+IMPORTANT: Pistons and pins have been matched to within 5 grams. Keep each piston and pin together as a set.
+1. Remove a piston ring from each piston and slide it squarely inside it's matched cylinder. Measure the gap between the ends of the ring - it should be between 0.012"-0.022". Re-install the ring on the piston.
+2. Re-install the piston into the cylinder using a ring compressor.
+3. Slide one piston and cylinder assembly into place on the crank case. Install the piston pin and make sure the cylinder is well seated.
+4. Bring the piston to Top Dead Center.
+5. Measure the deck height (distance be tween the top of the piston and the top of the cylinder). If the piston is below the top of the cylinder you have a positive (+) deck height. If the piston is higher than the top of the cylinder, you have a negative (-) deck height. Use your measured deck height to determine which cylinder shims are required from the chart on page 21.
+6. Remove the cylinder and piston assembly from the case.
+7. Apply a light coat of motor oil to the outside of each  piston and the inner wall of each cylinder.
+8. Install the cylinder shims (as required, see chart on next  page) onto each cylinder. Align the shims so they match  the reliefs in the cylinder for the case studs.
+9. Apply Permatex Aviation Form-A-Gasket No. 3 Sealant to the shims and base of cylinder.
+10. Rotate the crank to bring a connecting rod to top dead center - this eases installation of the piston and cylinder.
+11. Note: The arrow on each piston face points to the flywheel end of the engine. Partially slide the cylinder over the head studs. Push the piston out the bottom of the cylinder just far enough to attach the piston to the connecting rod with a piston pin, and secure the pin in place with a snap ring on each side of the piston pin. Note: The snap rings were included in the piston/cylinder box.
+12. Remove excessive sealant and tap the cylinder with a rubber mallet to seat it in position.
+13. Repeat steps 10 through 12 for the other cylinders.
+14. Install the super tin (below) under the cylinders and cylinder head. It "snaps" in place with the dividing rib between the cylinders and the cylinder head. See photo at right.
+
+
+
+
+CYLINDER HEAD INSTALLATION
+
+Assembly Instructions:
+Important: The cylinder heads will contain debris from machining. You must clean and inspect the cylinder heads for debris before installing them.
+Note: The process of machining the spark lug holesfor the secondary ignitionoften damages neighboring cooling fins. Missing finsis normal. You may wish to sand/file the rough edges to make them smooth.
+Note: "Grooves" in the seat of the secondary ignition sparkplug hole are normal and do not impact the seal of the spark plug washer
+1. 	Install Push Rods Seals (from Gasket Set) on each end of the Push Rod Tubes. Expand the bellows end of each push rod tube slightly. This will improve the seal between the push rod tubes, engine case, and cylinder heads.
+2. 	Insert Cylinder Head Gaskets into Head Assemblies.
+3. Align the cylinder head with the engine studs and cylinders and then install the push rod tubes. Check alignment of Push Rod Tubes and barrels as you push the cylinder head into place.
+4. 	Place washers and retaining nuts (from the head stud kit) onto the head studs. Tighten in sequence shown in drawings A and B, below. Torque sequence must be used to prevent the head from warping.
+5. 	Perform this step only if the cylinder head has an o-ring recess at the base of the stud. Install O-ring (from Gasket Set) onto the two head studs that hold the rocker assembly in place.
+
+
+
+
+ROCKER SHAFT INSTALLATION
+
+Assembly Instructions:
+Note: Pre-assembled rocker assemblies often need to be disassembled for proper installation.
+1. Assemble the rocker shafts with the gap in the rocker blocks facing the cupped end of the rocker arms and the thin shims evenly distributed.
+2. Turn each adjuster fully counter-clockwise until the pad lightly contacts the rocker arm, and then turn it back clockwise 1.5 turns.
+Note: Steps 3 through 19 apply to one side of the engine at a time and will be repeated for each side.
+3. Place a square spacer from the rocker arm package over each of the rocker shaft mounting studs on a cylinder head.
+4. Place a rocker assembly over the mounting studs and inspect for interference between the rocker arm assembly and the head studs. If the rocker arm assembly contacts the head studs, trim the ends of the head studs to remove the interference. The spacers placed under the rocker blocks influence the alignment of the rocker arm swivel pads to the valve tip. Proper alignment is achieved when the flat of the swivel pad is partially off-center from the valve stem. This is typically achieved with 1 or 2 shims under each rocker block.
+5. Observe the lateral alignment of each swivel pad to its corresponding valve stem. Arrange the spacers on the rocker shaft, between each rocker arm and mounting block, as needed to get each swivel pad properly aligned. It is acceptable to have no spacer between components if that will achieve the proper alignment between the valve stem and the swivel pad. This slight offset rotates the valve a small amount each time it opens, improving the life of the valve train.
+6. Torque the hex head cap screws on the end of the rocker shaft assembly to 25 foot-pounds.
+7. Remove the rocker assembly from the cylinder head.
+8. Slide the pushrod length tool into a pushrod tube until it engages the lifter in the case.
+9. Rotate the crank until the pushrod reaches the bottom of it's travel.
+10. Re-install the rocker shaft assembly and secure it with the retaining nuts included with the valve covers. Torque the nuts to 14 foot-pounds.
+11. Adjust the length of the pushrod tool until it is engaging the lifter, is seated in the cup of the rocker arm, and is holding the rocker arm swivel pad against the tip of valve stem.
+12. Remove the rocker arm assembly.
+13. Remove the pushrod length tool without disturbing it's setting. The pushrod length tool is set for the over-all length of the four (4) pushrods for that side of the engine.
+Note: It is not necessary to measure and trim each pushrod
+individually, however, it may be beneficial to determine the
+pushrod lengths for each side of the engine individually.
+14. Allow for the length of the pushrod tip and trim the pushrod bodies as needed.
+15. Make sure the inside of each pushrod is clean.
+16. Press a tip onto each of the trimmed pushrods. The end of the pushrod body may be heated if necessary, but do not apply excessive localized heat.
+17. Apply white lithium grease to the end of each pushrod and slide them into the pushrod tubes.
+18. Re-install the rocker assembly, carefully aligning the pushrods with the cups of the rocker arms.
+19. Install the rocker assembly retaining nuts and torque them to 14 ft-lbs.
+20. Repeat steps 3 through 19.
+
+
+
+
+OIL SCREEN INSTALLATION
+
+Assembly Instructions:
+1. Install a gasket from the oil change kit over the studs in the oil sump.
+2. Install the oil screen.
+3. Install the second gasket from the oil change kit over the oil screen.
+4. Install the steel bottom plate, or optional ACV-P02-20 Oil Sump Plate, with the 6mm copper washers from the oil change kit and the 6mm nuts from the shakeproof nut kit. Do not over-tighten these nuts.
+0r
+	Install the optional ACV-P02-20 Oil Sump Plate with the provided 6mm copper washers and acorn nuts. You may also use the elastic stop nuts from the Shakeproof nut kit instead of the acorn nuts.
+5. Install the oil drain plug and included metal/copper gaskets, or the optional oil temp sender w/gasket.
+Note: On engine cases requiring an ACV-P01-12 Oil Temperature Plate it is recommended that an oil temperature sender be installed in that plate rather than the oil screen. See "Block-Off Plates and Plugs", page 30.
+Note: It is not uncommon to have to deform the oil screen when installing the optional oil temp sender.
+
+
+
+
+OIL PUMP INSTALLATION
+
+Assembly Instructions
+1. 	Measure the clearance between the pump gears and the pump cover. Proper clearance is .000" to .004". Tighter is better. Clearances greater than .004" will result in reduced oil pressure.
+2. 	Install oil pump gasket under the oil pump housing and align pump housing with oil galley ports.
+3. 	Tap oil pump housing into place with a plastic mallet.
+4. Liberally grease the top gear and install it, making sure it engages the cam.
+5. Liberally grease and install the free running bottom gear.
+6. 	Apply a very thin coat of Aviation Form-A-Gasket or Flange Sealant to the oil pump cover. If installing the ported oil pump, make sure the oil passages are aligned properly (see photo, next column).
+Important! Failure to properly align the passages in the ported cover plate will result in low oil pressure and engine damage.
+7. 	Install the 4 mount bolts and torque them to 14 ft-lbs.
+
+
+Oil Cooler Installation
+Installation of an oil cooler is described in the Appendix of this manual. All oil cooler installations must use threaded AN fittings and high quality -06 hose.
+
+Operation Without an Oil Cooler
+To operate your AeroVee without an oil cooler you must either run a loop of -06 hose from the output side of the ported pump to the input side of the ported pump, or replace the entire pump with the ACV-P01-56 Straight (unported) Pump.
+Important: do not plug the output and input ports of a ported pump with plugs. This will prevent oil flow and cause significant engine damage.
+Important: do not replace a ported pump cover with a non-ported cover. This will prevent oil flow and cause significant engine damage.
+Additional information on installing oil coolers can be found in Appendix A of this manual.
+
+
+
+
+OIL SEAL INSTALLATION
+
+Assembly Instructions
+Note: The correct number and thickness of end shims was determined in Crank Case Assembly, page 17.
+1. 	Clean the oil seal bore of excessive sealant, particularly around near the case parting lines.
+2. 	Install the end shims over the flywheel end of the crank.
+3. 	Apply a light coat of High Temperature RTV Silicone Gasket Maker to the outside diameter of the oil seal and install the seal. A VW seal installation tool may be used for best results, however the seal can also be lightly tapped in place if care is used.
+4. 	Wipe off any excess sealant.
+
+
+
+
+PROP DRIVE LUG INSTALLATION
+
+Assembly Instructions
+1. 	Insert a prop drivebushing into the prophub.
+2. 	Insert the bolt througha drive bushing using asocket as a spacer.
+3. 	Use the bolt, washer, nut and socket to pullthe drive bushing intothe hub.
+4. 	Repeat for other 5 driveBushings.
+
+
+
+
+VALVE ADJUSTMENT
+
+Assembly Instructions:
+1. Rotate the prop hub until the # 1 cylinder is at top dead center and both the intake and the exhaust valves are closed (valve springs fully extended). The TDC mark on the prop hub should also be lined up with the split-lineof the engine case.
+2. Insert a .006" feeler gauge between the adjusting screw and the valve.
+3. Adjust the screw until the 0.006" feeler gauge moves smoothly between the valve and the swivel foot.
+4. Lock the adjustment screw in place by torquing the locking nut to 14 foot pounds.
+5. Recheck the valve setting with the .006 feeler gauge.
+6. Repeat steps 2 through 5 for the other valve of cylinder #1.
+7. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #4, following steps 2 through 6.
+8. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #3, following steps 2 through 6.
+9. Rotate the crankshaft 180 degrees and adjust the valves of cylinder #2, following steps 2 through 6.
+10. Install the valve covers using the cork gaskets, hex head cap screws, O-rings, and washers included with thevalve covers. The cap screws are tightened by feel to secure the covers and prevent leaks.
+
+
+
+
+BLOCK-OFF PLATES and PLUGS
+
+Assembly Instructions
+1. Install fuel pump block-off plate using ACV-Z01-18 Bolts (Qty 2) and the corresponding gasket (from Gasket Set).
+2. Spread a light coat of clean engine oil on the O-rings of the oil fill plug and insert it in the case.
+3. Remove the preinstalled studs from the engine case and install Oil Breather Plate using ACV-Z01-18 Bolts (Qty 4) and the corresponding paper gasket from Gasket Set. do not install the metal louvered gasket as it will restrict the breather.
+4. Some engines require the installation of an oil temperature plate below cylinder #2. It is installed with two (2) ACV-Z01-23 nuts and the corresponding gasket (from Gasket Set).
+Note: If your engine requires the use of this plate, it can be drilled and tapped for an optional M14 x 1.5 oil temperature probe.
+5. Slide the dipstick into the dipstick tube in front of cylinder #2.
+Note: The dipstick will be calibrated and marked in a later procedure.
+6. If you will not be installing an oil pressure sender in the port in the side of the case (C), install a 1/8 NPT pipe plug.
+Important: do not overtighten the oil pressure sender or the pipe plug as this can result in a cracked case.
+Note: A small tapped hole (D) near the oil fill plug does not need to be plugged.
+
+
+
+
+FLYWHEEL INSTALLATION
+
+Assembly Instructions:
+1. Using a high-temperature silicone sealant, lightly coat the dowel pin area of the flywheel and place a small bead (1/8" diameter) in the groove near the dowel pin area of the flywheel.
+Note: The engine assembly DVD may show an O-ring being used instead. The O-ring has been discontinued.
+2. Install the flywheel on the back of the engine.
+Important: The 8 dowel pins will only align one way.
+Note: The flywheel may require some effort to get it started and seated on the drive pins. This is normal.
+3. Install wavy washer and gland nut with Locktite 272. Torque to 227 ft-lbs.
+Note: A piece of wood temporarily bolted to the prop hub provides good leverage to keep the crank from turning while the gland nut is being torqued.
+
+
+
+
+ACCESSORY PLATE INSTALLATION
+
+1. Bend P-Lead tabs on ignition modules 900
+to clear the accessory
+plate.
+2. Attach ignition modules to the accessory plate using ACVZ01-13 Cap Screws and ACV-Z01-30 hex nuts. Install bolt at the bottom of the slot. The note ‘ThiS Side oUT” stamped in each magnatron must face towards the front of the engine.
+3. Match the accessory plate to the raised groove on the back of the engine case.
+4. Attach accessory plate using the ACV-Z01-20 Bolts (Qty 3), ACVZ01-21 Bolt (Qty. 1), ACV-Z01-24 Nut, ACV-Z01-27 Washers (Qty 4). Torque to 25 ft-lbs.
+5. Rotate the flywheel until the magnet shoe on the flywheel is under the Magnatron.
+6. Slide the 0.010 shim between the ignition module and magnet shoe.
+7. Push module down against the shim and tighten the module mount bolts.
+8. Remove 0.010 Shim. 9. Repeat steps 5 through 9 for the remaining ignition module.
+Note: The Ignition Timing is fixed. There is no need to time the primary ignition system.
+
+
+
+
+TRIGGER SHAFT INSTALLATION
+
+Trigger Shaft Installation
+1. 	Rotate the crank until the magnet shoe (A) on the flywheel is at the top of the engine. This will also put the witness hole in the flywheel assembly (B) near the 12 o'clock position, as shown in the photo below.
+2. Line up the witness hole in the trigger shaft (C) with the witness hole in the flywheel. Apply Locktite 242 to each of the four (4) ACV-Z01-81 flat head cap screws and install them loosely. They will be tightened in step 3.
+Note: If your trigger shaft does not have a witness hole, the trigger shaft may be attached in any orientation.
+3. Sequentially tighten the screws in the crossing pattern shown below. This will center the shaft on the flywheel.
+
+
+
+
+SPARK PLUG INSTALLATION
+
+Plug Installation:
+1. Gap four (4) TOP spark plugs to 0.018".
+2. Gap four (4) BOTTOM spark plugs to 0.032".
+3. Apply an anti-seize compound to the threads of each spark plug and install them in the cylinders.
+4. Torque each spark plug to 12 foot-pounds.
+
+
+
+
+INTAKE MANIFOLD INSTALLATION
+
+Assembly Instructions
+1. 	Temporarily place each of the intake elbow spacers and intake elbows on the cylinder heads and inspect for interference between the elbows and the two upper, center head studs. If necessary, trim the ends of the studs to eliminate interference.
+2. 	Apply Permatex Aviation Form-A-Gasket #3 to one side of each in take elbow spacer and position each spacer on each cylinder head, Permatex side against the cylinder head.
+3. 	Apply Permatex Aviation Form-A-Gasket #3 to each intake elbow and secure the elbows to the cylinder heads with ACV-Z01-26 Washers (Qty 4), and ACV-Z01-49 Cap Screws (Qty. 4) torqued to 10 foot pounds.
+4. Thoroughly clean the inside of the manifold before installing it.
+5. 	Secure an intake hose to each intake elbow with a hose clamp from the intake boot kit.
+6. 	Push the intake manifold securely inside the hose and secure it with hose clamps from the intake boot kit.
+7. 	Secure the intake manifold to the engine with the lower, aft engine case bolt. Bend the mounting tab on the intake manifold as needed to clear the lower Magnatron.
+8. 	Attach the AeroInjector to the bottom of the manifold using the remaining hose and hose clamps from the intake boot kit. Note: For uniform delivery of the fuel mixture, the AeroInjector must be installed parallel to the airframe.
+Note: Fuel inlet goes to the back of the engine.
+9. 	Safety wire the AeroInjector to the intake manifold.
+10. Throttle, mixture, fuel line and air filter connections are described in the AeroInjector manual.
+
+
+
+
+ALTERNATOR INSTALLATION
+
+Stator Assembly
+1. Test fit the stator to the stator plate. If interference is noted between the mounting lugs of the stator and the boss on the plate, sand or file the lugs to remove the interference.
+2. 	Pass the wires of the stator through the hole in the stator plate.
+3. Prime four ACVZ01-76 screws with Locktite 7088 Primer.
+4. Attach the stator to the alternator mount plate using the four (4) primed ACV-Z01-76 screws and Locktite 242 on each screw prior.
+
+
+Installing the Stator Assembly
+1. 	"Paint" the surface of each magnet in the magnet ring and the outside of the stator with a permanent marker.
+Important: The magnets of the magnet ring are very strong and will try to pull the stator assembly out of your hands as you install it. Maintain a firm grip to avoid pinched fingers.
+2. Carefully place the stator assembly over the magnet ring with the "top" pick-up near the 1 O'clock position and the "bottom" pick-up near the 7 O'clock position. The magnet ring may force the stator assembly into an unwanted position. Rotate the flywheel until the stator plate can be properly positioned.
+3. Temporarily install 6 (six) ACV-Z01-12 cap screws to secure the stator assembly in place.
+4. Rotate the crank shaft 3 or 4 full revolutions. This is easily done by removing a spark plug and turning the crank with a socket wrench on the prop hub bolt.
+5. Remove the stator plate and inspect the magnet ring and stator for signs that the two are in contact with each other. If the marker is intact on both parts, your clearance is acceptable. Continue with Step 6. If there is evidence of contact between the parts, use a belt sander or equivalent to remove some material from the stator where the marker has been rubbed away and then repeat steps 1 through 5.
+6. Re-install the stator assembly as described in Step 2.
+7. Prime six ACV-Z01-12 screws with Locktite 7088 Primer.
+8. Secure the stator assembly to the accessory plate using six primed ACV-Z01-12 screws and Locktite 242.
+
+
+
+
+FIREWALL PREPARATION
+
+Before the engine is installed on the engine mount, the firewall should be prepared. This includes mounting the AeroVee's secondary ignition coils and voltage regulator.
+Though not part of the AeroVee kit, careful consideration must be given to the placement of the gascolator, battery box, master solenoid, and other firewall-mounted components to avoid interference with the engine installation and assure ease of maintenance.
+
+Voltage Regulator Installation
+Note: The voltage regulator must be grounded. In a typical installation the regulator will be grounded through the hardware which secures it to the firewall. If your installation uses non-conductive materials for the firewall, or for the mounting of the regulator, dedicated ground wires will be necessary between the regulator and a suitable ground point.
+
+1. Mount the voltage regulator to the firewall in a location which allows easy connection of the wires from the alternator. The use of 3/8" long stand-offs (aluminum or bronze tubing) is recommended to space the regulator away from the firewall.
+Wiring the alternator to the voltage regulator is described later in this manual.
+
+Secondary Ignition Coil Installation
+Note: The ignition coils must be grounded. In a typical installation the coils will be grounded through the hardware which secures them to the firewall. If your installation uses non-conductive materials for the firewall, or for mounting the coils, dedicated ground wires will be necessary between the coils and a suitable ground point.
+1. Mount the ignition coils (ACV-A01-25) to the firewall in a location which allows easy connection of the lower spark plug wires. The use of 3/4" long stand-offs (aluminum or bronze tubing) is recommended to space the coils away from the firewall.
+
+
+
+
+MOUNTING the ENGINE
+
+Sonex Aircraft Airframes
+Bolting the engine to the engine mount is shown in detail in the "Engine Installation, AeroVee" drawing of your airframe plans and on the next page of this manual, however, these few notes may save you some time.
+
+All Airframes
+
+Mount Bushings
+The engine mount bushings will go on the engine mount much easier if they lightly lubricated with soapy water.
+
+Lifting the engine
+When lifting the engine into place care must be taken to make sure the pushrod tubes are not damaged.
+
+Installing the mount Bolts
+The head of the mounting bolts may be inserted in either direction.
+
+A typical engine mount and shock-rubber installation. A minimum of two ACV-Z01-40 washers (1/8" thick total, minimum) must be placed against the front bushing. Additional washers may be used as needed, and washers may be used behind the rear bushings as spacers to shim the thrust line as needed.
+
+
+
+MAGNATRON IGNITION WIRING
+
+Magnatron Circuit Basics
+The magnatron is a very simple ignition system, however, understanding the circuit wiring is often confusing. Unlike most other electrical devices, when the switch is "Off" the Magnatron circuit is closed and the Magnatrons are disabled. When the switch is "On" the ground path is open and the Magnatrons become operational.
+
+Magnatron Wiring
+The Magnatron ignition should be controlled by a single Dual Pole, Single Throw (DPST) toggle switch.
+To check for proper switch installation:
+A. Place the switch in the down ("Off") position.
+B. Place an ohmmeter across a pair of the switches' terminals. If there is no resistance (0 ohms) between the terminals, the switch is properly oriented in the panel. If the resistance is infinite, the switch is "On" and needs to be rotated 180-degrees in the panel for proper installation.
+
+1. Attach a 20 gauge (minimum) ground wire to the body of each magnatron. The ground wire may be attached to a magnatron mounting bolt, or to one of the "studs" (A) on the metal frame. Attach the other end of the ground wire to a suitable ground on the engine block. Do not attach the ground wire to the "p-Lead" terminal ("B", photo below). This terminal must only be used for the ignition switch wiring.
+2. Attach a 20 gauge (minimum) wire between a DPST ignition switch and the P-Lead terminal (B) of each magnatron.
+3. Attach a 20-gauge (minimum) wire between the remaining terminals of the DPST switch and an appropriate airframe ground.
+4. Slide a spark plug boot over the end of each spark plug wire.
+5. Attach the top Magnatron's spark plug wires to the upper front spark plugs.
+6. Attach the bottom Magnatron's spark plug wires to the upper rear spark plugs.
+
+
+
+
+ELECTRONIC IGNITION WIRING
+
+Top Trigger Wiring
+1. Black wire (ground). Attach to any ground point. The ground wires from both the top trigger and bottom trigger can share the same ground point.
+2. Red wire (+12V). Attach to rear terminal screw of right hand coil (terminal "B" in photo).
+3. Orange wire (Trigger). Attach to the front terminal (terminal "A" in photo) of right hand coil.
+
+Bottom Trigger Wiring
+1. Black wire (ground). Attach to any ground point. The ground wires from both the top trigger and bottom trigger can share the same ground point.
+2. Red wire (+12V). Attach to the rear terminal screw of left coil (terminal "C" in photo).
+3. Orange wire (Trigger). Attach to the front terminal (terminal "D" in photo) of left coil.
+
+Coil Wiring
+1. Connect an 18 ga. wire between terminals "B" and "C". This is a jumper for the +12V power supply wire.
+2. From the ignition switch, run an 18 ga. wire through a 10 amp fuse and connect the wire to terminal "B" of the right coil.
+3. The coils must be grounded. In a typical installation the coils will be grounded through the hardware which secures them to the firewall. If your installation uses non-conductive materials for the firewall, or for the mounting of the coils, dedicated ground wires will be necessary between the coils and a suitable ground point.
+
+
+
+
+SPARK PLUG WIRES
+
+Assembly Instructions:
+important: The factory crimped ends of each wire will be re-used. When cutting the wires to the correct length, do not cut the crimped ends off.
+Note: Extra wires have been included with your kit. It is possible to wire your secondary ignition with a single package of spark plug wires, leaving the second set for spares.
+
+1. 	Determine the length for each spark plug wire. The front, lower plug wires attach to the right coil. The rear, lower plug wires attach to the left coil. The pre-crimped ends are kept in place for the spark plugs. Cut the wires to the correct length.
+2. 	Slide a boot (included with ACV-A01-24) over the cut end of each spark plug wire.
+3. 	Remove the black outer jacket and the white insulation core to expose a 3/8" length of the inner conductor.
+4. 	Fold the conductor over the jacket and crimp a metal connector in place. The end of the cable must come to the hole in the connector.
+5. 	Slide the boot over the connector. This is the end of the cable which attaches to the coil.
+6. Attach the spark plug wires to the coils and spark plugs.
+
+
+
+Assembly
+During assembly, it is suggested that you mark each paragraph of the instructions as you complete it. This will help you to avoid skipping a section should you be interrupted during the assembly process.
+Begin by “lapping” all the mating and working surfaces. Refer to the General Procedures section on lapping if necessary. The areas that require lapping are:
+Both open ends of the cylinder (53113)
+The port face of the cylinder (the side with the 3 openings)
+The valve face (53127) with the shallow rectangular opening
+Both sides of the steam chest assembly (A2017)
+The flat side of the steam chest cover (53133)
+The flat side of the cylinder cover assembly (A2021)
+One side of the plain cylinder cover (53115
+If you intend to polish your engine, polish these parts at the same time you lap them.
+Clean all of the lapped parts. Be sure no abrasive residue remains in the steam passages in the cylinder or in the seals on each end of the steam chest and cylinder cover assembly.
+Install the piston O-Ring (40009) in the groove of the piston assembly (A2015).
+Place the cylinder on end with the port face to the left and the mounting face toward you.
+Install the cylinder cover assembly on the top end of the cylinder using an oiled gasket. Using the 3/32” hex socket wrench (51101), install four 0-80 x 1/8” hex head screws (10808) to attach the cylinder cover. Snug but DO NOT tighten the bolts.
+Place a drop of oil in the piston rod hole on the cylinder cover assembly. Place a drop of oil on the O-ring on the piston assembly and on the piston rod.
+Insert the piston assembly, rod end first, into the open end of the cylinder, passing the piston rod through the seal in the cylinder cover assembly.
+Press the piston completely into the cylinder so it touches the cylinder cover assembly. Loosen the four bolts holding the cylinder cover, then gently snug the two screws AWAY from the port face. Now tighten the two screws NEAREST the port face. Now remove the two screws farthest away from the port face. Later, the two cross guide rods (53068) will be installed where the screws were removed.
+The purpose of this last exercise is to center the cylinder cover assembly and seal on the cylinder bore. To check this, slide the piston from one end to the other in the cylinder, using the piston rod. It may feel a little stiff as the seals will remain tight until the engine has run for a few hours. However, it should feel even from one end to the other.
+Test fit the valve spindle assembly in the slots in the valve (53127). The spindle must drop into the narrow slots with the enlarged section engaged in the wide slot. The valve must be free to move on the spindle so it can seat on the cylinder port face. If the spindle is tight in any of the valve slots, open the slot up SLIGHTLY with a small file or the abrasive paper supplied in the kit.
+Remove the valve spindle from the valve. Place a drop of oil in the hole on each end of the steam chest (A2017). This is to lubricate the seals that the valve spindle passes through. Insert the threaded end of the valve spindle through one of the seal holes from the inside of the steam chest. Slide it in until the other end will fit inside the steam chest. Then slide this end through the seal on the other end of the steam chest. Center the enlarged portion of the spindle in the steam chest.
+Coat the port face of the cylinder with oil. Place a gasket on the port face. Place the valve on the port face with the shallow recess covering the port openings in the cylinder. With the threaded end of the valve spindle in the same direction as the threaded end of the piston rod, set the steam chest on the cylinder and align it so the valve spindle drops into the slots in the valve.
+Secure the chest to the cylinder using two 0-80 x 5/16” hex head screws (10820). DO NOT attempt to tighten these screws as the threaded holes in the cylinder are not deep enough to permit the screws to tighten onto the steam chest.
+Thread the 00-90 nut (19000) on the valve spindle.
+Mount the cylinder to the cylinder mount (53112) using four 0-80 x 3/16” pan head slotted stainless steel screws (10212).
+Attach the cylinder mount to the base (53105) using four 2-56 x 3/16” hex head screws. The threaded ends of the piston rod and valve spindle face the opposite end of the base.
+Thread a 0-80 nut (10001) on each crosshead guide rod (53068).
+Install the crosshead guide rods into the two empty holes in the cylinder cover. The rods should be threaded in as far as possible with only finger pressure, and for appearance purposes, should then be adjusted so the ends are an equal distance from the cylinder. Tighten the nuts onto the cylinder cover.
+Slide the crosshead assembly (A2016) on the crosshead guide rods so the large hole is centered on the piston rod. The taper on the crosshead guide bearings can face either toward or away from the cylinder.
+Slide the crosshead guide support (53124) on the crosshead guide rods and secure it to the base with a 0-80 x 3/16” pan head slotted stainless steel screw.
+Slide the crosshead assembly against the crosshead guide support.
+Place the ferrule (53122) on the piston rod with the small hole in the ferrule facing the cylinder. The threads on the piston rod will be concealed inside the ferrule.
+Insert the connecting rod fork (53123) through the crosshead assembly and slide the assembly to the piston rod. The round end of the connecting rod fork will start to enter the ferrule on the piston rod. Insert a 3/32” blade screwdriver in the slot on the piston and thread the piston rod into the fork. Leave it slightly loose so the fork can be rotated. It will be tightened later.
+Thread the eccentric strap assembly (A2019) 5 turns onto the valve spindle. Then rotate it until the side that has the bearing protruding faces the slot in the base. Do NOT tighten the 00-90 nut on the valve spindle.
+Attach one bearing assembly (A2018) to the base near the center of the base using 2-56 x 3/16” hex head screws. The side with the protruding bearing is away from the flywheel slot in the base.
+Slide the eccentric portion of the flywheel hub (A2023) into the eccentric strap assembly bearing. Lower the flywheel into the slot in the base. Slide the crankshaft assembly (A2022) through the bearing and then through the flywheel.
+Slide the other bearing assembly on the crankshaft with the protruding bearing away from the flywheel. Secure the bearing assembly to the base with 2-56 x 3/16” hex head screws.
+Oil the crankshaft bearings and the eccentric.
+Check that the crankshaft turns freely in the bearing assemblies. It may be slightly stiff, but should not be binding while rotating. If the crankshaft does not turn freely, loosen all the screws holding the bearing assemblies to the base and then tighten them a little at a time so all the screws are tightened evenly.
+Carefully inspect the connecting rod (53125). Notice that on one end, the rod has a slight protrusion around the hole on one side. Slide the connecting rod onto the crankpin of the crankshaft assembly so this protrusion is next to the crankdisk of the crankshaft. This spaces the connecting rod away from the crankdisk so it does not rub.
+Place the other end of the connecting rod in the slot in the fork attached to the crosshead. Move the piston and/or rotate the crankshaft until the holes in the fork line up with the hole in the connecting rod. Place the head of the shoulder bolt (17808) into the 3/32” hex wrench and use it to hold the bolt while you insert the bolt through the fork and connecting rod. Start it from the side nearest the crosshead guide rods. Place a 0-80 nut on the shoulder bolt and tighten.
+
+
+ASSEMBLY
+Now it all comes together. The rest of the parts in the kit are useable as they are supplied, but you may want to clean them up with a file and/or abrasive paper for appearance.
+As parts are assembled, put a light coat of oil on all the working surfaces. Use a good grade of light sewing machine or instrument oil.  Some household oils contain more solvent than oil and can not be recommended.  Automotive oil is too thick even in the lighter weights. I use Starrett Tool and Instrument oil.  It is available from many machinist supply companies.
+Paper gaskets may be used if desired on all the sealing joints, but they are not necessary if the parts are well finished.  If you do use gaskets, use typing paper with oil applied to it.
+Check the crankshaft assembly for any solder or retaining compound at the two joints and clean if necessary. Make sure the crankpin and crankshaft do not protrude beyond the crankdisk where they are supposed to be flush.  File if necessary.
+Remove any burrs from the 5/16” x 3/16” thrust washer and slide it on the crankshaft.  Check the crankshaft fit in the bearing holes in the base.  If the base was painted, there may be a little bit of paint in the bearings.  Remove the crankshaft assembly.
+Slide the valve drive yoke into the 1/16” holes in the base. This needs to be a free sliding fit. Again, check for paint. Enlarge the holes a little if necessary or bend the guide pins a little bit if there is binding at the ends of the pins only.
+Insert a 2-56 x 3/32” setscrew in the eccentric. Insert the eccentric in the valve drive yoke with the setscrew ends towards the flywheel end.  Slide the crankshaft with thrust washer through the inside bearing, the eccentric and the outside bearing.
+Install a 4-40 x 3/32” setscrew in the flywheel hub. Slide the flywheel on the crankshaft. Place a piece of paper or shim stock about .003” to .008” thick between the flywheel and front bearing. Apply pressure between the flywheel and the crankdisk and tighten the setscrew in the flywheel.  Remove the spacer.  Leave the eccentric loose on the shaft for now.  Rotate the flywheel gently.  There should be no binding.
+Place one of the standards on the base with the groove facing inside.  Secure to the base with two 2-56 x 1/4” pan head screws.  Do not tighten.  Place the scotch yoke slide on the crank pin and place the scotch guide on the slide.  Engage the end of the guide in the slot in the standard with the 5-40 hole away from the base.  Place the other standard on the base while engaging the guide in the slot of the standard. Secure the standard to the base with two 2-56 x 1/4” pan head screws.
+Cut two strips of thin paper 3/16” wide and slide them between each standard and the scotch yoke guide in the slots.  Position the crankshaft to place the guide nearest the base. Press the two standards together with your fingers. Apply the pressure over the guide locations. Tighten the four screws attaching the standards to the base. Remove the spacer papers.
+Rotate the crankshaft to move the guide away from the base.  Place the cylinder mount on the standards and secure with four 2-56 x 3/16” fillister head screws.  Try rotating the crankshaft. If the guide binds, loosen the screws on the cylinder mount and spread the top of the standards apart slightly. Tighten the screws.  If binding still occurs, locate the problem and correct it before continuing.  Sometimes the standards will tilt slightly toward each other because of shrinkage in the base casting.  If this is the case, it may be necessary to remove the standards one at a time and file a VERY SLIGHT bevel on the bottom of the standard to compensate. This is normally not necessary.
+Now that the bottom part of the engine is operating smoothly, remove the cylinder mount.
+Install a 3/8” ID x 1/2” OD “O” ring on the piston.  Be sure to put a little bit of oil on the “O” ring. Check that the piston rod “O” ring retainer is an easy fit on the piston rod. If it is tight, enlarge the 1/8” hole with a needle file or a #31 drill bit. Make sure there are no burrs. Remove the “O” ring retainer.
+Slide the piston rod through the cylinder mount from the side of the mount opposite the recess for the piston rod seal.  Put some oil on the 1/8” ID x 1/4” OD “O” ring and slide it on the piston rod.  Be gentle sliding over the threaded portion of the piston rod so the “O” ring is not damaged.  Press the “O” ring retainer on the piston rod and secure to the cylinder mount with two 0-80 x 1/8” long screws.  Thread the 5-40 jam nut on the piston rod.
+Decision time:  The steam inlet and exhaust should be on opposite sides of the cylinder (but this is not required). The cylinder is completely symmetrical so the exhaust can be on either side of the engine.  If you have a preference as to which side of the engine the exhaust is on, place it on that side during the following step.
+Oil the bore of the cylinder.  Slide the cylinder onto the piston and seat it on the cylinder mount.  Rotate the cylinder so the port face is to one side of the cylinder mount and secure the cylinder to the cylinder mount with six 2-56 x 3/16” fillister head screws.
+Check that there are no burrs inside the steam chest.  Insert the valve rod assembly threaded end through the hole in either end of the chest from the INSIDE of the chest. Slide it all the way in.  The valve driver will barely fit past the opposite end of the chest.  Slide the rod back through the hole in the opposite end of  the chest.
+Slide an oiled 1/16” ID “O” ring on each end of the valve rod.  Press them into the recess on each end of the valve chest.  Check the “O” ring retainers for an easy fit on the valve rod. Open them up with a #52 or #51 drill bit if necessary.  Remove any burrs. Slide a retainer on each end of the rod and secure them to the steam chest with 0-80 x 1/8” fillister head machine screws.  Slide the rod to make sure there are no binds. Thread the 0-80 nut on the end of the rod.
+Lightly oil the port face of the cylinder.  Set the valve on the port face with the valve recess next to the cylinder.  Orient the steam chest so the steam inlet is on the opposite side of the cylinder steam exhaust and the long end of the valve rod extends beyond the cylinder mount. Place the steam chest cover over the port face with the valve driver engaging the valve in the wide slot and the valve rod passing through the narrow slot. Temporarily secure the steam chest to the cylinder with two 2-56 x 7/16” pan head machine screws. These screws may not seat as the chest cover is not installed yet.
+Place the cylinder assembly on top of the standards and secure with four 2-56 x 3/16” pan head machine screws. Adjust the standards as before to make sure the scotch yoke guide is free.  Tighten the mounting screws.  Position the crankshaft to move the scotch yoke guide nearest the base.
+
+
+
+
+ASSEMBLY
+Construction is broken into several sub-assemblies. The first is the base-crankshaft. Then the valve gear is partially assembled on the columns in two groups, front and rear. These are then attached to the base-crankshaft assembly. Last the cylinder assembly is built and attached to the other two sections. At this point the valve gear is adjusted and the remaining details are finished up.
+
+BASE / CRANKSHAFT
+Start the assembly by placing a (51006) brass washer on each end of the (53169) crankshaft.
+Place a (40050) ball bearing on each end of the (53169) crankshaft and slide them all the way against the center of the (53169) crankshaft.
+Insert a BUSHING (54040) through the hole in the flat portion of each eccentric strap from the side opposite the flat side. Holding the bushings in place, file the small ends flush with the flat side of the eccentric straps. As it will be some time before assembly holds these bushings in place, temporarily use a (10212) 0-80 x 3/16” pan head screw (10212) and a (10000) 0-80 nut to hold them in place.
+Install a setscrew (12608) in each eccentric. Place a drop of oil on each eccentric where it will fit into the eccentric strap. Slide each eccentric into the flat side of an eccentric strap. Position the setscrew towards the arm of the eccentric strap. Slide an eccentric assembly on each end of the crankshaft with the hub of the eccentric to the outside of the engine. Do not tighten the eccentric set screws.
+Place a (40050) Ball Bearing on each end of the crankshaft and center it over the outer bearing supports on the base. Place this entire crankshaft assembly on the base. The eccentrics will be between the bearing supports on the (53177) base.
+Install a (53175) inner bearing mounting cap on each inner bearing and secure with (12420) 2-56 x 5/16” fillister head screws from the bottom side of the (53177) base. NOTE: The inner bearing mounting caps have a flange on them to hold the bearing against the crankshaft.
+Install a (53176) outer bearing mounting cap on each outer bearing. Make sure the bearing is still centered over the bearing support on the base. Secure with (12420) 2-56 x 5/16” fillister head screws from the bottom side of the (53177) base.
+Now set this assembly aside and let's move on to the next assembly.
+
+VALVE GEAR ASSEMBLIES
+Build the two valve gear assemblies at the same time. They are identical except that they are mirror images of each other. Only the front assembly will be detailed with notes for the rear assembly. Photo 2 shows the two assemblies with the front assembly on the left and the rear assembly on the right.
+Clean and remove burrs on the columns (53073), bellcranks (53074), offset links (53087), 2 hole links (53088), and Bellcrank mount bushings (54104).
+The bellcranks have the remains of three small tabs used to support the part during machining. These are on the outside edges of the parts. File these tabs off and then take a few extra strokes to remove the machining cutter marks on these edges. File lengthwise on these edges. Although not necessary for operation, the flat faces of these parts can be improved by filing. If you plan to polish these parts, wait a little while, as two screws need to be filed off flush during assembly. Then you can disassemble that part, polish the bellcranks, and reassemble.
+One end of the short links will also have a small tab that must be filed off. If you get a little flat on this end when filing, you can hide that end in slot of the fork a little later.
+Insert a bellcrank mount bushing into the side of a column. File the small protruding end of the bushing flush by placing the file on a flat surface and slide the assembly over the file while pressing on the bushing. Repeat for the rear assembly.
+The short end of each column goes toward the top of the engine. Insert a 2-56 x 1/2” pan head screw through the bushing from the small diameter end of the bushing. Thread the screw into a bellcrank. The bellcrank is spaced away from the column by the large end of the bushing. Repeat for the second column but place the bellcrank in a mirror image position. Rotate the bellcranks so the long arm is perpendicular to the column and the short end is toward the top of the column. Facing the bellcrank side of the assemblies, the front assembly will have the arms of the bellcrank to the right of the column and the rear assembly will have the arms to the left.
+Place the offset links on a flat surface so the long end lays flat on the surface. The short end will not touch the surface. Insert a BUSHING (54040) in the hole in the long end of each link. File the bushings flush on the other side. Insert a 0-80 X 3/16” pan head screw through the small end of each bushing. Thread the screw into the short arm of the bellcrank from the side of the bellcrank nearest the column. Repeat for the other assembly.
+[OPTIONAL] The two screw ends that protrude from the bellcrank look much better if they are filed flush with the bellcrank. After filing these screws flush, the screws may be removed and the bellcrank polished.
+Then reassemble.
+Insert a Bushing (54040) in one end of each of the short 2 hole links. If one end of the link is distorted from filing the tab, insert the bushing in the best looking end. The other end will be hidden during final assembly. File the protruding small end of the bushing flush with the link. Insert a 0-80 X 1/8” pan head in the small end of the bushing and attach to the long arm of the bellcrank on the side away the column. Repeat for the second assembly.
+
+BUILDING UPWARD
+The photo shows how to tie together everything we have done so far plus add a few more pieces.
+Attach the 2 valve gear assemblies just completed to the right side of the crankshaft-base assembly. The right side is the side that has the extra hole near the center of the crankshaft assembly. Facing the right side, the front valve gear assembly goes to your right. Attach the columns to the base using 2-56 X 1/4 pan head screws. Make sure the long ends of the columns are next to the base. The linkage is to the ends of the engine, approximately in line with the eccentrics. As you tighten the screws, lay a straight edge between the two columns along the flat edges of the columns. Adjust the columns rotation so the straight edge touches all along both the flats on the columns.
+Remove the screws used to hold the bushings in the eccentric straps. Position the bellcrank so the long end is horizontal and over the eccentric. The short end should be towards the top of the engine. Place a 0-80 X 1/8 screw through the bushing in the eccentric strap from the flat side of the strap and thread it into the tapped hole on the offset link and tighten. Slide the eccentric towards the center of the engine. View the assembly from the top of the engine. The bellcrank should be parallel to the long end of the offset link and have a uniform space between them. If not, slightly adjust the rotation of the column. Repeat for the other end of the engine. All the linkages should move freely at this point.
+Clean, remove burrs, and polish the male t-slot slides (53084), the female t-slot slide assemblies (A2014), and the reverse linkage connector. Put a drop of oil in each of the female t-slot slides. Slide a male slide into each female slide assembly to check for fit. Please note that the male slides are NOT square. The narrow dimension only will fit in the female slide assembly. These will be a close fit. Do not file the slides unless absolutely necessary to fit them together. Remove the male slides. Insert the male slides in the end holes of the eccentric straps with the flat faces of the slides facing each other. Secure the male slides to the eccentric straps with 0-80 X 1/8 pan head screws.
+Insert 3 setscrews (12608) in the tapped holes on the reverse linkage connector.
+Attach the columns to the left side of the base using 2-56 x 1/4 inch screws aligning them in the same way you aligned the other columns. You should be able to see through both holes at the same time.
+Rotate the eccentric straps so they are vertical with the “U” on the bellcranks facing upward. With the connector between the columns, insert a female slide assembly through each column and into the ends of the connector block
+Now comes the tricky part. I had you insert the male slides in the female part earlier so you know they really do fit.
+Rotate a female slide about 30 degrees so that it's opening is towards a point over the crankshaft at the top of the engine. Move the male slide into position over the end of the female slide by rotating the eccentric strap. Guide the male slide into the female slide and rotate the female slide so the slide part is vertical and the male slide is fully engaged. Repeat for the other set of guides.
+Before setting this assembly aside, install the connecting rod assemblies (A2009) onto the crankshaft assembly. Do this one at a time so the parts of the two connecting rods do not get mixed up.
+Before removing the connecting rod bearing cap from the connecting rod, mark one side of the rod and bearing cap with a marker or pencil so you know which way to reinstall the cap on the rod. A small scratch will also work and will be permanent for future use if necessary. The rod and cap have had the bearing surface machined at the same time so everything will match properly. If the caps are mixed up on the rods, there is a fair chance that one of the rods will fit tight on the crankpin.
+Rotate the crankshaft so one of the crankpins is at the bottom of the engine.
+Remove the connecting rod cap from the connecting rod by loosening the two screws holding the cap on. Leave the screws in the cap. Put a drop of oil on the bearing surface of the connecting rod.
+From the top of the engine, slide the connecting rod between the crankwebs onto the crankpin that is at the bottom of the engine.
+While holding the connecting rod in place, turn the engine over and place the bearing cap with screws on the connecting rod and tighten the screws. Pay attention to the alignment marks that you made on the two parts. The connecting rod will probably be slightly tight on the crankpin, but should move easily with finger pressure.
+Repeat the procedure with the other connecting rod.
+Now set this assembly aside and smile. It's starting to look like an engine.
+
+THE CYLINDER GROUP
+In this assembly section a number of parts will require lapping as described in the general procedures. I prefer to lap all the parts at the same time and then clean and oil them before beginning assembly.
+Check the paragraph on gaskets and gasketing materials in the general notes. For most builders, gaskets or gasketing materials will not be necessary if lapping is done carefully. However laser cut gaskets are included.
+The areas that require lapping are:
+Both ends of each cylinder.
+The cylinder port face on each cylinder.
+The steam chest faces that contact the cylinder and chest cover.
+The side of the steam chests that mount the steam manifold.
+One side of the steam chest covers.
+One side of the cylinder covers.
+The side of the cylinder mount that does not have a seal recess.
+The flanges of the manifolds.
+The steam valve face with the rectangular recess.
+Using a corner of the abrasive paper, remove any burrs that are around the exhaust holes on the side of the cylinder.
+After lapping, clean everything to remove all traces of abrasive compound. This will require more than wiping with a cloth. The parts must be cleaned with either solvent or hot water with a detergent added.
+Be sure to flush out the steam passages in the cylinders.
+Remove any burrs from the piston-piston rod assembly (A2001). Put a drop of oil in the groove on each piston. Slide the 3/8 ID O-Ring (40012) over the piston and into the groove. Place a drop of oil on each O-Ring and rotate the piston to coat the O-Ring with oil.
+Hold the cylinder (53004) with the valve port face towards you and the exhaust opening to your left. Slide the piston into the cylinder with the piston rod down. This is the front cylinder set.
+Install the piston in the other cylinder in the same way except the exhaust opening must be to your right. This is the rear cylinder set.
+Hold the cylinder mount (53071) with side containing the seal recesses away from you. Rotate the mount so the edge with three holes is down. Insert the piston rod for the front cylinder in the center hole of the right set of holes and position the cylinder so the flat port face is to your right. Secure the cylinder to the cylinder mount with two 2-56 X 1/4 pan head screws (12216). Install these two screws in the holes that are rotated 90 degrees from the 0-80 tapped holes in the cylinder mount.
+Check the assembly. The exhaust outlet on the side of the cylinder must be towards the edge of the cylinder mount that has 3 holes.
+Mount the second cylinder in the same manner. When mounted, both cylinders will have the exhaust outlets on the same side.
+Slide a 1/8 ID O-Ring (40006) over each piston rod and press it into the seal recess on the cylinder mount. Be careful going over the threads of the piston rod so the threads don't damage the O-Ring.
+Slide a 1/8 ID seal retainer (51008) over each piston rod and secure each to the cylinder mount with two 0-80 X 1/8 fillister head screws (10408).
+Thread a 5-40 X 0.047 nut (53023) on each piston rod. Position it about the middle of the threaded part of each piston rod. It will be adjusted later.
+Inspect each crosshead (53062) and crosshead guide (53061) and remove any burrs. Check by test fitting the crossheads in the guides.
+Remove the crossheads from the guides.
+Install a crosshead on each connecting rod. Thread each crosshead on about 2 to 3 turns and adjust the crossheads so the threaded 2-56 hole in each of them faces the middle of the assembly (the holes will face each other).
+Slide a crosshead guide over each crosshead so the two notches in the guide fit over the two screws holding the cylinder mount to the cylinder. Secure each crosshead guide using four 2-56 X 5/16 pan head screws (12220). Put a drop of oil on each side of the crosshead guide where it touches the crosshead.
+A retaining compound is used to locate the valve driver on the valve spindle on the valve spindle assembly (A2004). There may a small amount of this retaining compound at each end of the valve driver. If so, scrape it off with a knife or screwdriver blade.
+Test fit the valve driver in the valve (53103) slot. It should be a free easy fit, but with very little play. If it is tight, file the inside of the valve slot until it is an easy fit.
+Slide the threaded end of the valve spindle assembly (A2004) through one of the end holes in the steam chest (53007) from the INSIDE of the steam chest until the not threaded end of the spindle fits inside the steam chest. Then slide the not threaded end through the end hole in the other end of the steam chest.
+Place a drop of oil on each end of the valve spindle rod. Install a 1/16 ID O-Ring (40003) on each end of the valve spindle rod using care not to damage the O-Ring when sliding over the threaded portion of the rod.
+Secure each O-Ring in place with a 1/16” hole seal retainer (51007) and two 0-80 X 1/8 fillister head screws (10408).
+Place the steam chest assembly on your left on the port face of the front cylinder with the threaded end of the valve spindle at the crosshead end of the cylinder. The rectangular cavity of the valve must touch the port face of the cylinder. The steam inlet on the steam chest must be on the opposite side of the cylinder from the exhaust outlet in the cylinder. If not, you probably have the steam chest on the rear cylinder. Temporarily hold the steam chest to the cylinder using two 2-56 x 7/16 pan head screws (12228). Gently tighten these screws. If tightened firmly, they will damage the lapped surface of the steam chest and may cause a steam leak later.
+Install the other steam chest assembly on the rear cylinder in the same manner.
+Thread a 0-80 nut (10000) to the middle of the threaded portion of each valve spindle. Thread the tapered end of a fork (53089) on each valve spindle approximately 6 turns. Position the fork so the 0-80 tapped hole in the side of the fork that faces the crosshead guide.
+
+FINAL ASSEMBLY AND ADJUSTMENT
+Now it will really become an engine. It is time to tie everything together, make all the adjustments, and finish up the engine.
+Place the base assembly with the front to your right. The coupler for the valve gear should be away from you. Notice the hole in the base on the side nearest you near the center of the crankshaft assembly. With the crosshead guides down, rotate the cylinder assembly so the side with the hole near the middle is nearest you.
+
+
+
+ASSEMBLY
+Construction is broken into several sub-assemblies. The first is the base-crankshaft. Then the valve gear is partially assembled on the columns in two groups, front and rear. These are then attached to the base-crankshaft assembly. Last the cylinder assembly is built and attached to the other two sections. At this point the valve gear is adjusted and the remaining details are finished up.
+
+BASE-CRANKSHAFT ASSEMBLY
+Clean and remove and burrs on the BASE (53070), BEARINGS (53083), CRANKSHAFT ASSEMBLY (A2007), ECCENTRICS (53076), and ECCENTRIC STRAPS (53075).  Polish any parts if desired.
+Slide a 3/16” x 5/16” x 0.015” WASHER (51006) on each end of the crankshaft assembly. Place a drop of oil on each end of the crankshaft and then slide a bearing on each end of the crankshaft. Slide each bearing back and forth to distribute the oil. Slide the bearings and washers against the crankwebs of the crankshaft assembly.
+Place the base on a flat surface with the rounded edges of the base up. Set the crankshaft assembly so the crankwebs set in the opening in the center of the base. Secure the assembly to the base using four 2-56 x 1/4 pan head screws (12216). Do not tighten. Place the two outer bearings on the crankshaft and secure with four more 2-56 X 1/4 screws. Tighten the 8 screws a little at a time while rotating the crankshaft to check for binding. Adjust the bearings so the crankshaft turns with a minimum of binding. Minor binding will not cause any problems, as the bearings will seat in after a short period of running.
+Mark the outer bearing as to position and which end they are on and remove them.
+Insert a BUSHING (54040) through the hole in the flat portion of each eccentric strap from the side opposite the flat side. Holding the bushings in place, file the small ends flush with the flat side of the eccentric straps. As it will be some time before assembly holds these bushings in place, temporarily use a 0-80 x 3/16 pan head screw (10212) and a 0-80 nut to hold them in place.
+Install a setscrew (12608) in each eccentric. Place a drop of oil on each eccentric where it will fit into the eccentric strap. Slide each eccentric into the flat side of an eccentric strap. Position the setscrew towards the arm of the eccentric strap. Slide an eccentric assembly on each end of the crankshaft with the hub of the eccentric to the outside of the engine. Do not tighten the eccentric set screws. Replace the outer bearings in the same position that you removed them. Tighten the bearing screws and check the crankshaft for binding.
+Your base-crankshaft assembly should look like the photo on the previous page at this point. Set this assembly aside and start on the next assemblies.
+
+VALVE GEAR ASSEMBLIES
+Build the two valve gear assemblies at the same time. They are identical except that they are mirror images of each other. Only the front assembly will be detailed with notes for the rear assembly. Photo 2 shows the two assemblies with the front assembly on the left and the rear assembly on the right.
+Clean and remove burrs on the columns (53073), bellcranks (53074), offset links (53087), 2 hole links (53088), and Bellcrank mount bushings (54104).
+The bellcranks have the remains of three small tabs used to support the part during machining. These are on the outside edges of the parts. File these tabs off and then take a few extra strokes to remove the machining cutter marks on these edges. File lengthwise on these edges. Although not necessary for operation, the flat faces of these parts can be improved by filing. If you plan to polish these parts, wait a little while, as two screws need to be filed off flush during assembly. Then you can disassemble that part, polish the bellcranks, and reassemble.
+One end of the short links will also have a small tab that must be filed off. If you get a little flat on this end when filing, you can hide that end in slot of the fork a little later.
+Insert a bellcrank mount bushing into the side of a column. File the small protruding end of the bushing flush by placing the file on a flat surface and slide the assembly over the file while pressing on the bushing. Repeat for the rear assembly.
+The short end of each column goes toward the top of the engine. Insert a 2-56 x ½” pan head screw through the bushing from the small diameter end of the bushing. Thread the screw into a bellcrank. The bellcrank is spaced away from the column by the large end of the bushing. Repeat for the second column but place the bellcrank in a mirror image position. Rotate the bellcranks so the long arm is perpendicular to the column and the short end is toward the top of the column. Facing the bellcrank side of the assemblies, the front assembly will have the arms of the bellcrank to the right of the column and the rear assembly will have the arms to the left.
+Place the offset links on a flat surface so the long end lays flat on the surface. The short end will not touch the surface. Insert a BUSHING (54040) in the hole in the long end of each link. File the bushings flush on the other side. Insert a 0-80 X 3/16” pan head screw through the small end of each bushing. Thread the screw into the short arm of the bellcrank from the side of the bellcrank nearest the column. Repeat for the other assembly.
+[OPTIONAL] The two screw ends that protrude from the bellcrank look much better if they are filed flush with the bellcrank. After filing these screws flush, the screws may be removed and the bellcrank polished. Then reassemble.
+Insert a Bushing (54040) in one end of each of the short 2 hole links. If one end of the link is distorted from filing the tab, insert the bushing in the best looking end. The other end will be hidden during final assembly. File the protruding small end of the bushing flush with the link. Insert a 0-80 X 1/8” pan head in the small end of the bushing and attach to the long arm of the bellcrank on the side away the column. Repeat for the second assembly.
+
+BUILDING UPWARD
+The photo above shows how to tie together everything we have done so far plus add a few more pieces.
+Attach the 2 valve gear assemblies just completed to the right side of the crankshaft-base assembly. The right side is the side that has the extra hole near the center of the crankshaft assembly. Facing the right side, the front valve gear assembly goes to your right. Attach the columns to the base using 2-56 X 1/4 pan head screws. Make sure the long ends of the columns are next to the base. The linkage is to the ends of the engine, approximately in line with the eccentrics. As you tighten the screws, lay a straight edge between the two columns along the flat edges of the columns. Adjust the columns rotation so the straight edge touches all along both the flats on the columns.
+Remove the screws used to hold the bushings in the eccentric straps. Position the bellcrank so the long end is horizontal and over the eccentric. The short end should be towards the top of the engine. Place a 0-80 X 1/8 screw through the bushing in the eccentric strap from the flat side of the strap and thread it into the tapped hole on the offset link and tighten. Slide the eccentric towards the center of the engine. View the assembly from the top of the engine. The bellcrank should be parallel to the long end of the offset link and have a uniform space between them. If not, slightly adjust the rotation of the column. Repeat for the other end of the engine. All the linkages should move freely at this point.
+Clean, remove burrs, and polish the male t-slot slides (53084), the female t-slot slide assemblies (A2014), and the reverse linkage connector. Put a drop of oil in each of the female t-slot slides. Slide a male slide into each female slide assembly to check for fit. Please note that the male slides are NOT square. The narrow dimension only will fit in the female slide assembly. These will be a close fit. Do not file the slides unless absolutely necessary to fit them together. Remove the male slides. Insert the male slides in the end holes of the eccentric straps with the flat faces of the slides facing each other. Secure the male slides to the eccentric straps with 0-80 X 1/8 pan head screws.
+Insert 3 setscrews (12608) in the tapped holes on the reverse linkage connector.
+Attach the columns to the left side of the base using 2-56 x 1/4 inch screws aligning them in the same way you aligned the other columns. You should be able to see through both holes at the same time.
+Rotate the eccentric straps so they are vertical with the “U” on the bellcranks facing upward. With the connector between the columns, insert a female slide assembly through each column and into the ends of the connector block
+Now comes the tricky part. I had you insert the male slides in the female part earlier so you know they really do fit. Rotate a female slide about 30 degrees so that it's opening is towards a point over the crankshaft at the top of the engine. Move the male slide into position over the end of the female slide by rotating the eccentric strap. Guide the male slide into the female slide and rotate the female slide so the slide part is vertical and the male slide is fully engaged. Repeat for the other set of guides.
+Before setting this assembly aside, install the connecting rod assemblies (A2009) onto the crankshaft assembly. Do this one at a time so the parts of the two connecting rods do not get mixed up.
+Before removing the connecting rod bearing cap from the connecting rod, mark one side of the rod and bearing cap with a marker or pencil so you know which way to reinstall the cap on the rod. A small scratch will also work and will be permanent for future use if necessary. The rod and cap have had the bearing surface machined at the same time so everything will match properly. If the caps are mixed up on the rods, there is a fair chance that one of the rods will fit tight on the crankpin.
+Rotate the crankshaft so one of the crankpins is at the bottom of the engine.
+Remove the connecting rod cap from the connecting rod by loosening the two screws holding the cap on. Leave the screws in the cap. Put a drop of oil on the bearing surface of the connecting rod.
+From the top of the engine, slide the connecting rod between the crankwebs onto the crankpin that is at the bottom of the engine.
+While holding the connecting rod in place, turn the engine over and place the bearing cap with screws on the connecting rod and tighten the screws. Pay attention to the alignment marks that you made on the two parts. The connecting rod will probably be slightly tight on the crankpin, but should move easily with finger pressure.
+Repeat the procedure with the other connecting rod.
+Now set this assembly aside and smile. It's starting to look like an engine.
+
+THE CYLINDER GROUP
+In this assembly section a number of parts will require lapping as described in the general procedures. I prefer to lap all the parts at the same time and then clean and oil them before beginning assembly.
+Check the paragraph on gaskets and gasketing materials in the general notes. For most builders, gaskets or gasketing materials will not be necessary if lapping is done carefully. However laser cut gaskets are included.
+The areas that require lapping are:
+1.	Both ends of each cylinder.
+2.	The cylinder port face on each cylinder.
+3.	The steam chest faces that contact the cylinder and chest cover.
+4.	The side of the steam chests that mount the steam manifold.
+5.	One side of the steam chest covers.
+6.	One side of the cylinder covers.
+7.	The side of the cylinder mount that does not have a seal recess.
+8.	The flanges of the manifolds.
+9.	The steam valve face with the rectangular recess.
+Using a corner of the abrasive paper, remove any burrs that are around the exhaust holes on the side of the cylinder.
+After lapping, clean everything to remove all traces of abrasive compound. This will require more than wiping with a cloth. The parts must be cleaned with either solvent or hot water with a detergent added. Be sure to flush out the steam passages in the cylinders.
+Remove any burrs from the piston-piston rod assembly (A2001). Put a drop of oil in the groove on each piston. Slide the 3/8 ID O-Ring (40012) over the piston and into the groove. Place a drop of oil on each O-Ring and rotate the piston to coat the O-Ring with oil.
+Hold the cylinder (53004) with the valve port face towards you and the exhaust opening to your left. Slide the piston into the cylinder with the piston rod down. This is the front cylinder set.
+Install the piston in the other cylinder in the same way except the exhaust opening must be to your right. This is the rear cylinder set.
+Hold the cylinder mount (53071) with side containing the seal recesses away from you. Rotate the mount so the edge with three holes is down. Insert the piston rod for the front cylinder in the center hole of the right set of holes and position the cylinder so the flat port face is to your right. Secure the cylinder to the cylinder mount with two 2-56 X 1/4 pan head screws (12216). Install these two screws in the holes that are rotated 90 degrees from the 0-80 tapped holes in the cylinder mount.
+Check the assembly. The exhaust outlet on the side of the cylinder must be towards the edge of the cylinder mount that has 3 holes.
+Mount the second cylinder in the same manner. When mounted, both cylinders will have the exhaust outlets on the same side.
+Slide a 1/8 ID O-Ring (40006) over each piston rod and press it into the seal recess on the cylinder mount. Be careful going over the threads of the piston rod so the threads don't damage the O-Ring.
+Slide a 1/8 ID seal retainer (51008) over each piston rod and secure each to the cylinder mount with two 0-80 X 1/8 fillister head screws (10408).
+Thread a 5-40 X 0.047 nut (53023) on each piston rod. Position it about the middle of the threaded part of each piston rod. It will be adjusted later.
+Inspect each crosshead (53062) and crosshead guide (53061) and remove any burrs. Check by test fitting the crossheads in the guides. Remove the crossheads from the guides.
+Install a crosshead on each connecting rod. Thread each crosshead on about 2 to 3 turns and adjust the crossheads so the threaded 2-56 hole in each of them faces the middle of the assembly (the holes will face each other).
+Slide a crosshead guide over each crosshead so the two notches in the guide fit over the two screws holding the cylinder mount to the cylinder. Secure each crosshead guide using four 2-56 X 5/16 pan head screws (12220). Put a drop of oil on each side of the crosshead guide where it touches the crosshead.
+A retaining compound is used to locate the valve driver on the valve spindle on the valve spindle assembly (A2004). There may a small amount of this retaining compound at each end of the valve driver. If so, scrape it off with a knife or screwdriver blade.
+Test fit the valve driver in the valve (53103) slot. It should be a free easy fit, but with very little play. If it is tight, file the inside of the valve slot until it is an easy fit.
+Slide the threaded end of the valve spindle assembly (A2004) through one of the end holes in the steam chest (53007) from the INSIDE of the steam chest until the not threaded end of the spindle fits inside the steam chest. Then slide the not threaded end through the end hole in the other end of the steam chest.
+Place a drop of oil on each end of the valve spindle rod. Install a 1/16 ID O-Ring (40003) on each end of the valve spindle rod using care not to damage the O-Ring when sliding over the threaded portion of the rod.
+Secure each O-Ring in place with a 1/16” hole seal retainer (51007) and two 0-80 X 1/8 fillister head screws (10408).
+Repeat for the second set of valve chest parts.
+Center the valve driver in each of the steam chests. Set the steam chests next to each other with the threaded end of the valve spindle facing you and the two steam inlets facing each other. Place a valve on each spindle.
+Place a drop of oil on the port face of each of the cylinders between the steam port openings.
+Place the steam chest assembly on your left on the port face of the front cylinder with the threaded end of the valve spindle at the crosshead end of the cylinder. The rectangular cavity of the valve must touch the port face of the cylinder. The steam inlet on the steam chest must be on the opposite side of the cylinder from the exhaust outlet in the cylinder. If not, you probably have the steam chest on the rear cylinder. Temporarily hold the steam chest to the cylinder using two 2-56 x 7/16 pan head screws (12228). Gently tighten these screws. If tightened firmly, they will damage the lapped surface of the steam chest and may cause a steam leak later.
+Install the other steam chest assembly on the rear cylinder in the same manner.
+Thread a 0-80 nut (10000) to the middle of the threaded portion of each valve spindle. Thread the tapered end of a fork (53089) on each valve spindle approximately 6 turns. Position the fork so the 0-80 tapped hole in the side of the fork that faces the crosshead guide.
+
+
+
+ASSEMBLY
+Inspect the PISTON - PISTION ROD assembly (A2001) for burrs or sharp edges on the piston and remove if necessary.
+Lightly oil the piston groove. Slide the 3/8” ID O-RING (40012) over the piston and into the piston groove. Put a drop of oil on the o-ring.
+Hold the cylinder (53004) with the valve port face towards you and the exhaust opening to the left. Slide the piston into the cylinder with the piston rod down. If you want the exhaust on the other side, now is the time to change it. See OPTIONS.
+Turn the cylinder over so the piston rod is pointing up. Place the round gasket with the hole in the middle on the cylinder, aligning the screw holes. Place a drop of oil on the gasket to keep it from moving. Slide the cylinder mount (53009) over the piston rod so the lapped side is next to the cylinder and the long dimension of the mount is perpendicular to the cylinder valve port face.
+Secure the mount to the cylinder with (2) 2-56 x 1/4” (12216) pan head screws. These screws go into the holes towards the flat ends of the cylinder mount.
+Slide the 1/8” ID O-RING (40006) over the piston rod. Be careful going over the threads on the piston rod so the threads do not damage the o-ring. Press the o-ring into the counterbore on the cylinder mount.
+Slide the 1/8” SEAL RETAINER (51008) over the piston rod. Secure it to the cylinder mount with (2) 0-80 x 1/8” fillister head screws (10408).
+Check the CROSSHEAD (53062) and CROSSHEAD GUIDE (53061) for burrs and remove if necessary. Check the fit of the crosshead in the guide Remove the crosshead from the crosshead guide.
+Install the 5-40 special nut (53023) on the end of the piston rod. Thread it almost all the way up.
+Install the crosshead on the piston rod. Thread it about 3 turns on the piston rod. Turn the crosshead so the flat side with the threaded hole faces the valve port face on the cylinder.
+Slide the crosshead guide (53061) over the crosshead and secure with (4) 2-56 x 5/16” (12220) pan head screws.
+Slide the threaded end of the valve spindle assembly (A2004) through one of the end holes in the steam chest (53007) from the inside of the steam chest until the unthreaded end of the spindle fits inside the steam chest. Then slide the unthreaded end through the other end of the steam chest.
+Install a 1/16” ID O-ring (40003) on each end of the valve spindle rod using care not to damage the o-ring when sliding over the spindle threads. Use a little oil on each o-ring.
+Secure each o-ring in place with a 1/16” hole seal retainer (51007) using 0-80 x 1/8” fillister head (10408) screws. Thread a 0-80 nut (10000) on the end of the spindle.
+Check the fit of the valve on the valve spindle. It must be a free easy fit with the drive sleeve on the valve spindle fitting in the slot of the valve. If not, open up the slot in the valve with a small file.
+Set the valve on the steam chest so it covers all the ports.
+Place the rectangular gasket with the cutout in the middle on the cylinder face. Align the screw holes and place a drop of oil to hold the gasket in place.
+Install the steam chest on the cylinder with the intake hole facing away from the exhaust hole on the cylinder and the valve rod facing the same direction as the piston rod. The drive sleeve of the valve spindle must engage the valve slot. Temporarily secure the chest to the cylinder with (2) 2-56 x 7/16” pan head screws (12228). Only SNUG these screws so as to not damage the lapped surface on the steam chest. These screws will be removed to install the steam chest cover later after the valve has been adjusted.
+This ends the cylinder sub-assembly.
+
+ECCENTRIC SUB-ASSEMBLY
+Set the curved link (53051) on a flat surface with the 3 tapped holes nearest you. Insert a 0-80 x 1/8” pan head screw (10208) into a 54020 bushing from the large end of the bushing. Insert the bushing into the small hole in an eccentric strap assembly (A2006) and screw it to the right end of the curved link. You will notice that the eccentric strap has a brass insert. Install the eccentric strap so that the side where the brass insert sticks out farther is facing down. The strap should extend towards you. Turn the curved link over and repeat with the other eccentric strap. The two straps will be attached at opposite ends of the curved link and on opposite sides of the link.
+Start a 2-56 x 3/32” set screw (12606) in the hub of the eccentic with hub (53040). Set the eccentric on a flat surface with the hub down. Place the bottom eccentric strap over the eccentric.
+Insert the eccentric without hub (53041) into the other eccentric strap from the top. Turn the assembly over. Connect the two eccentrics with a 0-80 x 1/4” pan head screw (10216) but do NOT tighten.
+Line up the 3/16” holes in the two eccentrics and slide the crankshaft (A2010) through the holes to maintain alignment. Tighten the screw holding the two eccentrics together. Remove the crankshaft.
+Remove any burrs on links 53046, 53049 and 53051 by rubbing them onto the flat face of a file.
+Set the assembly on a flat surface with the hub facing up. Insert a 0-80 x 1/8” pan head screw (10208) through a 54003 bushing from the large end of the bushing. Insert the bushing and screw in one end of a 53046 link and attach to the curved link in the center hole.
+Turn the assembly over. Insert bushing 54008) in one end of the other 53046 link. Insert a 0-80 x 3/16” pan head screw (10212) in the bushing from the link side and secure to the center hole of the curved link.
+Set the assembly on a flat surface with the hub facing down and the eccentric strap big ends towards you. Adjust the two 53046 links to the right side. Screw handle (53048) into the side of the reversing lever (53047).
+Insert the double ended bushing (54101) between the 53046 links engaging the two holes in the ends of the links. Insert a 0-80 x 3/8” pan head screw (10224) through the bushing. Place the reversing lever under the bottom link with the flat side up and secure the linkage to the reversing lever with the 0-80 screw.
+This finishes the eccentric sub-assembly.
+
+PARALLEL MOTION LINKAGE
+Insert a 54003 BUSHING in the center hole of LINK 53050. Insert a 0-80 x 3/16” pan head screw (10212) in the bushing from the opposite side of the link that the bushing was inserted from. Insert the screw into the small hole in LINK (53049) and secure with a 0-80 NUT (10000).
+Attach the linkage just assembled to the VALVE DRIVE BLOCK (A2005) by sliding the remaining ROUND hole in link 53050 over the short end of the pin extending from the valve drive block. The long link must be away from the valve drive block. Secure with a 0-80 x 1/8” pan head screw.
+Screw the valve drive block to the valve spindle on the cylinder sub-assembly about 3 turns. Make sure you installed a 0-80 nut on the valve spindle before the previous step. Position the cylinder assembly so the steam chest is nearest you and the crosshead guide is down. Rotate the valve drive block so the links are nearest the crosshead guide. Position the links so the elongated hole in link 53050 is to your right and the long link is to your left.
+
+FINAL ASSEMBLY
+Remove any burrs from the standards (53053 and 53055). Attach the standards to the base (A2026) using (4) 2-56 x 5/16” pan head screws (12220). The bearing blocks on the base are at the front of the engine. With the bearing blocks away from you, standard 53053 (the standard with two 0-80 holes in it) will be on your left and the 0-80 tapped holes will be towards the bearing block end.
+Insert a 54003 bushing into the elongated hole in link 53050 from the side of the link nearest the 53053 standard. Secure the link and bushing to the standard with a 0-80 x 1/8” pan head screw. Insert a 54003 bushing into the 53049 link from the side of the link away from the standard and secure to the upper hole in the 53055 standard using a 0-80 x 1/8” pan head screw (10208).
+Position the eccentric assembly so the hub faces the steam chest and the curved link is up. Slide the eccentrics between the bearing blocks and engage the pin on the valve drive block into the curved slot.
+Slide the 51006 washer on the crankshaft. Slide the crankshaft through the inside bearing (between the standards), the eccentrics and the outer bearing.
+Insert bushing 51003 in the reversing lever and secure to the standard with a 0-80 x 3/16” pan head screw (10212). Make sure the lugs on the reversing lever fit on either side of the standard.
