@@ -1,0 +1,291 @@
+DISASSEMBLY AND BENCH CHECKS
+TEST EQUIPMENT NEEDED : 
+Multimeter
+Regulator Tester
+
+ALTERNATOR
+NOTICE : On some alternators on certain engine configurations , a 1 . 5 µ f capacitor has been installed to the output terminal and attached with a cover screw . Remove the capacitor ( DRA 1985444 ) before performing " Regulatror Quick Check . " . 
+Remove screws ( 216 ) and rectifier end plate ( 15 ) to expose electronics compartment . ( See Fig . 12 ) . 
+Inspect electronics compartment for contamination , for shorted or grounded wires , and for loose connections . If contamination is present , clean and dry compartment before proceeding . The protective coating on all electronic components is a good insulator and must be scraped off to get a good contact for test equipment probes . 
+
+FIELD COIL
+Disconnect 2 field leads ( A ) from regulator ( 6 ) ( See Fig . 13 ) , by removing 2 insulated regulator attachment screws ( 217 ) . Use ohmmeter ( or voltmeter , ammeter and battery ) to check resistance of field coil . 
+Compare to Field Check ohms ( or volts and amps ) in Specifications at the end of this manual or from Service Specification Bulletin . If outside specifications , replace field coil as described later in this manual . 
+
+DIODE TRIO
+To check the diode trio ( 7 ) , remove it from the electronics compartment by detaching the 3 nuts ( 218 ) , stator leads ( B ) and attaching screw ( 217 ) . Note that the insulating washer on the screw is assembled over the top of the diode trio connector . Discard screw if insulation is fractured during removal . 
+
+CAPACITOR
+Remove capacitor ( 12 ) by removing the remaining two attachment screws ( 224 ) and screw ( 226 ) sliding out capacitor . ( A sharp tool may be used to break varnish seal . ) 
+Using continuity check mode ( diode check mode on digital meter ) , check for a shorted capacitor by touching ohmmeter leads to capacitor lead ( F ) and grounding tab ( T ) . ( See Fig . 15 ) This check should show an open circuit . 
+
+REGULATOR
+To remove regulator ( 6 ) for testing , remove sense lead nut ( 218 ) , bridge to regulator stud connector ( 219 ) and 2 screws ( 217 ) if not removed previously and screw ( 224 ) . Disconnect “ I ” terminal sense lead strap to allow regulator removal . ( See Fig . 16 ) Note : Discard insulated screw if insulation is fractured during removal . 
+Check regulator on approved tester for SI type regulators . If regulator tests good , return it to service . If it tests bad , replace it . Install regulator as described later in this section . 
+
+RECTIFIER BRIDGE
+Use the ohmmeter or ( for digital meters ) the diode check function of the multimeter to check the rectifier bridge ( 8 ) . Bridge may be checked in place in the RE housing ( 1 ) . 
+All terminals must be disconnected from the threaded phase studs . “ R ” terminal and output terminal straps ( 198 & 186 ) may be raised approximately one inch ( 2 . 5 cm ) above rectifier for removal of diode trio ( 7 ) or rectifier bridge ( 8 ) . 
+Check 6 diodes as follows : 
+Place negative ohmmeter lead on grounded heat sink . Touch positive ohmmeter lead firmly to metal diode clips that surround each of the 3 threaded studs . All 3 readings should be the same , and indicate open circuits . Switch leads and repeat . All 3 new readings should indicate continuity ( Fig . 17 ) 
+Repeat checks using insulated ( positive ) heat sink in place of grounded heat sink . With negative ohmmeter lead on insulated heat sink , all 3 readings should indicate continuity . Switch leads and repeat . All 3 new readings should indicate open circuits . 
+If all readings are correct , the rectifier bridge is good . 
+If any reading is wrong , an open or shorted diode is indicated and rectifier bridge should be replaced . To remove bridge , remove nut ( 218 ) , nut ( 199 ) and relay strap ( 198 ) from regulator stud ( 193 ) , two bridge attaching screws ( 226 ) , and insulated capacitor attaching screw ( 224 ) . Lift capacitor ( 12 ) and rectifier bridge ( 8 ) from SRE housing ( Fig . 18 ) . 
+
+STATOR
+Disconnect the 3 stator phase leads ( B ) from the diode bridge studs by removing 3 nuts ( 218 ) . Use continuity check function of ohmmeter to check stator windings . ( See Fig . 18 ) Place one meter lead on one of the stator phase lead connectors and check for continuity to each of the other two stator leads . There should be continuity to both . If not , one or more of the stator coils is open ; replace the stator as described later in this section . 
+To check for grounds , again touch one meter lead to one of the stator phase leads , and touch the other meter lead to clean metal ground on the alternator housing . There should not be continuity . If there is continuity , the stator is grounded and should be replaced as described later in this section . 
+It is not possible to detect shorted stator windings with ordinary shop equipment . However , if all other electrical checks are normal and the alternator has exhibited low output , shorted stator windings may be the cause . In such cases , replace the stator as described later in this section . 
+
+FINAL DISASSEMBLY
+NOTICE : Do not damage exposed stator or field windings . Bumping or scraping these windings may break the insulation and leave a place for a short circuit or ground to develop later , causing the alternator to fail . Protect the windings from damage by careful handling . 
+To replace the field coil ( 9 ) , stator assembly ( 11 ) , rotor assembly ( 10 ) , or drive end ( 5 ) or rectifier end bearings ( 2 ) , the drive end frame assembly must be separated from the rectifier end housing . ( Fig . 19 ) Use 5 / 16 " hex wrench or 5 / 16 " hex drive , in the end of the shaft , to hold while removing shaft nut ( 211 ) . Remove washer ( 212 ) , pulley ( 14 ) , and fan ( 13 ) . 
+Remove the 4 thru bolts ( 213 ) . Carefully separate the drive end housing ( 4 ) from the stator ( 11 ) and rectifier end housing ( 1 ) , taking care not to damage stator windings ( See Fig . 20 ) . 
+NOTICE : Rectifier bridge must be removed before removing stator . ( See Paragraph 7 and Fig . 18 ) To remove stator ( 11 ) from rectifier end housing ( 1 ) , be sure all 3 stator leads are disconnected from diode bridge studs in electronics compartment . Pry stator and housing apart carefully . Guide stator leads and grommet ( C ) through well as stator is pulled from housing . It may be necessary to push on grommet with a blunt instrument to unseat it from the housing ( See Fig . 21 ) . 
+To remove field coil and support ( 9 ) from rectifier end housing , ( See Fig . 22 ) remove 4 field coil and support attaching screws ( 221 ) . Lift coil and support from housing , while guiding field leads through hole . 
+To remove rectifier end bearing ( 2 ) from RE housing ( 1 ) , ( See Fig . 23 ) use small screwdriver at slot to pry plug ( 222 ) from housing . 
+
+NOTICE : Do not drive bearing out with hammer or other tool . Use arbor press to push bearing from housing . 
+Wipe excess grease from bearing well , then press bearing through to inside of housing . 
+
+If bearing inner race ( 3 ) appears to be worn or rough , remove from rotor shaft with a suitable puller . 
+To replace rotor ( 10 ) or drive end bearing ( 5 ) , ( See Fig . 24 ) remove 4 bearing retainer attachment screws ( 214 ) from outside of housing ( 4 ) . Lift rotor with bearing from housing , then pull bearing off of rotor shaft . If inside collar ( 215 ) appears rough or damaged , pull collar from shaft . 
+NOTICE : Do not drive mounting hinge bushing from lug on rectifier end housing with a hammer or other tool . Use arbor press or vise to remove and replace bushing . 
+To remove mounting hinge bushing ( 17 ) from lug on rectifier end housing ( 1 ) , Press bushing from housing using arbor press with suitable tool . 
+
+ALTERNATOR ASSEMBLY
+ASSEMBLY OF DE FRAME AND ROTOR
+
+INSTALL OR CONNECT
+Press inner race for rectifier end bearing ( 3 ) onto short end of rotor shaft . Stop when race is 3 . 7 mm ( . 15 in . ) above end of shaft ( See Fig . 25 ) . 
+Press inside collar ( 215 ) onto rotor shaft until collar is against shoulder on rotor ( 10 ) . Place retainer plate ( 16 ) onto collar ( flanged side of retainer will face away from rotor , toward bearing ) . Using open tube that bears only on inner race of bearing , press new DE bearing ( 5 ) onto rotor shaft until bearing is against collar . 
+Insert bearing ( 5 ) ( on rotor shaft ) into bearing well in drive end frame ( 4 ) . ( See Fig . 26 ) Bearing will be a snug fit , but should slip in easily when properly aligned . Lubricate outside of bearing very lightly with ball and roller bearing lubricant ( 1948791 ) if necessary to facilitate assembly . 
+Hold drive end assembly with long end of rotor shaft down so that bearing retainer plate ( 16 ) falls against housing , then align retainer with screw holes . ( See Fig . 26 ) Start each of the four retainer attaching screws ( 214 ) , then tighten screws gradually in sequence to pull retainer squarely against bearing . 
+
+TIGHTEN
+Bearing retainer attaching screws ( 214 ) to 5 N . m ( 45 lb . in . ) . 
+
+IMPORTANT
+To allow access for later installation of thru bolts ( 213 ) , do not assemble fan and pulley to drive end assembly at this time . 
+
+
+ASSEMBLY OF RECTIFIER END HOUSING AND COMPONENTS
+
+INSTALL OR CONNECT
+Lightly lubricate outside surface of hinge bushing ( 17 ) . Press hinge bushing into hole in lug on rectifier end housing ( 1 ) . Install bushing flush with inside of lug to allow maximum distance between two hinge lugs for mounting . Final position of hinge bushing will be adjusted during mounting ( See Fig . 27 ) . 
+Position new bearing ( 2 ) into rectifier end housing ( 1 ) with seal toward rotor assembly ( 10 ) as assembled . Press bearing outer race into housing center hole until flush with machined face inside housing . ( See Fig . 28 ) Push plug ( 222 ) into end of housing until outside edges are flush with edge of RE housing . 
+Add ball and roller bearing lubricant ( 1948791 ) until cavity between plug ( 222 ) and bearing outer race ( 2 ) is about half full , placing grease so that it touches the edge of the bearing outer race in several places around the outside of the bearing . Cover opening with tape to prevent contamination . 
+Turn leads so that they will be properly positioned after installation . ( See Fig . 29 ) Place field coil and support ( 9 ) into rectifier end housing ( 1 ) , guiding leads through hole into electronics compartment and aligning mounting holes in support with screw holes in rectifier housing . Ensure leads do not touch housing . Install 4 field coil and support attachment screws ( 221 ) ( 3 screws used in early production ) . 
+
+TIGHTEN
+Field coil and support attachment screws ( 217 ) to 6 . 2 N . m ( 55 lb . in . ) . 
+
+INSTALL OR CONNECT
+NOTICE : Handle stator with care to avoid bending windings or breaking varnish insulation on windings . If windings are damaged before or during installation , they may become shorted and cause reduced alternator output . Stator must be installed before rectifier . 
+Straighten stator leads ( B ) to ease installation . Lubricate grommet ( C ) on stator leads lightly with petroleum jelly . Welded junction connector on some stators must be positioned straight up from windings to prevent grounding to housing or rotor when alternator is assembled . Straighten stator lead wires all the way to the windings and insert through well in housing into electronics compartment ( See Fig . 30 ) . 
+Align thru - bolt holes in stator ( 11 ) with those in RE housing ( 1 ) . Push stator into housing far enough to hold it in place , being sure grommet ( C ) on wires is inserted into well in housing at the same time . Stator lead wires should be stiff enough to push grommet into well as stator is installed ( if not , carefully push on grommet with a blunt instrument to seat it in the well ) . The stator must be fully seated in housing at this time . Note : If necessary , place wood blocks on opposite corners of the stator frame and use arbor press ( or tap blocks with hammer ) to seat stator frame against rectifier end housing . Do not push against windings ! 
+Rectifier bridge ( 8 ) to RE housing ( 1 ) . 
+Install one rectifier bridge attaching screw ( 224 ) through grounded heat sink into RE housing . ( Fig . 31 ) Finger tighten . 
+Capacitor ( 12 ) to holes in end of rectifier bridge ( 8 ) ( Fig . 32 ) Install ground screw ( 224 ) through capacitor ( 12 ) , grounded heat sink , and into RE housing . Finger tighten . 
+Output strap ( 186 ) over insulated rectifier and capacitor holes . ( If new output terminal assembly , install per instructions in package . ) 
+Insulated capacitor attaching screw ( 226 ) , through output strap ( 186 ) , capacitor connector ( 12 ) , and into RE housing . Finger tighten . 
+
+INSPECT
+Regulator mounting area for presence of grease or dirt ( Fig . 33 ) . Good electrical contact is necessary in this area . 
+NOTICE : Do not immerse or wet regulator with solvent . Internal damage to regulator could result . 
+
+CLEAN
+Regulator mounting bosses in RE housing , metal base plate and contact rings on regulator by wiping with dry cloth . 
+
+INSTALL OR CONNECT
+Regulator ( 6 ) with terminal cover ( 220 ) assembled to RE housing ( 1 ) with regulator attaching screw ( 224 ) ( grounding ) . ( See Fig . 33 ) Finger tighten . 
+One field coil lead terminal ( A ) over regulator ( 6 ) mounting hole closest to terminal . ( Ensure leads do not touch edge of frame hole . ) 
+Insulated screw ( 217 ) through lead terminal ( A ) and regulator ( 6 ) into rectifier end housing ( 1 ) . Finger tighten . 
+Bridge to regulator stud connector ( 219 ) over threaded stud of regulator ( 6 ) with nut ( 218 ) . Finger tighten . 
+Diode trio ( 7 ) on to 3 threaded studs on rectifier bridge ( 8 ) . 
+Insulated screw ( 217 ) through indicator strap ( 208 ) hole , long leg of diode trio ( 7 ) and other field coil lead terminal ( A ) into regulator ( 6 ) unused hole and into R . E . housing . ( See Fig . 34 ) Finger tighten . 
+Screw ( 226 ) through other hole in bridge to regulator stud connector ( 219 ) into rectifier bridge ( 8 ) and into RE housing . Finger tighten . 
+
+TIGHTEN
+Two rectifier ground screws ( 224 ) to 4 N . m ( 35 lb . in . ) ( See Fig . 35 ) 
+
+INSTALL OR CONNECT
+ " R " terminal connector strap ( 198 ) over rectifier stud closest to capacitor ( 12 ) . ( If installing new " R " terminal follow instruction in package . ) ( See Fig . 35 ) 
+Three stator leads ( B ) over matching rectifier bridge ( 8 ) studs . 
+Three nuts ( 218 ) on rectifier bridge studs . Finger tighten . 
+Secure fasteners shown in the following order ( See Fig . 36 ) 
+
+TIGHTEN
+One regulator ground ( mounting ) screw ( 224 ) to 2 . 5 N . m ( 23 lb . in . ) 
+Two insulated regulator screws ( 217 ) to 2 . 0 N . m ( 20 lb . in . ) 
+Two rectifier bridge insulated screws ( 226 ) to 2 . 0 N . m ( 20 lb . in ) 
+Three rectifier bridge nuts ( 218 ) to 2 . 5 N . m ( 23 lb . in . ) 
+Regulator stud nut ( 218 ) to 2 . 0 N . m ( 20 lb . in . ) 
+
+FINAL ALTERNATOR ASSEMBLY
+
+CLEAN
+Inner race of rectifier end bearing ( 3 ) on rotor shaft to prevent contamination of grease . ( See Fig . 37 ) Remove tape to expose rectifier end bearing . 
+Align mounting lugs and assemble two halves of alternator ( See Fig . 37 ) , inserting rectifier end bearing inner race ( on rotor shaft ) into bearing in rectifier end housing ( 1 ) . Seat drive end housing ( 4 ) at this time . Using arbor press and appropriate block to apply even pressure on end frames . 
+Insert 4 thru - bolts ( 213 ) through drive end housing ( 4 ) and stator ( 11 ) into threaded holes in rectifier end housing ( 1 ) . Align housings and stator as needed to allow thru - bolts to stand straight in holes and engage threads . When all four thru - bolts are inserted , tighten them in round - robin fashion . 
+
+TIGHTEN
+Thru bolts ( 213 ) to 12 . 4 N . m ( 110 lb . in . ) 
+After assembly , dip rectifier end frame of alternator about one and one quarter inch ( 1 ¼ " ) deep into clear electric grade varnish or otherwise coat area of electronics to protect from corrosion ( See Fig . 38 ) . 
+
+INSTALL
+NOTICE : Make sure varnish is dry before proceeding . 
+After varish is dry , install rectifier end cover plate ( 15 ) with four attachment screws ( 216 ) . If removed , replace capacitor ( DRA 198544 ) with one screw ( 216 ) ( See Fig . 39 ) . 
+
+TIGHTEN
+Attachment screws ( 216 ) to 3 N . m ( 26 lb . in . ) . 
+
+INSTALL
+Fan ( 13 ) onto rotor shaft with vanes toward body of alternator ( See Fig . 40 ) . 
+
+NOTICE : Several pulley styles are available from ACDelco for 7 / 8 " shaft alternators , including a blank that can be custom machined for unique applications . 
+Pulley ( 14 ) suitable for engine application . 
+Flat washer ( 212 ) and lock nut ( 211 ) onto shaft with locknut flat side next to washer . 
+Insert 5 / 16 " hex wrench or driver into end of shaft . Holding the shaft with a hex driver installed on a torque wrench makes an ideal way to check torque while tightening the nut . Tighten pulley nut to 102 N . m ( 75 lb . ft . ) . 
+
+
+ALTERNATOR BENCH TEST
+
+TEST EQUIPMENT NEEDED : 
+Alternator Test Stand ( 5000 rpm capability at least 5 HP ) 
+Battery or Battery Set ( fully charged ) 
+Variable Carbon Pile Load Test
+Ammeter ( current capability at least 15 amps higher than alternator rating ) 
+Voltmeter
+Ohmmeter
+
+The bench test procedure will verify alternator performance prior to installation on the vehicle . This test checks the alternator output in the same manner as the Rated Output Check covered earlier . If bench test equipment is not available , install the alternator on the engine according to manufacturer ’ s instructions and repeat the Rated Output Check to verify alternator operation . If bench test equipment is available , proceed as follows : 
+Mount alternator in test stand according to test stand manufacturer ’ s instructions . 
+
+IMPORTANT : Battery or battery set must be fully charged for test results to be valid . 
+NOTICE : When a 12 - volt carbon pile load test is used to diagnose a 24 - volt system , attach load test only to 12 - volt potential in battery set . Attaching a 12 - volt load test to a 24 - volt potential will damage the carbon pile . 
+With carbon pile load turned off and with battery or battery set fully charged , make electrical connections as shown in Fig . 41 . Battery voltage and ground polarity must be same as system in which alternator is used . Check and record battery or battery set voltage before proceeding with test . 
+With carbon pile load off , start test stand and slowly increase alternator speed to highest rpm shown under Cold Output specifications in 33 / 34 SI Alternator Specifications at the end of this manual . Observe voltmeter . 
+ - If voltage does not increase but remains at or below previous reading ( Step 2 ) , there is no alternator output . Turn carbon pile load off and stop test stand . Residual magnetism in rotor may have been lost . Skip to Step 5 . 
+ - If voltage increases above 15 . 5 volts on 12 - volt system ( or above 31 volts on 24 - volt system ) , voltage is uncontrolled . Turn carbon pile load off and stop test stand . Recheck alternator for proper assembly . If alternator has been assembled properly , replace regulator as described under Unit Repair . Also check field coil for shorts and replace if defective . 
+ - If voltage is proper , proceed to next step . With alternator running at highest rpm shown under Cold Output in Specifications , turn on carbon pile load and adjust to obtain maximum alternator output on ammeter . 
+ - If ammeter reading is within 15 amps of Cold Output in Specifications , alternator is good . Turn off carbon pile load and stop test stand . 
+ - If ammeter reading is more than 15 amps below specification , alternator is not operating properly . Turn off carbon pile load and stop test stand . Return to Unit Repair section in this manual and re - diagnose the alternator . 
+CAUTION : Do not allow jumper lead to be accidentally grounded while connected to battery insulated terminal . If the free end of this lead is accidentally touched to the alternator housing or other grounded areas , the jumper lead may quickly get hot enough to cause a skin burn or to damage the jumper lead . Keep jumper lead carefully insulated from grounding during this procedure . 
+
+
+Disassembly of the Toyota / Nippondenso Alternator : 
+
+Removing the Back Cover : 
+On the backside of the alternator there are three retaining nuts . Using the five - in - one screwdriver with the screwdriver element removed , remove the three 3 / 8 ” ( 9 mm ) nuts that secure the sheet metal back of the alternator . If you do not have a five - in - one screwdriver , use a 3 / 8 ” or 9 mm socket wrench . Keep the nuts ( unless otherwise specified , keep all of the nuts , screws and other components of the alternator ) . 
+The sheet metal back cover of the alternator is attached with three screws . 
+Remove the screwdriver element from the five - in - one screwdriver . 
+Remove the three nuts that hold the sheet metal cover of the back of the alternator on . 
+With a crescent wrench , remove the nut ( s ) that hold the black plastic insulator on the copper positive ( + ) contact on 
+the side of the alternator . 
+Remove the black plastic insulator from the positive ( + ) copper contact . 
+Remove the sheet metal back cover of the alternator . 
+
+Removing the Voltage Regulator and Brushes from the Alternator : 
+Once the back cover is removed , the rectifier , voltage regulator and brush assembly will be exposed . The voltage regulator is the electronic component with heat fins on top ( a row of raised ridges that dissipate heat ) that terminates in the round plug interface on the back of the alternator . The brush assembly is a pair of spring - loaded carbon contacts that contact the rotor in the center of the alternator . Remove the three screws that hold the voltage regulator in place . Remove the two screws that hold the brush assembly in place . Discard the regulator , brush assembly and retaining screws for the regulator and brush assembly . 
+Removing the three retaining screws for the voltage regulator . 
+Removing the two screws for the brush assembly . 
+Removing the voltage regulator . 
+Removing the brush assembly . 
+The alternator with the voltage regulator and brush assembly removed . 
+
+Removing the Rectifier from the Alternator : 
+The rectifier is the last remaining electronic component on the back of the alternator . It has four screws on the side that connect to wire lugs . These lugs are attached to copper wires that enter the alternator through rubber insulators . These four screws connect the rectifier to the stator inside the alternator . Remove the four screws from the side of the rectifier . Pulling upwards , gently remove the rectifier from the alternator . Remove the four rubber insulators that surround the now exposed wires . Retain the four rectifier screws and four rubber insulators for later use . 
+Removing the four screws that connect the rectifier to the stator inside the alternator . 
+Removing the rectifier from the alternator . 
+Removing the four rubber insulators from the wires that connect the rectifier to the stator . 
+
+Removing the Back of the Alternator to Reveal the Rotor and Stator : 
+Once the rectifier has been removed , use the five - in - one screwdriver to remove the four nuts that hold on the back of the alternator . Grasp the alternator by the back ports of the alternator . Hold the alternator aloft with one hand . Tap the sides of the alternator with a mallet or piece of wood to loosen the back and front of the alternator . Use the five - in - one screwdriver to gently pry apart the front and back of the alternator . Continue tapping the sides of the alternator and gently prying the front and back of the alternator until the back comes off . This may take a while . 
+Removing the nuts that hold the front and back of the alternator together . 
+Tapping the sides of the alternator while holding it aloft . 
+Prying the alternator apart with the five - in - one screwdriver . ( Note : A puller can accomplish this task with ease . ) 
+Removing the back of the alternator from the front of the alternator , revealing the rotor and stator . Remove the four threaded studs that hold the stator in place . 
+Once the back of the alternator has been removed , there will be access to four threaded studs . These threaded studs secure the stator to the front of the alternator . Remove the four threaded studs . 
+
+Removing the Rotor from the Alternator : 
+Removing the rotor from the alternator can be somewhat difficult . The pulley at the end of the rotor is often hard to get off . Find the pulley on the front of the alternator at the end of the rotor . Using a plumbing torch , heat the end of the rotor and the nut that holds the pulley on the rotor . While still hot , soak the end of the rotor and pulley - retaining nut in penetrating oil . Clamp the pulley in a bench vise . Using a socket wrench , remove the retaining nut that holds the pulley on the rotor . Clamp the alternator in a bench vise . Take a piece of wood or wooden mallet and tap the threaded end of the rotor . Remove the pulley from the rotor . Continue tapping the end of the rotor until it comes out of the alternator . 
+ ( Note : A puller can accomplish this task with ease . ) 
+
+Removing the Stator from the Alternator : 
+Removing the stator from the alternator can be difficult . At this point in the disassembly , only dirt , friction and oxidation should be holding the stator in place . Still , it can be difficult to pull . Before you begin , use an awl to make registration points on the stator and the alternator body at the same point so that the stator can be reinstalled in the same location . Also , make marks on the stator core indicating where each phase of the stator wind terminates , and mark the common termination of the phases ( these are the copper leads that connect the stator to the rectifier . ) 
+Apply liberal amounts of penetrating oil between the stator and the alternator body . Holding the alternator aloft , and using gravity to assist you , tap on the outside of the alternator with a mallet to loosen up the stator from the alternator case . Be patient , it could take a while . 
+ ( Note : A puller can be modified to make this process much easier . ) 
+
+Building the Permanent Magnet Rotor : 
+The permanent magnet rotor is composed of several elements : a spindle , bushings and core . It is roughly the same dimension as a factory rotor but rather than employing an electromagnet it is arrayed with permanent magnets . The spindle and bushings are turned on a metal lathe . The core is composed of twelve - sided sheet metal laminates that are glued together . The sheet metal laminates are usually cut with tin snips and drilled out manually . If you have access to a laser - cutter or a water - jet cutter and CNC , this process can be made much quicker . If made by hand , the assembled core is then bored out in the center to receive the spindle . In addition , four holes are drilled around the center to receive the nuts and bolts that hold the laminates together . Finally , twelve permanent magnets are epoxied to the twelve facets of the core . You will need a metal shop to turn the spindle and bushings of the rotor . 
+
+Turning the Spindle and bushings : 
+This is a job for the metal lathe . 
+
+Building the Rotor Core : 
+As stated above , there are a few different methods for cutting the sheet metal laminates that make up the core . For the purposes of this manual , we will be cutting and drilling them by hand . The total width of the completed core is 1 . 5 . ” ( 38 . 1 mm ) When selecting the sheet metal for the laminates , it should be thin enough to be easily cut with tin snips . The number of laminates needed to make up the 1 . 5 ” width of the core is dependent upon the thickness of the sheet metal used . If cut by hand , 26 gauge sheet metal should be used . The sheet metal template included below shows the dimensions of the laminates . To ensure that you have the right dimension , the correct measurement between two opposing facets is 73 mm . 
+After determining that you have the right size paper template , make a cutout of it , and accurately make a master template out of sheet metal . Use this template to trace all the remaining laminates . Use the same master template for all of the laminates . Have a sheet metal shop cut the sheet metal into appropriate sized squares , 10 cm x 10 cm , before you begin , so that the laminates are easier to work . The sheet metal blanks should be washed with soap and water to degrease them so that the contact cement will adhere to them . 
+Once you have determined that you have enough laminates to make up the width of the core , coat each surface thinly with contact cement . Let the contact cement set as directed by the manufacturer before gluing the laminates together . The contact cement takes up a small amount of dimension in the overall thickness of the core . When the laminates are clamped together they will compress . Make extra laminates to make up any discrepancy in the thickness of the core . Leave the two laminates that will be on the outside of the core with one side free of contact cement . 
+Make up 1 / 2 ” thicknesses of glued laminates and then glue these 1 / 2 ” thicknesses together to make the total 1 . 5 ” thickness of the core . Make sure that the laminates are lined up with each other as closely as possible . Clamp the laminates together to squeeze out any excess contact cement . 
+Once the laminates are glued together use the paper template to make registration marks for the four holes that receive bolts to hold the laminates together . Use an awl to make these registration marks . With a drill press , drill out the four holes to receive the nuts and bolts that hold the laminates together . Drill pilot holes first and work your way up to the finish diameter of the holes . The finish diameter of the holes should be 1 / 4 ” . Bolt the laminates together using 2 “ long , 1 / 4 ” bolts , nuts , washers and lockwashers . 
+Have a machinist bore out the center hole at 15 mm to receive the spindle . 
+ ( Note : The center hole in the core is crucial to proper function of the alternator . It is recommended that this hole be cut with a cutting tool on the lathe and not with a drill bit , as any drift in the drill bit will be a disaster ! ) 
+
+Machining the Spindle and Bushings : 
+The spindle should be 15 mm in diameter , 6 . 25 ” in length and threaded at one end . The threaded end is 1 . 25 ” in length to receive a 1 / 2 ” nut . The threaded end of the spindle should be machined square at 3 / 8 ” , 1 / 4 “ in from the end of the spindle . The length of the threaded and square - machined end should be a total of 1 . 5 ” . 
+The thickness of the bushing on the threaded end of the spindle ( the top bushing ) is 15 mm . The thickness of the bottom bushing is 10 mm . Both bushings should be 30 mm in diameter , with a 15 mm hole in the center . Again , a metal lathe will be needed for this process . 5 mm wide x 10 mm long hex set - screws are tapped into the side of the bushings to link them to the spindle . 
+
+Attaching the Spindle to the Core and Bushings : 
+The distance from the bottom of the spindle ( the non threaded end ) to the 10 mm bottom bushing is 38 mm . The distance from the top of the spindle ( the threaded end ) to the top bushing is 60 mm . Once you have determined the location of the core and bushings on the spindle , tighten the hex set - screws on the bushings to the spindle . Loosen the hex set - screws on the bushings from the spindle and note the marks that are left in the spindle from the hex set - screws . Using a file , file the small area on the spindle where the hex set - screw contacts the spindle flat , so that where assembled , the hex set - screw won ' t slip on the spindle . Reattach the core and bushings to the spindle with the hex set - screws . 
+Once assembled , drill a 1 / 8 ” hole in the top of each bushing through the bushing and into the core . Take two 1 / 8 ” drill bits , cut them in half and discard the cutting ends of the bits . These will act as pins to link the rotor core to the bushings . Put a slight bend in the non - cutting end of each of the bits . Coat the ends of the bits in epoxy . Drive the bits through the bushings and into the rotor core to pin the bushings to the core . Drive the pins just below the flush surface of the bushings , marrying the bushings to the core and the bushings / core to the spindle . 
+ ( note : Though this method of marrying the core and bushings to the spindle works well , other schemes of marrying these elements such as using compression between the core and the spindle show promise . A number of different schemes could work here depending upon facilities . ) 
+Attaching the Permanent Magnets to the Core : 
+Clamp the rotor in a vise by the core . The core now has twelve facets that should be 1 . 5 ” in length and . 75 ” in width . Because the laminates are cut by hand , there is some variation in dimension . File down each facet until they are as close as possible to the 1 . 5 ” x . 75 ” desired dimension . Do not exceed the 1 . 5 ” by . 75 ” dimension . 
+
+ ( Note : This filing can be accomplished much more quickly with a sanding machine , but extreme care should be taken not to remove too much material from the facets of the core . ) 
+Now that the core and bushings are attached to the spindle it is time to attach the neodymium magnets to the core . Special care should be taken when handling the neodymium magnets . They are very strong magnets , but also very brittle . Once removed from the packaging and separated , they should be kept at least 16 inches from each other and anything magnetic . Failure to do so may result in personal injury or damage to the magnets . Gloves should be worn when handling the magnets , so that if you do come in contact with anything magnetic you won ' t get hurt . 
+
+Determine the Poles and Mark : 
+The magnets will be arrayed on the core with poles alternating , north / south , north / south , etc . Once the magnets are removed from the packaging , set them out on a bench in a row at least 16 ” apart . With a gloved hand , use one of the magnets as a test magnet . Determine the poles of each magnet by holding the test magnet to each of the magnets on the bench . Turn the magnets over until each magnet in the row on the bench is alternately attracted and repulsed by the magnet in your gloved hand . Double check to make sure that you have determined that each magnet in the row is alternately attractive and repulsive to the magnet in your hand . Use aSharpie pen to mark the magnets north and south . 
+ ( Note : The designation of north and south on the magnets is arbitrary . The important thing is that the magnets alternate in polarity when arrayed on the rotor core . ) 
+The back , unmarked , side of the magnets are roughed up with emery cloth or sandpaper for better adhesion to the core . 
+
+Epoxying the Magnets to the Core : 
+For easier attachment of the magnets to the rotor , drill a hole in a piece of wood to receive the end of the spindle . Clamp the wood into a vise and place one end of the spindle in the hole in the wood . 
+Once the magnets are placed on the core they will want to pull toward each other . For this reason twelve spacers should be made up to keep them apart . Use non - magnetic wooden coffee stirrers or pieces of plastic to keep them apart . The spacers should be 1 / 8 ” width and at least 2 ” long . 
+Make up a small batch of epoxy ( JB weld or a similar metal epoxy is best ) . Wearing gloves , coat a magnet on its non - marked side and coat a facet of the rotor core with epoxy . Lower the magnet into place , being careful not to break the magnet with the magnetic force between it and the rotor core . Repeat this process for all twelve magnets alternating north , south , north , south , etc . 
+ ( Note : Wear gloves during the attachment of the magnets ! ) 
+Once all of the magnets are roughly in position , spacers are used to separate the magnets from each other . Reposition the magnets while the epoxy is still setting and try to make as uniform an array as possible . As the epoxy begins to set , the spacers are removed and further small adjustments are made . Mineral spirits or paint thinner is used to clean up the excess epoxy on the core assembly . 
+Magnets arrayed with opposing poles on the rotor core with spacers . 
+ ( Note : The above process should be done as quickly as possible to ensure the integrity of the epoxy . Once the epoxy has set , do not attempt further adjustment of the magnets . ) 
+
+Finishing the Rotor : 
+Once the excess epoxy is cleaned from the rotor , wash the rotor with soap and water . Mask the spindle with tape . Coat the core , magnets and bushings with a clear coat of polyurethane or paint . Once finished , wrap the rotor in a thick cloth and store away from metal or other magnetic material . 
+
+Rebuilding the Stator : 
+The stator is rewound with thinner gage wire than the wire that comes stock with the alternator . Once the stock wire is stripped from the stator core , it is rewound in the same fashion as the factory wind , but with thinner gage wire . 
+ ( Note : If you are in a location where rewinding motors is readily available and cheap ( as in many developing countries ) , you might want to hire a motor rewinder to perform this task as it is rather tedious and they will probably do a better job . ) 
+Stripping the Stator of Factory Wire : 
+The stator core is composed of thin sheet metal . Pay special attention to not damaging it , as it is delicate . Take an awl and make registration points on the core where the factory wire terminates at the wire lugs that attach to the rectifier . Using a plumbing torch remove these lugs for use in the new wind . Measure the length of the leads coming off of the stator once the wire lugs have been removed . Measure the overall height of the wind , so that it can be reproduced in the new wind and fit in the alternator . Save these measurements for future reference . 
+During manufacture , the factory wire is locked into the stator core by a thick coat of varnish . In addition , the wire itself is insulated with an enamel coating . The wires are held in place in the stator core by wooden or plastic inserts in the slots that hold the wire . The wire itself is insulated from the stator core with Nomex or fish paper . The easiest way to strip the wire from the stator is to burn off the varnish , enamel coating , and other material with a plumbing torch . It is possible to remove the wire without a torch , but it is much more time consuming and risks damaging the sheet metal body of the stator . 
+Once the stator is stripped of factory wire , the stator core should be cleaned . Pay special attention to cleaning out the slots that the wire sits in , and cleaning the outside of the stator where it fits into the alternator . This can be accomplished with a wire brush and a small file . It is not necessary to clean the stator core thoroughly , just remove anything that is going to get in the way of the new wind . The process of pulling the factory wire out of the stator may make small burrs in the stator core . File these smooth , so that they don ' t nick the new wire and cause a short circuit in the finished stator . 
+After the stator core is stripped and cleaned , clean the inside of the front of the alternator where the stator core fits . Confirm that the stator core will easily slide back into position . 
+
+Overview of the Stator Rewind : 
+ ( Note : First we will give an overview of the rewind process , followed by more in - depth instructions on page 43 ) 
+The stator wind is composed of three phases . Red , green and blue represent the three separate phases of the wind in the graphic below . 
+To keep track of the different phases of the wind , colored straws will be placed in the slots of the stator core . These straws are used as a visual guide to simplify the winding process ; they will clearly define each of the three phases . The length of the straws dictates the height of the loops of the wind . The straws should be cut to 55 mm in length . Twelve of one color straw and twelve of another colored straw . 
+As each phase of the wind is completed , the straws are removed to reveal the next location for a phase . 
+The finished wind must fit back into the alternator . Special attention to making the rewind the same height as the factory wind is essential . The correct height is 55 mm . 
+As each phase is completed , pieces of wood are inserted into the wire slots to keep the wire tightly in place . The finished dimension of the wood pieces is 4 mm x 28 mm . Coffee stirrers cut down to 4 mm width work well . 
+Once the rewind is complete , the factory wire lugs are re - soldered to the ends of each of the three phases , and to the common eye connection . When re - soldering the wire lugs to the stator , make sure that they are soldered 45 mm from the top of the stator to the center of the wire lug . 
+
+Rewinding the Stator in Detail : 
+Once the stator is clean of any residual varnish or other materials , Nomex paper must be cut and folded into the cavities that receive the wire in the stator . Accurately cut the Nomex paper to 4 cm by 2 cm lengths . Fold the long ends of the Nomex back 4 mm and then fold the entire piece length wise . The Nomex should snap into place in the stator cavities with the 4 mm folded ends protruding . 
+Note : Nomex is a brand name . The generic name for this material is fish paper . 
+Attach the stator core to a bar clamp with a hose clamp , and clamp the assembly to a table . Insert the colored straws , twelve one color and twelve another color , alternating by color . These represent two of the three phases of the wind . Leave every third slot empty . 
+Once the Nomex paper is installed in the slots of the stator , and the colored straws are installed as a guide , it is time to begin winding the stator . Locate the registration marks made earlier on the stator core for the leads of each phase and for the common eye connection . Using 20 AWG enameled magnet wire , wind the first phase of the stator in a serpentine pattern , starting from the first termination point of a phase . The winds should be 55 mm high , evenly spaced on either side of the stator core . A maximum of 15 mm of wind should protrude from the top and bottom of the stator core . As you begin the wind , make the loops shallower than the finished dimension and work your way up to the final dimension . This will allow space for all of the winds in each phase . When winding the phases , the enameled magnet wire must not contact the stator core . This will cause a short circuit . 
+ ( Note : The wind is shallower than the finish dimension as defined by the straws . This will allow for all of the winds to fit . ) 
+Allow plenty of extra slack in the end of each wind to insure that there is enough wire to make the connections to the wire lugs . These wire lugs will attach the stator to the rectifier when the stator is complete . It is not crucial that each phase have exactly the same amount of winds , only that each phase has as much wire as can fit into the slots of the stator core . As each phase of the stator is complete , insert a piece of wood into each slot of the phase to hold the wire in place . These pieces of wood are part of the completed stator and should fit snugly in the stator and be trimmed to the dimension of the stator core . 
+ ( Note : The magnet wire that is used for the stator has a very thin enamel coating for electrical insulation . Be very careful not to nick this coating as it will cause a short circuit in the finished stator and you will have to rewind it again ! ) 

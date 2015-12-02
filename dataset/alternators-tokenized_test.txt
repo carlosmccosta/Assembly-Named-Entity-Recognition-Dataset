@@ -1,0 +1,112 @@
+EQUIPMENT NEEDED : 
+Jumper Lead ( 18 ga . min ; no fuse ) 
+To restore residual magnetism in alternators with an “ R ” or “ I ” terminal , alternator ground terminal must be connected to battery ground terminal . This may be done directly or through the test stand wiring . ( See Fig . 42 ) 
+Disconnect carbon pile load test from battery if still connected . Disconnect any leads connected to alternator “ R ” or “ I ” terminal . Connect jumper lead to battery positive . Without touching other grounded areas ( See CAUTION Above ) , momentarily touch ( “ flash ” ) free end of jumper lead to alternator “ R ” or “ I ” terminal . The momentary current flow into the terminal will restore the proper magnetism in the rotor . Disconnect the jumper lead from the battery , then return to Step 1 and repeat Alternator Bench Test . 
+
+ALTERNATOR INSTALLATION
+CAUTION : Failure to disconnect grounded battery cable at battery before removing or attaching alternator “ BAT ” terminal lead may result in an injury . If a tool is shorted to the battery cable connector at the output terminal , the tool can quickly heat enough to cause a skin burn or to damage the tool or cable . 
+
+REMOVE OR DISCONNECT
+Negative cable at battery . 
+
+NOTICE : Always reinstall fasteners at original location . If necessary to replace fasteners , use only correct part number or equivalent . ( See Fig . 43 ) 
+If correct part number is not available , use only equal size and strength . 
+Fasteners that are NOT to be reused will be noted in procedure . 
+Fasteners requiring thread locking compound will be noted in procedure . 
+Use specified torque values when shown . 
+Using or replacing fasteners in any other manner could result in part or system damage . 
+
+INSTALLATION PROCEDURE ( See Figure 44 ) 
+Always follow engine manufacturer ’ s instructions for installing alternator on engine . The following procedure is typical and may not match all steps necessary for a specific application . 
+
+TEST EQUIPMENT NEEDED : 
+Belt Tension Gage
+
+NOTICE : Before installing alternator to engine , check mounting bracket ( 101 ) and adjustment bracket ( 104 ) , also stabilizer bracket ( 111 Fig . 46 ) ; if used , to ensure they are not worn or cracked . Make sure they will securely mount alternator to engine with proper hardware . 
+
+TIGHTEN
+All fasteners holding alternator mounting bracket ( 101 ) to engine manufacturers torque specifications . 
+
+ADJUST
+Rectifier end bushing ( 17 ) position in RE housing mounting lug to allow maximum distance between mounting lugs ( H ) . 
+NOTICE : Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed . 
+
+INSTALL OR CONNECT
+33 SI or 34 SI mounting lugs ( H ) to alternator mounting bracket ( 101 ) . 
+One flanged mounting bolt ( 102 ) through the D . E . frame mounting lug ( H ) , the alternator mounting bracket ( 101 ) , and the R . E . frame mounting lug bushing ( 17 ) . 
+Flanged mounting nut ( 103 ) to flanged mounting bolt ( 102 ) finger tight . 
+
+NOTICE : If either bolt or nut are not flanged a 1 / 8 " thick , hardened steel flat washer ( 105 ) ( See Figure 43 ) must be substituted for flanged applications . 
+
+Flanged adjustment bolt ( 106 ) through flat washer ( 105 ) , slot in adjustment bracket ( 104 ) and thread into hole in DE frame adjustment lug ( J ) finger tight . 
+Alternator belt ( s ) ( 107 ) onto pulley ( 14 ) . 
+
+NOTICE : If engine uses automatic belt tensioning ( idler ) see engine manufactures installation instruction . 
+Idler if used . 
+
+NOTICE : Do not pry on alternator , rectifier end housing ( 1 ) to adjust belt tension . This may damage alternator . Pry against the drive end frame ( 4 ) with suitable pry bar ( 108 ) . 
+NOTICE : When alternator is used to attain belt tension see engine manufacturers tension specifications . 
+
+Pry bar ( 108 ) between engine and drive end frame ( 4 ) of alternator . Using pry bar ( 108 ) as a lever apply force to pry alternator and increase belt tension . 
+
+ADJUST
+Belt ( 107 ) tension using belt tension gage to specification and hold . ( See Fig . 45 ) 
+
+TIGHTEN
+Adjustment bracket ( 104 ) to engine or vehicle manufacturers specifications . Flange adjustment bolt ( 106 ) and flanged mounting bolt ( 102 ) and nut ( 103 ) to 88 N . m ( 65 lb . ft . ) . 
+
+MEASURE
+Belt ( 107 ) tension with belt tension gage to ensure the specification is maintained . If not repeat steps 7 . 
+
+INSTALL OR CONNECT
+NOTICE : Belt tensioning and tightening of adjusting bracket and mounting bolts must be completed before stabilizing bracket is installed . 
+Stabilizer mounting bolt ( 109 ) through flat washer ( 105 ) , stabilizer bracket ( 111 ) , RE housing stabilizer lug ( 1 ) , flat washer ( 105 ) and thread into nut ( 110 ) finger tight . ( See Fig . 46 ) 
+
+TIGHTEN
+Stabilizer bolt ( 109 ) and nut ( 110 ) to 88 N . m ( 65 lb . ft . ) . 
+
+VEHICLE WIRING INSTALLATION ( See Figure 47 & 48 ) 
+NOTICE : On certain engine configurations a 1 . 5 µ f capacitor ( DRA 198544 ) was retrofited to some alternators . 
+
+INSTALL OR CONNECT
+Battery lead ( 112 ) , lead capacitor ( 116 ) if required , lockwasher ( 182 ) and nut ( 181 ) onto output stud ( 187 ) , labeled " POS " on cover plate ( 15 ) finger tight . ( See Fig . 48 ) 
+Relay lead ( 113 ) , lockwasher ( 192 ) and nut ( 191 ) onto relay stud ( 193 ) labeled " R " on cover plate finger tight , if used . 
+Indicator light lead ( 114 ) , lockwasher ( 202 ) and nut ( 201 ) on to indicator light stud ( 203 ) , labeled " I " on cover plate finger tight , if used . 
+Ground screw and lockwasher assembly ( 223 ) through ground wire lead ( 115 ) into threaded hole in rectifier end housing ( 1 ) located on top of 33 SI or on side of 34 SI finger tight . 
+
+TIGHTEN
+Ground screw and lockwasher assembly ( 223 ) to 6 N . m ( 55 lb . in . ) 
+NOTICE : Use suitable open end wrench to hold nut ( 181 ) hex heads on " R " and " I " terminal studs ( 193 and 203 ) . ( See Fig . 49 . ) 
+Hex head nut ( 181 ) on " POS " terminal to 7 N . m ( 65 lb . in . ) . 
+Hex nuts ( 191 ) and ( 201 ) or " " R " and " I " terminals to 2 N . m ( 20 lb . in . ) , if used . 
+
+INSTALL OR CONNECT
+PIN terminal cap on any terminals not used or any PIN connections . 
+Vehicle battery cable to battery ( s ) . 
+
+
+
+Once each phase is complete use a volt meter or continuity tester to determine if there is a short circuit in the phase . Sand a small amount of insulation off the end of a phase wire . Hold one lead of the volt meter / continuity tester to the stator core and one to the end of the sanded / stripped phase wire . There should be no electrical connection ( continuity ) between the phase and stator core . Repeat this test after each completed phase . In addition , as each phase is completed , check to make sure that there is no continuity between the phases . 
+The next step of the process is to tighten the wind to make sure that it will clear the alternator casing . Once the three phases are complete , use an appropriate sized jar wrapped in duct tape to the dimension of the inside of the stator . Use a wooden mallet to gently pound the winds into a tighter configuration . Do not exceed the inside diameter of the stator core . 
+Again , the stator wind must fit back into the alternator and not contact the body of the alternator or the stator core . Test the stator core and the individual phases against each other again for continuity . Again , there should be no continuity between the phases and stator core or the individual phases . Confirm that the stator will fit back into the alternator case , and that the wind does not exceed the inside diameter of the stator core . 
+When you are satisfied with the wind , and have confirmed that there are no short circuits , it is time to coat the stator in varnish . Mask off the outside of the stator core with tape where it will contact the alternator case . This is necessary so that it will fit back into the alternator . Use high temperature shellac , varnish or paint to thoroughly coat the stator and the winds . Several coats are recommended . Use spray paint or dip the core in varnish to penetrate the wind more deeply . 
+
+Reattaching the Wire Lugs to the Stator : 
+Cut the ends of the three phases and the common eye end to the appropriate length to reach the rectifier . The distance from the top of the stator core to the center of the wire lug is 45 mm . Double check your measurements . Leave a little slack to ensure that you have enough wire to reach the rectifier . Strip away a small portion of the enamel insulation from the ends of each phase . Group the common ends of the three phases together , and solder the wire lugs onto the ends of each phase and the common eye end . 
+Check again for continuity between each phase and the common end of each phase . Make sure there is no continuity between the common ends of each phase and the stator core . There will now be continuity between the three phases , because they have been joined at the eye ( common ) wire . Again , there should be no continuity between the phases and the stator core . 
+
+Reinstalling the Stator and Rotor : 
+Reinstalling the Stator : 
+Reinstalling the stator core into the alternator should be fairly easy . Before beginning , confirm that the stator is in the right position to connect to the rectifier by loosely inserting the stator into the front of the alternator . Gently place the back of the alternator over the stator and confirm that the holes in the back of the alternator match up with the wires and wire lugs that come from the stator . Make a mark to identify where the stator fits into the alternator , so that the wire lugs will meet the rectifier . Remove the stator from the alternator . 
+The stator may be hard to remove once it is fully installed . Make sure that the stator is in position for the wire lugs to meet the rectifier . Use a small amount of machine oil if necessary on the outside of the stator core to assist in the re installation . Install the stator evenly in the alternator so that it doesn ' t bind on one side or the other . Once the stator is in place , use the four threaded studs that were removed earlier to lock it in position . 
+
+Installing the New Rotor : 
+The rotor is strongly magnetic . Special care should be given to handling it when installing it into the alternator , as the stator is magnetic . To protect the rotor and the stator from each other , line the inside of the stator with thin cardboard or thick paper , leaving enough slack in the material to pull it out once the rotor is installed . The lugs are magnetic and could be pulled into the alternator during the rotor installation . Gently bend the wire lug - ends of each phase , and the common eye end of the phases away from the center of the alternator . Use tape to hold them out of the way . 
+Clamp the alternator in a vise . The magnetic rotor will pull into the alternator very strongly once it is close to position . Use thick gloves and keep your fingers clear of the area between the rotor and the stator . Approach the alternator with the threaded rotor end first , holding the rotor from the non - threaded end of the spindle . Center the rotor as closely as possible in the alternator . Magnetism will pull the rotor into position once the rotor is partially inserted . Watch your fingers . Once the rotor is in position , reinstall the pulley on the threaded end and tighten down the pulley with a 1 / 2 ” nut , washer and lock washer . Remove the protective paper material from between the rotor and stator and bend the wire lugs from the stator back into position . 
+
+Reassembling the Alternator : 
+Reattach the back of the alternator to the front of the alternator using a wooden mallet . Gently tap the back of the alternator onto the end of the rotor spindle and into position to fit on the front of the alternator . Confirm that the rotor turns in the alternator . The rebuilt alternator will cog when it turns . Reinstall the rubber wire insulators that protect the phase and eye ends of the stator from the alternator back . Tighten the back of the alternator onto the front , using the nuts removed earlier from the threaded studs . Reinstall the rectifier onto the back of the alternator and attach the wire lugs to the rectifier with the screws removed earlier . The voltage regulator and brush assembly are not reinstalled in the alternator : the regulator is no longer useful as it is designed for higher RPM , and the brush assembly is no longer needed as the alternator is now a brushless permanent magnet alternator . Place the sheet metal cover for the back of the alternator onto the alternator and reinstall the black plastic insulator onto the positive end of the rectifier with the nut ( s ) removed earlier . Reinstall the three nuts that hold the sheet metal cover of the back of the alternator in place . 
+ ( Note : The 1 ” long , 1 / 2 ” threaded end of the rotor allows for enough space for the pulley to act as a spacer to clear the outside of the alternator and allow attachment of a turbine or other drive element in addition to the pulley . The pulley can be used as intended , or another drive element can be threaded onto the end . ) 
+
+Bench Testing : 
+Clamp the alternator in a vise . Using a volt meter set to DC , attach the positive end of the tester to the positive end of the rectifier ( the threaded copper end of the rectifier with the black plastic insulator that protrudes from the side of the alternator ) . Touch the negative end of the tester to one of the screw ends that protrudes from the sheet metal back of the alternator . Use a piece of rope to turn the pulley on the front of the alternator . Again , the alternator will cog as it turns . The volt meter should register current being produced immediately . 12 volts should be produced easily with a quick turn of the alternator . Turn the pulley faster and more current is produced . If the alternator is difficult to turn , and produces no current , there is either is a short circuit in the stator , or there is a burned out diode in the rectifier . To trouble shoot any problems , check for continuity in the stator as described in the stator rewind section , and check each diode in the rectifier for continuity . If the rectifier is bad , a new or used one should be readily available at an auto parts store or junkyard . 

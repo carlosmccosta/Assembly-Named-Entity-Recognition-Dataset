@@ -4,7 +4,7 @@ script_dir="$(dirname "$(readlink -e "${BASH_SOURCE[0]}")" && echo X)" && script
 
 ngram_model=${1:-5}
 root_dir=${2:-"${script_dir}/../../"}
-dataset_filenames=${3:-"dataset alternators engines gearboxes"}
+dataset_filenames=${3:-"dataset-tokenized alternators-tokenized engines-tokenized gearboxes-tokenized"}
 
 for dataset_name in ${dataset_filenames}; do
 	mkdir -p ${root_dir}dataset-analysis/${dataset_name}
