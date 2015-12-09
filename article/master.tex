@@ -1,0 +1,58 @@
+% !TeX encoding = UTF-8
+% !TeX root = master.tex
+% !TeX spellcheck = en_US
+
+\input{tex/preamble}
+\input{tex/glossaries}
+
+
+\begin{document}
+
+
+
+%---------------------------------------------------------------------------------------------------
+% Top matter
+%---------------------------------------------------------------------------------------------------
+
+\title{Title}
+
+\author{\IEEEauthorblockN{Carlos M. Costa}
+	\IEEEauthorblockA{Faculty of Engineering\\
+		University of Porto\\
+		Rua Dr. Roberto Frias, s/n 4200-465, Porto, Portugal\\
+		Email: carlos.costa@fe.up.pt
+	}
+}
+
+\IEEEtitleabstractindextext{%
+	\input{tex/abstract}
+	\begin{IEEEkeywords}
+		keyword1, keyword2, keyword3, keyword4
+	\end{IEEEkeywords}
+}
+
+\maketitle
+\IEEEdisplaynontitleabstractindextext
+
+
+%---------------------------------------------------------------------------------------------------
+% Sections
+%---------------------------------------------------------------------------------------------------
+
+\input{tex/sections/introduction}
+\input{tex/sections/conclusions}
+\input{tex/sections/acknowledgments}
+
+
+
+%---------------------------------------------------------------------------------------------------
+% Bibliography
+%---------------------------------------------------------------------------------------------------
+
+\section*{References}
+
+\bibliographystyle{styles/IEEEtran}
+\bibliography{references/references}
+
+
+\end{document}
