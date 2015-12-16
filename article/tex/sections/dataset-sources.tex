@@ -1,0 +1,19 @@
+\section{Dataset sources}\label{sec:dataset-sources}
+
+This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes. These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because these categories of objects have increasing complexity (from the simple alternators to the much more complex fuel or steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with language ranging from very concise and professional to a more colloquial and unstructured. Moreover they provide tables / lists with the parts and tools required for the assembly operations. Most of them are single column and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation (in the case of the alternators), while others have the assembly operations split across the main object components.
+
+\begin{table*}[t]
+	\caption{Dataset overview}
+	\tabulinesep = 1ex
+	\centering
+	\small
+	\begin{tabu} { X[2.5,m,c] | X[m,c] X[m,c] X[m,c] X[m,c] }
+		\rowfont{\bfseries\itshape} 	& Alternators									& Engines																& Gearboxes 										& Global 	\\
+		\hline
+		Number of pages 				& \cooltooltip[1 1 1]{}{}{30+54}{}{84}			& \cooltooltip[1 1 1]{}{}{70+12+15+19+19+13}{}{148}						& \cooltooltip[1 1 1]{}{}{18+203}{}{221}			& 453		\\
+		Number of assembly procedures 	& \cooltooltip[1 1 1]{}{}{1+1}{}{2}				& \cooltooltip[1 1 1]{}{}{35+1+1+1+1+1}{}{40}							& \cooltooltip[1 1 1]{}{}{1+52}{}{53}				& 95		\\
+		Number of words					& \cooltooltip[1 1 1]{}{}{4009+5385}{}{9394}	& \cooltooltip[1 1 1]{}{}{9151+1851+1697+4063+4140+1993}{}{22895}		& \cooltooltip[1 1 1]{}{}{923+31169}{}{32092}		& 64381		\\
+		Number of characters			& \cooltooltip[1 1 1]{}{}{25240+30941}{}{56181}	& \cooltooltip[1 1 1]{}{}{54386+10489+9451+22782+23138+11482}{}{131728}	& \cooltooltip[1 1 1]{}{}{6492+186083}{}{192575}	& 380484	\\
+	\end{tabu}
+	\label{tab:dataset-sources_dataset-overview}
+\end{table*}
