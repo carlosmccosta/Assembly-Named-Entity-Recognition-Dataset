@@ -2,7 +2,7 @@
 
 This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes. These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because they have increasing complexity (from the simple gearboxes to the much more complex fuel / steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with a language discourse ranging from very concise and professional to a more colloquial and unstructured type. Moreover they provide tables / lists with the parts and tools required for the assembly operations which are very useful for evaluating \gls{ner} systems.
 
-Most of these assembly instruction manuals are single column (two of them are dual column) and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation (in the case of the alternators), while others have the assembly operations split across the main object components.
+Most of these assembly instruction manuals are single column (two of them are dual column) and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation while others have the assembly operations split across the main object components.
 
 
 \subsection{Alternators}
@@ -14,15 +14,16 @@ This dataset includes the detailed assembly of two automotive alternators (used 
 
 \subsection{Gearboxes}
 
-Gearboxes are mechanical transmission systems that provide speed and torque conversions while also giving the option of forward and backwards wheel movement. They allow a typical car engine that operates at [600, 7000] \gls{rpm} to move the wheels with high torque when using lower gears and with high speed when employing higher gears. They give the user a high level of control over the engine performance allowing better fuel efficient and reducing engine wear.
+Gearboxes are mechanical transmission systems that provide speed and torque conversion while also giving the option of forward and backwards wheel movement. They allow a typical car engine that operates at [600, 7000] \gls{rpm} to move the wheels that usually rotate at [0, 1800] \gls{rpm}. They can provide more torque when using lower gears and greater speed when employing higher gears. They also give the user more control over the engine performance, allowing better fuel efficient while also reducing engine wear. Given the high variability in gearbox designs and their interconnection gears, they can have complex assembly sequence using mostly medium size parts.
 
-
+This dataset contains a detailed instruction manual for a car gearbox and another with an extensive collection of small assembly procedures for 52 industrial gearboxes (mainly used in agricultural vehicles such as tractors). Both manuals were written with a professional discourse and in a single column layout. The first had a lot of pictures and \gls{cad} drawings, while the second only had a technical diagrams for each gearbox assembly procedure.
 
 
 \subsection{Engines}
 
-FF.
+An engine is a machine designed to convert a given source of energy (such as fuel, electricity, compressed air, elastic / chemical energy, etc) into useful mechanical energy.
 
+In this dataset it is provided an instruction manual with the detailed assembly procedures (35) of a small aircraft engine and also 5 more manuals with the assembly operations of small steam engines. All engine assembly manuals were written with a professional language style and had a single column structure.
 
 
 \begin{table*}[t]

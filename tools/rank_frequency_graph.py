@@ -2,11 +2,15 @@
 # coding=UTF-8
 
 import argparse
+import math
 import matplotlib.pyplot as plt
-
 
 def str2bool(v):
     return v.lower() in ("yes", "true", "t", "1")
+
+
+def zipfs_law(rank=1, alpha=1.0):
+    return 1.0/(pow(rank, alpha))
 
 
 if __name__ == "__main__":
@@ -20,6 +24,11 @@ if __name__ == "__main__":
     parser.add_argument('-z', metavar='FILE_VALUE_DELIMITER', type=str, required=False, default="\t", help='Value delimiter in each line')
     parser.add_argument('-e', metavar='FILE_N_SKIP_ROWS', type=int, required=False, default=0, help='Number of rows to skip when reading files')
     parser.add_argument('-t', metavar='GRAPH_TITLE', type=str, required=False, default='', help='Graph title')
+    parser.add_argument('-l', metavar='ZIPFS_LAW_EXPONENTS', type=str, required=False, default='0.25+0.5+1+2', help='Zipfs law exponents')
+    parser.add_argument('-k', metavar='ZIPFS_LAW_COLORS', type=str, required=False, default='#03A9F4+#0000FF+#00FF00+#FF0000', help='Zipfs law colors')
+    parser.add_argument('-j', metavar='ZIPFS_LAW_LABELS', type=str, required=False, default='1/(x^0.25)+1/(x^0.50)+1/(x^1.00)+1/(x^2.00)', help='Zipfs law labels')
+    parser.add_argument('-f', metavar='DATA_LABEL', type=str, required=False, default='Data', help='Data label')
+    parser.add_argument('-r', metavar='DATA_COLOR', type=str, required=False, default='#ff9800', help='Data color')
     parser.add_argument('-b', metavar='X_AXIS_LABEL', type=str, required=False, default='log10 rank', help='X axis label')
     parser.add_argument('-v', metavar='Y_AXIS_LABEL', type=str, required=False, default='log10 frequency', help='Y axis label')
     parser.add_argument('-g', metavar='DISPLAY_GRID', type='bool', required=False, default=True, help='Show graph grid')
@@ -45,6 +54,11 @@ if __name__ == "__main__":
 
     ##########################################################################
     # graph plotting
+    
+    zipfs_exponents = args.l.split('+')
+    zipfs_colors = args.k.split('+')
+    zipfs_labels = args.j.split('+')
+    
     freqs = []
     for line in open(args.i):
         columns = line.split(args.z)
@@ -52,8 +66,23 @@ if __name__ == "__main__":
             freqs.append(int(columns[args.x].strip()))
 
     ranks = range(1, len(freqs) + 1)
-    ax.loglog(ranks, freqs)
-    plt.axis('scaled')
+    if (len(zipfs_exponents) == len(zipfs_colors) and len(zipfs_exponents) == len(zipfs_labels)):
+        ax.loglog(ranks, freqs, args.r, label=args.f)
+        for current_exponent in range(0, len(zipfs_exponents)):
+            x_values = []
+            y_values = []
+            for i in ranks:
+                x_values.append(i)
+                y_values.append(zipfs_law(i, float(zipfs_exponents[current_exponent])) * freqs[0])
+            ax.loglog(x_values, y_values, zipfs_colors[current_exponent], label=zipfs_labels[current_exponent])
+        graph_legend = plt.legend(fancybox=True, prop={'size':12})
+        graph_legend.get_frame().set_alpha(0.75)
+    else:
+        ax.loglog(ranks, freqs, args.r)
+
+    plt.axis('tight')
+    ax.set_aspect('equal')
+    ax.set_ylim(bottom=1)
     plt.draw()
 
 
