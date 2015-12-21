@@ -23,6 +23,7 @@ The prop hub must be tight against the oil slinger. Immediately install prop hub
 
 
 
+
 CAM ASSEMBLY
 
 Assembly Instructions:
@@ -35,6 +36,7 @@ Note: While not common, slight interference between the cam and the connecting r
 1. Align the machined dot on the face of the Cam Gear (arrow in photo)  with the slot in the Cam Shaft. Apply Red Locktite to the bolts and install the bolts and washers (if provided).
 2. Torque the bolts to 20 ft-lbs.
 3. If tabbed washers were provided with your cam shaft, bend the tabs against the bolt heads with a flat-blade screw- driver.
+
 
 
 

@@ -1,12 +1,34 @@
 \section{Dataset sources}\label{sec:dataset-sources}
 
-This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes. These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because these categories of objects have increasing complexity (from the simple alternators to the much more complex fuel or steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with language ranging from very concise and professional to a more colloquial and unstructured. Moreover they provide tables / lists with the parts and tools required for the assembly operations. Most of them are single column and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation (in the case of the alternators), while others have the assembly operations split across the main object components.
+This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes. These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because they have increasing complexity (from the simple gearboxes to the much more complex fuel / steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with a language discourse ranging from very concise and professional to a more colloquial and unstructured type. Moreover they provide tables / lists with the parts and tools required for the assembly operations which are very useful for evaluating \gls{ner} systems.
+
+Most of these assembly instruction manuals are single column (two of them are dual column) and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation (in the case of the alternators), while others have the assembly operations split across the main object components.
+
+
+\subsection{Alternators}
+
+Alternators are electrical generators that convert mechanical energy into electric energy in the form of alternating current. Their assembly is quite complex, involving a lot of small parts and intricate wire bending.
+
+This dataset includes the detailed assembly of two automotive alternators (used to power the electric equipment of cars and charge their battery). One of them was written in a dual column layout with a lot of diagrams and in a professional and concise language style while the other one was written in single column informal language discourse while using mostly pictures instead of technical diagrams.
+
+
+\subsection{Gearboxes}
+
+Gearboxes are mechanical transmission systems that provide speed and torque conversions while also giving the option of forward and backwards wheel movement. They allow a typical car engine that operates at [600, 7000] \gls{rpm} to move the wheels with high torque when using lower gears and with high speed when employing higher gears. They give the user a high level of control over the engine performance allowing better fuel efficient and reducing engine wear.
+
+
+
+
+\subsection{Engines}
+
+FF.
+
+
 
 \begin{table*}[t]
 	\caption{Dataset overview}
-	\tabulinesep = 1ex
+	\tabulinesep = 1.3ex
 	\centering
-	\small
 	\begin{tabu} { X[2.5,m,c] | X[m,c] X[m,c] X[m,c] X[m,c] }
 		\rowfont{\bfseries\itshape} 	& Alternators									& Engines																& Gearboxes 										& Global 	\\
 		\hline

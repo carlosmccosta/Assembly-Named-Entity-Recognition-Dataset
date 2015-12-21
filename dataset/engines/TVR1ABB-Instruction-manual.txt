@@ -1,5 +1,14 @@
+TOOLS REQUIRED 
+
+Required are a small flat blade screwdriver, preferably two.  One with a 3/32 blade width and the other with 1/8 blade width.
+A sharp file.  A 6 inch single cut mill bastard is recommended.  For safety please use a handle on it.
+Small needle nose pliers.
+Tweezers are recommended for handling the small parts and a magnifying glass may be helpful. A modeling knife with #1 blade is useful for removing burrs and cutting gaskets if used.
+
+
 ASSEMBLY
 Construction is broken into several sub-assemblies. The first is the base-crankshaft. Then the valve gear is partially assembled on the columns in two groups, front and rear. These are then attached to the base-crankshaft assembly. Last the cylinder assembly is built and attached to the other two sections. At this point the valve gear is adjusted and the remaining details are finished up.
+
 
 BASE / CRANKSHAFT
 Start the assembly by placing a (51006) brass washer on each end of the (53169) crankshaft.
@@ -11,6 +20,7 @@ Install a (53175) inner bearing mounting cap on each inner bearing and secure wi
 Install a (53176) outer bearing mounting cap on each outer bearing. Make sure the bearing is still centered over the bearing support on the base. Secure with (12420) 2-56 x 5/16” fillister head screws from the bottom side of the (53177) base.
 Now set this assembly aside and let's move on to the next assembly.
 
+
 VALVE GEAR ASSEMBLIES
 Build the two valve gear assemblies at the same time. They are identical except that they are mirror images of each other. Only the front assembly will be detailed with notes for the rear assembly. Photo 2 shows the two assemblies with the front assembly on the left and the rear assembly on the right.
 Clean and remove burrs on the columns (53073), bellcranks (53074), offset links (53087), 2 hole links (53088), and Bellcrank mount bushings (54104).
@@ -20,8 +30,9 @@ Insert a bellcrank mount bushing into the side of a column. File the small protr
 The short end of each column goes toward the top of the engine. Insert a 2-56 x 1/2” pan head screw through the bushing from the small diameter end of the bushing. Thread the screw into a bellcrank. The bellcrank is spaced away from the column by the large end of the bushing. Repeat for the second column but place the bellcrank in a mirror image position. Rotate the bellcranks so the long arm is perpendicular to the column and the short end is toward the top of the column. Facing the bellcrank side of the assemblies, the front assembly will have the arms of the bellcrank to the right of the column and the rear assembly will have the arms to the left.
 Place the offset links on a flat surface so the long end lays flat on the surface. The short end will not touch the surface. Insert a BUSHING (54040) in the hole in the long end of each link. File the bushings flush on the other side. Insert a 0-80 X 3/16” pan head screw through the small end of each bushing. Thread the screw into the short arm of the bellcrank from the side of the bellcrank nearest the column. Repeat for the other assembly.
 [OPTIONAL] The two screw ends that protrude from the bellcrank look much better if they are filed flush with the bellcrank. After filing these screws flush, the screws may be removed and the bellcrank polished.
-Then reassemble.
+Then reassemble.1
 Insert a Bushing (54040) in one end of each of the short 2 hole links. If one end of the link is distorted from filing the tab, insert the bushing in the best looking end. The other end will be hidden during final assembly. File the protruding small end of the bushing flush with the link. Insert a 0-80 X 1/8” pan head in the small end of the bushing and attach to the long arm of the bellcrank on the side away the column. Repeat for the second assembly.
+
 
 BUILDING UPWARD
 The photo shows how to tie together everything we have done so far plus add a few more pieces.
@@ -41,6 +52,7 @@ From the top of the engine, slide the connecting rod between the crankwebs onto 
 While holding the connecting rod in place, turn the engine over and place the bearing cap with screws on the connecting rod and tighten the screws. Pay attention to the alignment marks that you made on the two parts. The connecting rod will probably be slightly tight on the crankpin, but should move easily with finger pressure.
 Repeat the procedure with the other connecting rod.
 Now set this assembly aside and smile. It's starting to look like an engine.
+
 
 THE CYLINDER GROUP
 In this assembly section a number of parts will require lapping as described in the general procedures. I prefer to lap all the parts at the same time and then clean and oil them before beginning assembly.
@@ -79,6 +91,7 @@ Secure each O-Ring in place with a 1/16” hole seal retainer (51007) and two 0-
 Place the steam chest assembly on your left on the port face of the front cylinder with the threaded end of the valve spindle at the crosshead end of the cylinder. The rectangular cavity of the valve must touch the port face of the cylinder. The steam inlet on the steam chest must be on the opposite side of the cylinder from the exhaust outlet in the cylinder. If not, you probably have the steam chest on the rear cylinder. Temporarily hold the steam chest to the cylinder using two 2-56 x 7/16 pan head screws (12228). Gently tighten these screws. If tightened firmly, they will damage the lapped surface of the steam chest and may cause a steam leak later.
 Install the other steam chest assembly on the rear cylinder in the same manner.
 Thread a 0-80 nut (10000) to the middle of the threaded portion of each valve spindle. Thread the tapered end of a fork (53089) on each valve spindle approximately 6 turns. Position the fork so the 0-80 tapped hole in the side of the fork that faces the crosshead guide.
+
 
 FINAL ASSEMBLY AND ADJUSTMENT
 Now it will really become an engine. It is time to tie everything together, make all the adjustments, and finish up the engine.

@@ -20,6 +20,9 @@ Item  Part No.      Qty    Description
 17    4855          1      Shoulder Ring
 18    4857          1      O-Ring
 
+
+
+
 GEARBOX P/N 00749003
 Item     Part No.    Qty.   Description
 0        00749003    --     Gearbox Asy (540 RPM)
@@ -74,6 +77,9 @@ Item     Part No.    Qty.   Description
 44       00749525    1      Gear, 17 Tooth
 45       00749526    3      Washer
 
+
+
+
 GEARBOX P/N 00752140 & 00752140A 00752141 & 00752141A
 Item    Part No.     Qty    Description
 0       00752140A    --     Gearbox Asy (540 RPM) Input Gear in Front (Shown)
@@ -110,6 +116,9 @@ Item    Part No.     Qty    Description
 30      00606100     1      Nut (Blade Hub Retaining)
 31      00606000     1      Cotter Pin (Blade Hub Retaining)
 
+
+
+
 GEARBOX P/N 00753190
 ITEM     PART NO.       QTY    DESCRIPTION
 0        00753190       --     Gearbox Asy (540 only)
@@ -137,6 +146,9 @@ ITEM     PART NO.       QTY    DESCRIPTION
 22       00753242       1      Key
 23       00755069       1      Gasket, for Top cover
 
+
+
+
 GEARBOX P/N 00754005
 ITEM     PART NO.       QTY    DESCRIPTION
 0        00754005       --     Gearbox Asy (540 only)
@@ -163,6 +175,9 @@ ITEM     PART NO.       QTY    DESCRIPTION
 21       00753241       2      Bearing
 22       00753242       1      Key
 23       00755069       1      Gasket, For Top Cover
+
+
+
 
 GEARBOX P/N 00755566
 Item      Part No.      Qty.   Description
@@ -196,6 +211,9 @@ Item      Part No.      Qty.   Description
 30        00755624      1      Nut, Castle
 31        163016        1      Cotterpin, Blade Carrier
 32        00755623      1      Washer f/ Blade carrier, Not Shown)
+
+
+
 
 GEARBOX P/N 00755598
 Item    Part No.     Qty    Description
@@ -231,6 +249,9 @@ Item    Part No.     Qty    Description
 31      00755623     1      Washer, Blade Carrier (Not Shown)
 32      00606000     1      Cotterpin, Blade Carrier (Not Shown)
 
+
+
+
 GEARBOX P/N 00755697A
 Item   Part No.      Qty.   Description
 0       00755697A    --     Gearbox Asy. Divider 1000 RPM
@@ -256,6 +277,9 @@ Item   Part No.      Qty.   Description
 20      00753230     6      Bolt
 21      00753240     1      Cover, Top
 22      00756649     2      Snap Ring Lining
+
+
+
 
 GEARBOX P/N 00755698
 Item    Part No.     Qty    Description
@@ -289,6 +313,9 @@ Item    Part No.     Qty    Description
 27      00010300     4      Lockwasher
 28      00010400     4      Nut
 
+
+
+
 GEARBOX P/N 00756603A
 Item    Part No.     Qty.   Description
 0       00756603A    --     Gearbox Asy. Divider (540 RPM)
@@ -314,6 +341,9 @@ Item    Part No.     Qty.   Description
 20      00753230     6      Bolt
 21      00753240     1      Cover, Top
 22      00756649     2      Snap Ring Lining
+
+
+
 
 GEARBOX P/N 00756604
 Item    Part No.     Qty   Description
@@ -347,6 +377,9 @@ Item    Part No.     Qty   Description
 27      00010300     4     Lockwasher
 28      00010400     4     Nut
 
+
+
+
 GEARBOX P/N 00756622
 Item    Part No.     Qty   Description
 0       00756622     --    Gearbox Asy. (1000 RPM)
@@ -378,6 +411,9 @@ Item    Part No.     Qty   Description
 30      00755623     1     Washer, Blade Carrier
 31      163016       1     Cotterpin, Blade Carrier
 
+
+
+
 GEARBOX P/N 00756624
 Item      Part No.       Qty.   Description
 1          00755613      1      Casing
@@ -407,6 +443,9 @@ Item      Part No.       Qty.   Description
 29         00755623      1      Washer
 30         00755624      1      Nut, Castle
 31       163016          1      Cotterpin, Blade Carrier
+
+
+
 
 GEARBOX P/N 00756739
 Item   Part No.      Qty    Description
@@ -439,6 +478,9 @@ Item   Part No.      Qty    Description
 30      00755623     1      Washer, Blade Carrier
 31      163016       1      Cotterpin, Blade Carrier
 
+
+
+
 GEARBOX P/N 00756741
 Item       Part No.      Qty.   Description
 1          00755613      1      Casing
@@ -468,6 +510,9 @@ Item       Part No.      Qty.   Description
 29         00755623      1      Washer
 30         00755624      1      Nut, Castle
 31         163016        1      Cotterpin, Blade Carrier
+
+
+
 
 GEARBOX P/N 00756744
 Item     Part No.    Qty    Description
@@ -500,6 +545,9 @@ Item     Part No.    Qty    Description
 30       00755623    1      Washer, Blade Carrier
 31       163016      1      Cotterpin, Blade Carrier
 
+
+
+
 GEARBOX P/N 00757825
 Item    Part No.      Qty      Description
 0       00757825      --       Gearbox Asy (540 RPM)
@@ -531,6 +579,9 @@ Item    Part No.      Qty      Description
 28      00758667      A/R      Shim (010)
 29      00758668      A/R      Shim (.020)
 
+
+
+
 GEARBOX P/N 00757826
 Item      Part No.     Qty       Description
 0         00757826     --        Gearbox Asy (1000 RPM)
@@ -561,6 +612,9 @@ Item      Part No.     Qty       Description
 27        00758666     A/R       Shim (.004)
 28        00758667     A/R       Shim (010)
 29        00758668     A/R       Shim (.020)
+
+
+
 
 GEARBOX P/N 00757828
 Item      Part No.     Qty     Description
@@ -602,6 +656,9 @@ Item      Part No.     Qty     Description
 38        00758668     1-a/r   Shim (0.020" Thick)
 39        00758694     1       Gear, Input 19 Tooth (540 RPM)
 
+
+
+
 GEARBOX P/N 00757828B
 Item      Part No.     Qty     Description
 0         00757828B    1       Gearbox Asy, (540 RPM)
@@ -642,6 +699,9 @@ Item      Part No.     Qty     Description
 33        00565000     1       Oil Level Plug (Sq Head Tapered Thread)
 33        00762517     1       Oil Level Plug (Allen Head w/ Seal Washer)
 
+
+
+
 GEARBOX P/N 00757918
 Item   Part No.     Qty    Description
 0      00757918     1      Gearbox Asy 540 RPM
@@ -676,6 +736,9 @@ Item   Part No.     Qty    Description
 29      00755623    1      Washer, (Not Shown)
 30      00755624    1      Nut (Not, Shown)
 31      00606000    1      Cotter Pin, (Not Shown)
+
+
+
 
 GEARBOX P/N 00758217B
 Item     Part No.     Qty    Description
@@ -714,6 +777,9 @@ Item     Part No.     Qty    Description
 34       00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
 38       00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
 
+
+
+
 GEARBOX P/N 00758959
 Item  Part No.    Qty   Description
 1     00758713    1     Input Shaft
@@ -745,6 +811,9 @@ Item  Part No.    Qty   Description
 28    00758728    1     Shim
 29    00564100    1     Retaining Ring
 
+
+
+
 GEARBOX P/N 00758996
 Item    Part No.     Qty    Description
 0       00758996     1      Gearbox Asy, 1000 RPM
@@ -766,6 +835,9 @@ Item    Part No.     Qty    Description
 16      00762522     1      Shaft Input
 17      00759488     1      Gear, 17 Tooth (1000 RPM)
 18      00762114     1      Pipe Plug Vented (not illustrated)
+
+
+
 
 GEARBOX P/N 00759205B & 00759206B
 Item    Part No.      Qty    Description
@@ -804,6 +876,9 @@ Item    Part No.      Qty    Description
 34       00565000     a/r    Plug, Oil Level, Sq Head (Tapered Thread)
 34       00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
 35       00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
+
+
+
 
 GEARBOX P/N 00760403B, 00750506B & 00750507B
 Item    Part No.     Qty    Description
@@ -846,6 +921,9 @@ Item    Part No.     Qty    Description
 34      00762517     a/r    Plug, Oil Level, Allen Head (Straight Thread w/ Sealing Washer)
 35      00769321     2      Seal Washer, (Use Only w/ 00762517 or 00762114 Plugs)
 
+
+
+
 GEARBOX P/N 00760880
 Item    Part No.     Qty    Description
 0       00760880     1      Gearbox Asy, 540 RPM
@@ -867,6 +945,9 @@ Item    Part No.     Qty    Description
 16      00762522     1      Shaft Input
 17      00758694     1      Gear, 19 Tooth (540 RPM)
 18      00762114     1      Pipe Plug Vented (not illustrated)
+
+
+
 
 GEARBOX P/N 00763623
 Item    Part No.   Qty   Description
@@ -894,6 +975,9 @@ Item    Part No.   Qty   Description
 21      00749508   1     Oil Fill Plug
 22      00565000   1     Level Plug
 23      6192       1     Washer
+
+
+
 
 GEARBOX P/N 00763623B
 Item    Part No.   Qty   Description
@@ -923,6 +1007,9 @@ Item    Part No.   Qty   Description
 23      6192       1     Washer
 24      00563700   2     Bearing, Output
 
+
+
+
 GEARBOX P/N 00763666
 Item    Part No.     Qty.   Description
 1       00764462     2      Shaft, LH & RH Output
@@ -939,6 +1026,9 @@ Item    Part No.     Qty.   Description
 12      00764473     1      Bushing (Not Shown)
 13      02959018     1      Relief Valve (Not Shown)
 14      00764475     12     Bolt (Not Shown)
+
+
+
 
 GEARBOX P/N 00764053
 Item    Part No.     Qty    Description
@@ -971,6 +1061,9 @@ Item    Part No.     Qty    Description
 30      00755623     1      Washer, Blade Carrier
 31      163016       1      Cotterpin, Blade Carrier
 
+
+
+
 GEARBOX P/N 00769115
 Item     Part No.    Qty    Description
 0        00769115    --     Gearbox Asy, (540 RPM)
@@ -1000,6 +1093,9 @@ Item     Part No.    Qty    Description
 24*      00010300    4      Lockwasher (Not Shown)
 25*      02675800    4      Bolt (Not Shown)
 
+
+
+
 GEARBOX P/N 00769116
 Item     Part No.    Qty    Description
 0        00769116    --     Gearbox Asy, (1000 RPM)
@@ -1028,6 +1124,9 @@ Item     Part No.    Qty    Description
 23       00762114    1      Pipe Plug Vented (not shown)
 24       00010300    4      Lockwasher (Not Shown)
 25       02975800    4      Bolt (Not Shown)
+
+
+
 
 GEARBOX P/N 00769912
 Item     Part No.     Qty    Description
@@ -1063,6 +1162,9 @@ Item     Part No.     Qty    Description
 31       00758668     VAR    Shim (0.50)
 32       00762114     1      Pressure Plug Vent (To Be Installed before Operating)
 
+
+
+
 GEARBOX P/N 00769915
 Item    Part No.     Qty    Description
 0       00769915     --     Gearbox Asy, (540 RPM)
@@ -1096,6 +1198,9 @@ Item    Part No.     Qty    Description
 31      00770731     1      Input Shaft Spacer
 32      00762517     1      Plug, For Shipping (Remove before Operating)
 33      00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
 
 GEARBOX P/N 00769918
 Item     Part No.     Qty    Description
@@ -1132,6 +1237,9 @@ Item     Part No.     Qty    Description
 31       00762517     1      Plug, For Shipping (Remove before Operating)
 31       00762114     1      Pressure Relief Valve (Install Before Operating)
 
+
+
+
 GEARBOX P/N 00769921
 Item    Part No.     Qty    Description
 0       00769921     --     Gearbox Asy, (540 RPM)
@@ -1166,6 +1274,9 @@ Item    Part No.     Qty    Description
 31      00770731     1      Input Shaft Spacer
 32      00762517     1      Plug, For Shipping (Remove before Operating)
 32      00762114     1      Pressure Relief Valve (Install Before Operating)
+
+
+
 
 GEARBOX P/N 00769924
 Item     Part No.     Qty    Description
@@ -1202,6 +1313,9 @@ Item     Part No.     Qty    Description
 31       00762517     1      Plug, For Shipping (Remove before Operating)
 31       00762114     1      Pressure Relief Valve (Install Before Operating)
 
+
+
+
 GEARBOX P/N 00769927
 Item    Part No.     Qty    Description
 0       00769927     --     Gearbox Asy, (1000 RPM)
@@ -1237,6 +1351,9 @@ Item    Part No.     Qty    Description
 32      00762517     1      Plug, For Shipping (Remove before Operating)
 31      00762114     1      Pressure Relief Valve (Install Before Operating)
 
+
+
+
 GEARBOX P/N 00769930
 Item    Part No.     Qty    Description
 0       00769930     --     Gearbox Asy,  (1000 RPM)
@@ -1270,6 +1387,9 @@ Item    Part No.     Qty    Description
 31      00758668     VAR    Shim (0.50)
 32      00762114     1      Pressure Plug Vent (To Be Installed before Operating)
 
+
+
+
 GEARBOX P/N 00770367
 Item   Part No.     Qty   Description
 0      00770367     --    Gearbox Asy
@@ -1300,6 +1420,9 @@ Item   Part No.     Qty   Description
 23     00564400     a/r   Gasket 0.30
 24     00770404     1     Input Cap
 25     00564200     1     Seal, Input
+
+
+
 
 GEARBOX P/N 00771225
 Item    Part No.     Qty    Description
@@ -1333,6 +1456,9 @@ Item    Part No.     Qty    Description
 29      00758667     VAR    Shim (0.30)
 31      00758668     VAR    Shim (0.50)
 32      00762114     1      Pressure Plug Vent (To Be Installed before Operating)
+
+
+
 
 GEARBOX P/N 00775919
 Item   Part No.     Qty   Description
@@ -1372,6 +1498,9 @@ Item   Part No.     Qty   Description
 33     00756077     6     Washer
 33     00695100     6     Locknut
 
+
+
+
 GEARBOX P/N 02978513
 Item      Part No.       Qty.     Description
 0         02978513       --       Gearbox Asy, (540 RPM)
@@ -1402,6 +1531,9 @@ Item      Part No.       Qty.     Description
 25        02978770       1        Splined hub (Welded to Blade Carrier)
 26        02978771       1        Cotter pin
 
+
+
+
 GEARBOX P/N 02978514
 Item    Part No.     Qty.   Description
 0       02978514     --     Gearbox Asy. (540 RPM)
@@ -1428,6 +1560,9 @@ Item    Part No.     Qty.   Description
 21      02978728     1      Cover, Top
 22      000944       4      Lock Nut, (f/mounting Gearbox)
 23      00753753     4      Bolt, (f/mounting Gearbox
+
+
+
 
 GEARBOX P/N 02978523
 Item      Part No.       Qty.     Description
@@ -1459,6 +1594,9 @@ Item      Part No.       Qty.     Description
 25        02978770       1        Splined hub (Welded to Blade Carrier)
 26        02978771       1        Cotter pin
 
+
+
+
 GEARBOX P/N 02978533
 Item      Part No.       Qty.     Description
 0         02978533       --       Gearbox Asy, (540 or 1000 RPM)
@@ -1489,6 +1627,9 @@ Item      Part No.       Qty.     Description
 25        02978770       1        Splined hub (Welded to Blade Carrier)
 26        02978771       1        Cotter pin
 
+
+
+
 GEARBOX P/N 02978968
 Item    Part No.     Qty.   Description
 0       02978968     --     Gearbox Asy. (1000 RPM)
@@ -1515,6 +1656,9 @@ Item    Part No.     Qty.   Description
 21      02978728     1      Cover, Top
 22      000944       4      Lock Nut, (f/mounting Gearbox)
 23      00753753     4      Bolt, (f/mounting Gearbox
+
+
+
 
 GEARBOX P/N 02978971
 Item      Part No.       Qty.     Description
@@ -1546,6 +1690,9 @@ Item      Part No.       Qty.     Description
 25        02978770       1        Splined hub (Welded to Blade Carrier)
 26        02978771       1        Cotter pin
 
+
+
+
 GEARBOX P/N 4800
 Item  Part No. Qty    Description
 0     4800    --      Gearbox Asy, (540 RPM)
@@ -1570,6 +1717,9 @@ Item  Part No. Qty    Description
 19     4840    1      Nut Slotted (Not Shown)
 20     4846    1      Washer  (Not Shown)
 21     7343    1      Cotter Pin (Not Shown)
+
+
+
 
 GEARBOX P/N 700493
 Item Part No.  Qty  Description
@@ -1603,16 +1753,28 @@ Item Part No.  Qty  Description
 21    000054   1    Pipe Plug, Level (1/2")
 22    000055   1    Pipe Plug, Fill  (1/4" )
 
+
+
+
 GEARBOX P/N 702673
-Item Part No.  Qty  Description            Item Part No.  Qty  Description
-702673    -   Gearbox Asy.             11  001724    1    Seal
-1    001718    1   Pinion                  12  001725    1    Shaft & Gear
-2    001719    1   Seal                     13  00754459  1    Bearing, Ball
-3    001717    1   Nut                      14  001708    8    Bolt
-4    001720    1   Spring Washer            15  001710    1    Cover
-5    00754757  2   Bearing, Roller         16  00755633  2    Plug
-6    001716    1   Spacer                   17  000055    2    Plug, Drain
-7    00754752  2   Circlip, Internal        18  002516    1    Housing
-8    001722    1   Bearing, Roller        19*  00769800  1    Gasket (See * NOTE:)
+Item Part No.  Qty  Description
+0    702673    -   Gearbox Asy.
+1    001718    1   Pinion
+2    001719    1   Seal
+3    001717    1   Nut
+4    001720    1   Spring Washer
+5    00754757  2   Bearing, Roller
+6    001716    1   Spacer
+7    00754752  2   Circlip, Internal
+8    001722    1   Bearing, Roller
 9    00753222  2   Shim
 10   00754761  1   Shim
+11   001724    1   Seal
+12   001725    1   Shaft & Gear
+13   00754459  1   Bearing, Ball
+14   001708    8   Bolt
+15   001710    1   Cover
+16   00755633  2   Plug
+17   000055    2   Plug, Drain
+18   002516    1   Housing
+19*  00769800  1   Gasket (See * NOTE:)
