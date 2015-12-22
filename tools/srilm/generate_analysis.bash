@@ -14,4 +14,3 @@ for dataset_name in ${dataset_filenames}; do
 		let ngram_counter+=1
 	done
 done
- 

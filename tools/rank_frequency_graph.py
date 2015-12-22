@@ -5,9 +5,9 @@ import argparse
 import math
 import matplotlib.pyplot as plt
 
+
 def str2bool(v):
     return v.lower() in ("yes", "true", "t", "1")
-
 
 def zipfs_law(rank=1, alpha=1.0):
     return 1.0/(pow(rank, alpha))
