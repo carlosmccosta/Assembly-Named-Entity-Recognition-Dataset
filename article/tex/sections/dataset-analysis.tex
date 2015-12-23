@@ -62,8 +62,8 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 	\caption{Total count of n-grams in the tokenized dataset}
 	\extrarowsep = 0.47ex
 	\centering
-	\begin{tabu} to 0.22\textwidth { X[m,c] X[m,c] }
-		\rowfont{\bfseries\itshape} N-gram & Total count \\
+	\begin{tabu} to 0.18\textwidth { X[m,l] X[m,r] }
+		\rowfont{\bfseries\itshape} N-gram & Count \\
 		\hline
 		Unigram		&	 2487	\\
 		Bigram		&	14140	\\
@@ -78,9 +78,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 
 \begin{table}[ht]
 	\extrarowsep = 0.47ex
-	\begin{minipage}[t]{.495\linewidth}
+	\centering
+	\begin{minipage}[t]{.3\linewidth}
 		\caption{Most common unigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Unigram & Count \\
 			\hline
 			the		&	3692 \\
@@ -96,9 +97,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 		\end{tabu}
 		\label{tab:most-common-unigrams}
 	\end{minipage}
-	\begin{minipage}[t]{.495\linewidth}
+	\hspace{2em}
+	\begin{minipage}[t]{.3\linewidth}
 		\caption{Least common unigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Unigram & Count \\
 			\hline
 			connected		&	1 \\
@@ -119,9 +121,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 
 \begin{table}[ht]
 	\extrarowsep = 0.47ex
-	\begin{minipage}[t]{.495\linewidth}
+	\centering
+	\begin{minipage}[t]{.4\linewidth}
 		\caption{Most common bigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Bigram & Count \\
 			\hline
 			. </s>			&	1120 \\
@@ -137,9 +140,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 		\end{tabu}
 		\label{tab:most-common-bigrams}
 	\end{minipage}
-	\begin{minipage}[t]{.495\linewidth}
+	\hspace{1em}
+	\begin{minipage}[t]{.4\linewidth}
 		\caption{Least common bigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Bigram & Count \\
 			\hline
 			engine assembly		&	1 \\
@@ -160,9 +164,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 
 \begin{table}[ht]
 	\extrarowsep = 0.47ex
-	\begin{minipage}[t]{.495\linewidth}
+	\centering
+	\begin{minipage}[t]{.45\linewidth}
 		\caption{Most common trigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Trigram & Count \\
 			\hline
 			\& cone )			&	182 \\
@@ -178,9 +183,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 		\end{tabu}
 		\label{tab:most-common-trigrams}
 	\end{minipage}
-	\begin{minipage}[t]{.495\linewidth}
+	\hspace{0.5em}
+	\begin{minipage}[t]{.45\linewidth}
 		\caption{Least common trigrams}
-		\begin{tabu} { X[2.5,m,c] X[m,c] }
+		\begin{tabu} { X[2.5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Trigram & Count \\
 			\hline
 			attach the piston		&	1 \\
@@ -201,9 +207,10 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 
 \begin{table}[ht]
 	\extrarowsep = 0.47ex
+	\centering
 	\begin{minipage}[t]{.495\linewidth}
 		\caption{Most common tetragrams}
-		\begin{tabu} { X[4,m,c] X[m,c] }
+		\begin{tabu} { X[4,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Tetragram & Count \\
 			\hline
 			cup \& cone )				&	182 \\
@@ -221,7 +228,7 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 	\end{minipage}
 	\begin{minipage}[t]{.495\linewidth}
 		\caption{Least common tetragrams}
-		\begin{tabu} { X[4,m,c] X[m,c] }
+		\begin{tabu} { X[4,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Tetragram & Count \\
 			\hline
 			center the shaft on			&	1 \\
@@ -241,10 +248,11 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 
 
 \begin{table}[ht]
-	\extrarowsep = 1.4ex
+	\extrarowsep = 0.47ex
+	\centering
 	\begin{minipage}[t]{.495\linewidth}
 		\caption{Most common pentagrams}
-		\begin{tabu} { X[4,m,c] X[m,c] }
+		\begin{tabu} { X[4,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Pentagram & Count \\
 			\hline
 			cup \& cone ) into			&	71 \\
@@ -262,7 +270,7 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 	\end{minipage}
 	\begin{minipage}[t]{.495\linewidth}
 		\caption{Least common pentagrams}
-		\begin{tabu} { X[5,m,c] X[m,c] }
+		\begin{tabu} { X[5,m,l] X[m,r] }
 			\rowfont{\bfseries\itshape} Pentagram & Count \\
 			\hline
 			area on shaft where seal		&	1 \\
@@ -301,4 +309,49 @@ FF.
 
 \subsection{N-gram models perplexity}
 
-FF.
+\begin{table}[t]
+	\caption{Tokenized testing dataset overview}
+	\extrarowsep = 0.47ex
+	\centering
+	\begin{tabu} to 0.33\textwidth { X[5,m,l] X[m,r] }
+		\rowfont{\bfseries\itshape} Metric & Value \\
+		\hline
+		Sentences							&	   439	\\
+		Words								&	 20829	\\
+		Out of vocabulary words ignored		&	  4848	\\
+		Zero probabilities words ignored	&	  1109	\\
+	\end{tabu}
+	\label{tab:n-grams-models-stats}
+\end{table}
+
+
+\begin{table}[t]
+	\caption{N-grams models perplexities}
+	\extrarowsep = 0.47ex
+	\centering
+	\begin{tabu} to 0.29\textwidth { X[2.5,m,l] X[m,r] }
+		\rowfont{\bfseries\itshape} N-gram model & Perplexity \\
+		\hline
+		Unigram (no smoothing)		&	243.771		\\
+		Unigram (Laplace add-1)		&	245.126		\\
+		Unigram (Kneser-Ney)		&	243.771		\\
+		Unigram (Witten-Bell)		&	245.126		\\
+		Bigram (no smoothing)		&	164.299		\\
+		Bigram (Laplace add-1)		&	182.235		\\
+		Bigram (Kneser-Ney)			&	 56.408		\\
+		Bigram (Witten-Bell)		&	 56.717		\\
+		Trigram (no smoothing)		&	133.965		\\
+		Trigram (Laplace add-1)		&	233.030		\\
+		Trigram (Kneser-Ney)		&	 44.559		\\
+		Trigram (Witten-Bell)		&	 45.160		\\
+		Tetragram (no smoothing)	&	131.832		\\
+		tetragram (Laplace add-1)	&	245.794		\\
+		Tetragram (Kneser-Ney)		&	 44.067		\\
+		Tetragram (Witten-Bell)		&	 44.042		\\
+		Pentagram (no smoothing)	&	132.059		\\
+		Pentagram (Laplace add-1)	&	250.158		\\
+		Pentagram (Kneser-Ney)		&	 45.725		\\
+		Pentagram (Witten-Bell)		&	 44.281		\\
+	\end{tabu}
+	\label{tab:n-grams-models-perplexities}
+\end{table}
