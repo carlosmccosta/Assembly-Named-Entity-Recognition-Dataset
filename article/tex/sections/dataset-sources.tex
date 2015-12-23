@@ -1,6 +1,6 @@
 \section{Dataset sources}\label{sec:dataset-sources}
 
-This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes. These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because they have increasing complexity (from the simple gearboxes to the much more complex fuel / steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with a language discourse ranging from very concise and professional to a more colloquial and unstructured type. Moreover they provide tables / lists with the parts and tools required for the assembly operations which are very useful for evaluating \gls{ner} systems.
+This dataset is composed of 10 English instruction manuals with 453 pages detailing assembly operations of alternators, engines and gearboxes (more details shown in \cref{tab:dataset-sources_dataset-overview}). These object categories were selected because they have small, light and diverse components that a typical industrial robot arm can manipulate and also because they have increasing complexity (from the simple gearboxes to the much more complex fuel / steam engines). These manuals were selected for performing \gls{ner} because they are a representative sample of the several types of manuals that are available for operators working in small parts assembly and also because they were written with a language discourse ranging from very concise and professional to a more colloquial and unstructured type. Moreover they provide tables / lists with the parts and tools required for the assembly operations which are very useful for evaluating \gls{ner} systems.
 
 Most of these assembly instruction manuals are single column (two of them are dual column) and have \gls{cad} drawings or pictures alongside the assembly procedures. Moreover, some of these procedures are very long, with the description of all the necessary parts for the entire assembly operation while others have the assembly operations split across the main object components.
 
@@ -14,29 +14,29 @@ This dataset includes the detailed assembly of two automotive alternators (used 
 
 \subsection{Gearboxes}
 
-Gearboxes are mechanical transmission systems that provide speed and torque conversion while also giving the option of forward and backwards wheel movement. They allow a typical car engine that operates at [600, 7000] \gls{rpm} to move the wheels that usually rotate at [0, 1800] \gls{rpm}. They can provide more torque when using lower gears and greater speed when employing higher gears. They also give the user more control over the engine performance, allowing better fuel efficient while also reducing engine wear. Given the high variability in gearbox designs and their interconnection gears, they can have complex assembly sequence using mostly medium size parts.
+Gearboxes are mechanical transmission systems that provide speed and torque conversion while also giving the option of forward and backwards wheel movement. They allow a typical car engine that operates at [600, 7000] \gls{rpm} to move the wheels that usually rotate at [0, 1800] \gls{rpm}. They can provide more torque when using lower gears and greater speed when employing higher gears. They also give the user more control over the engine performance, allowing better fuel efficient while also reducing engine wear. Given the high variability in gearbox designs and their interconnecting gears, they can have a complex assembly sequence using mostly medium size parts.
 
-This dataset contains a detailed instruction manual for a car gearbox and another with an extensive collection of small assembly procedures for 52 industrial gearboxes (mainly used in agricultural vehicles such as tractors). Both manuals were written with a professional discourse and in a single column layout. The first had a lot of pictures and \gls{cad} drawings, while the second only had a technical diagrams for each gearbox assembly procedure.
+This dataset contains a detailed instruction manual for a car gearbox and another with an extensive collection of small assembly procedures for 52 industrial gearboxes (mainly used in agricultural vehicles such as tractors). Both manuals were written with a professional discourse and in a single column layout. The first had a lot of pictures and \gls{cad} drawings, while the second only had technical diagrams for each gearbox assembly procedure.
 
 
 \subsection{Engines}
 
 An engine is a machine designed to convert a given source of energy (such as fuel, electricity, compressed air, elastic / chemical energy, etc) into useful mechanical energy.
 
-In this dataset it is provided an instruction manual with the detailed assembly procedures (35) of a small aircraft engine and also 5 more manuals with the assembly operations of small steam engines. All engine assembly manuals were written with a professional language style and had a single column structure.
+In this dataset it is provided an instruction manual with the detailed assembly procedures (35) of a small aircraft engine and also 5 more manuals with the assembly operations of small steam engines. All engine assembly manuals were written with a professional language style and had a single column structure with a lot of accompanying figures.
 
 
-\begin{table*}[t]
+\begin{table}[t]
 	\caption{Dataset overview}
-	\tabulinesep = 1.3ex
+	\extrarowsep = 0.9ex
 	\centering
-	\begin{tabu} { X[2.5,m,c] | X[m,c] X[m,c] X[m,c] X[m,c] }
+	\begin{tabu} { X[1.7,m,c] X[m,c] X[m,c] X[m,c] X[m,c] }
 		\rowfont{\bfseries\itshape} 	& Alternators									& Engines																& Gearboxes 										& Global 	\\
 		\hline
-		Number of pages 				& \cooltooltip[1 1 1]{}{}{30+54}{}{84}			& \cooltooltip[1 1 1]{}{}{70+12+15+19+19+13}{}{148}						& \cooltooltip[1 1 1]{}{}{18+203}{}{221}			& 453		\\
-		Number of assembly procedures 	& \cooltooltip[1 1 1]{}{}{1+1}{}{2}				& \cooltooltip[1 1 1]{}{}{35+1+1+1+1+1}{}{40}							& \cooltooltip[1 1 1]{}{}{1+52}{}{53}				& 95		\\
-		Number of words					& \cooltooltip[1 1 1]{}{}{4009+5385}{}{9394}	& \cooltooltip[1 1 1]{}{}{9151+1851+1697+4063+4140+1993}{}{22895}		& \cooltooltip[1 1 1]{}{}{923+31169}{}{32092}		& 64381		\\
-		Number of characters			& \cooltooltip[1 1 1]{}{}{25240+30941}{}{56181}	& \cooltooltip[1 1 1]{}{}{54386+10489+9451+22782+23138+11482}{}{131728}	& \cooltooltip[1 1 1]{}{}{6492+186083}{}{192575}	& 380484	\\
+		Nº of pages 				& \cooltooltip[1 1 1]{}{}{30+54}{}{84}			& \cooltooltip[1 1 1]{}{}{70+12+15+19+19+13}{}{148}						& \cooltooltip[1 1 1]{}{}{18+203}{}{221}			& 453		\\
+		Nº of assembly procedures 	& \cooltooltip[1 1 1]{}{}{1+1}{}{2}				& \cooltooltip[1 1 1]{}{}{35+1+1+1+1+1}{}{40}							& \cooltooltip[1 1 1]{}{}{1+52}{}{53}				& 95		\\
+		Nº of words					& \cooltooltip[1 1 1]{}{}{4009+5385}{}{9394}	& \cooltooltip[1 1 1]{}{}{9151+1851+1697+4063+4140+1993}{}{22895}		& \cooltooltip[1 1 1]{}{}{923+31169}{}{32092}		& 64381		\\
+		Nº of characters			& \cooltooltip[1 1 1]{}{}{25240+30941}{}{56181}	& \cooltooltip[1 1 1]{}{}{54386+10489+9451+22782+23138+11482}{}{131728}	& \cooltooltip[1 1 1]{}{}{6492+186083}{}{192575}	& 380484	\\
 	\end{tabu}
 	\label{tab:dataset-sources_dataset-overview}
-\end{table*}
+\end{table}
