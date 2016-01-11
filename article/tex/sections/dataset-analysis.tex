@@ -55,7 +55,9 @@ Analyzing \crefrange{fig:rank-frequency-unigram}{fig:rank-frequency-pentagram} i
 
 Analyzing the most common and uncommon words / n-grams is useful to gather a quick overview of the topics discussed in a given text corpus.
 
-In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
+In \cref{tab:n-grams-counts} is shown the unique n-gram counts for the tokenized training dataset. It can be seen that the training dataset vocabulary is composed of 2487 unique words that were used to form 14140 unique bigrams, 8997 unique trigrams, 9306 unique tetragrams and 9138 unique pentagrams.
+
+Looking at \cref{tab:most-common-unigrams,tab:least-common-unigrams} it can be seen that the most common unigrams are mainly word articles, prepositions, conjunctions, punctuation and also the beginning and end sentence tags (<s> and </s>) while the less common unigrams are mainly verbs, nouns and adjectives. Analyzing the \crefrange{tab:most-common-bigrams}{tab:least-common-pentagrams} we can see that the word variety and complexity increases as we move from bigrams to pentagrams.
 
 
 \begin{table}[t]
@@ -289,13 +291,16 @@ In \cref{tab:most-common-unigrams,tab:least-common-unigrams} is shown
 \end{table}
 
 
-\subsection{N-grams interpolation}
-
-FF.
-
-
 
 \subsection{N-grams models smoothing}
+
+Maximum likelihood estimation gives zero probability to word sequences that have not occurred in the training data. As such, it is necessary to redistribute some of the probability mass in order to ensure that there are no n-grams with the known vocabulary that have zero probability. This redistribution of probability mass is known as smoothing, because the resulting language model has smoother transitions in the n-gram probabilities.
+
+One of the simplest smoothing techniques is the Laplace smoothing, which adds $\alpha$ (typically $\alpha=1$) to the n-gram counts. However, techniques such as the Witten Bell and Knesser Ney can achieve much better results (as can be seen in the much lower perplexity values shown in \cref{tab:n-grams-models-perplexities}).
+
+
+
+\subsection{N-grams interpolation and backoff}
 
 FF.
 
@@ -303,7 +308,76 @@ FF.
 
 \subsection{Sentence generation using n-gram models}
 
-FF.
+\subsubsection{Sentences generated using an unigram model}
+
+\begin{itemize}
+	\item <s> part bearing threaded 3 the hole link seals to correct threaded the instructions install in be
+\end{itemize}
+
+
+\subsubsection{Sentences generated using a bigram model}
+
+\begin{itemize}
+	\item <s> install shim from bottom of rolling torque then slide gear in the outside of the columns to 14 " lbs . slide it coat of housing from the camshaft in the permanent marker .
+	\item <s> slide shaft ( # 00762521 ) into the shims will cause seal toward body of rectifier , and secure it ' t fit over each spark plug installation , rotating the columns along both side of grease or replaced with bearings and gear in place , check that must be ground to wings , 1 . leave it on it to 16 ) and thread the magnets as you add washers . sequentially tighten front bearing cup ( 53074 )
+	\item <s> the engine is seated down into a light coat of white lithium grease before deciding gearbox housing assemblies
+	\item <s> gearbox with bearing cap down over the eccentric strap ( 9 ) on each piston rod . there are slid in housing ( \# 00758655 cup , this style gearbox is needed . the two halves and adjustment
+	\item <s> check bearing and bearing to make sure it , and use the ends flush , coat of shaft has been assembled correct bearing pre - 80 x 1 hour . do not necessary . backlash is against snap ring on top of each of the threaded and the spark plug ( \# 00755628 cup try to the hub . ( item 39 ) onto lower bearings , either solvent . slide a 0 - 17 . if one piston rod and into main housing ( \# 00762522 ) , metal shop equipment .
+	\item <s> 1 .
+	\item <s> 2 - load . in horizontal hub on the three screws to the wire through input shaft ( item 3 nuts at this has been done fill with hammer and into main housing or further away from you near outer retaining screws farthest away from the rotor shaft gear till it seats against bearing spacer . install side bearing cup \& fourth , bearings \& cone ( fig .
+	\item <s> 3 ) , then nut above end of the distance from housing .
+	\item <s> when the ring ( 7 . 017 " to the spindle rod between blade shaft . recheck oil , gears ( 14 ) , they are against bearing cup \& cone is between each slot of the correct install output shaft with four ( \# 00760889 ) and components . 12 ) into main housing . using sealer at the head stud seals slide bearing adjusting nut ( \# 00758650 cup \& # 00748526 ) and further adjustment
+	\item <s> note :
+\end{itemize}
+
+
+\subsubsection{Sentences generated using a trigram model}
+
+\begin{itemize}
+	\item <s> install output seal ( item 22 . install internal snap ring ( item 7 ) , bearings , gear and bearing must be set at a rolling torque then secure bearing adjusting nut ( item 13 \& 15 a / r ) quantity as required on front bearing ( note : the lugs . finger pressure .
+	\item <s> gearbox p / n 00769927
+	\item <s> install input seal ( item 16 ) in each of the crankshaft , install all oil fill \& vent plugs and check for leaks , after set gear ( item 16 ) into inner bearing cup , lay a straight edge between the left half over the end of the stator is tight , file the slides unless otherwise specified , install shims against shims , file the small diameter of grease . using shims ( item 13 .
+	\item <s> 1 . install external clip on shaft .
+	\item <s> install the lower gear .
+	\item <s> 2 . drop input gear .
+	\item <s> 3 . apply an 18 ga . carefully inspect the hole in the cylinder mount .
+	\item <s> note : the bellcrank should be able to see through both holes that are the same time , install inner bearing cup .
+	\item <s> 4 . attach the number , when bearing pre - load by adding or removing outer bearing , then refill with oil , before deciding oil level , inspect old seal to make this happens look like an engine .
+	\item <s> when this task with the side of input shaft ( blade shaft gear and one outer cup , install output shaft bearing cone ( \# 00755613 ) .
+\end{itemize}
+
+
+\subsubsection{Sentences generated using a tetragram model}
+
+\begin{itemize}
+	\item <s> gearbox p / n 00755697a
+	\item <s> install input shaft , shaft . insert output shaft with bearing cone on it up through main housing from the rear through rear bearing ( item 3 , from the front . slide shaft guiding it through input gear . slide shaft guiding leads do not touch the port face on each o - ring ( 40003 ) on each end of the valve spindle assembly ( a2004 ) through adjusting nuts that hold drive shaft ( item 1 ) install output shaft ( item 30 ) can drop through them up through indicator strap . position the bellcrank . after filing these screws flush , install shims ( \# 00755622 ) down over shaft till it seats against shoulder on shaft . install bearing cap down over input shaft . there may make sure that hold the guides . there may be one ore more used .
+	\item <s> install output shaft bearing , then take a few extra hole . install bearing cup ( item 13 \& 15 a / r ) and outer bearing cone .
+	\item <s> when this has no burrs that will will allow end play to regulator stud connector ( 219 - 1a ( \# 13 ) . once all is correct tighten till they are against input gear . install retaining snap ring retainer ( 51007 )
+	\item <s> check bearing pre - load correct . in some cases it will be required to change the shims ( item 29 \& 3 ) 1 on output gear ( \# 00755506 ) on front of input shaft ( center shaft and ( item 8 ) do not put gear down into housing , this will prevent nut from turning and loosening up .
+	\item <s> tighten bearing adjusting nut till bearings have 14 " to 16 " pounds of rolling torque then secure bearing adjusting nut ( item 10 ) .
+	\item <s> install shims ( \# 00755619 ) in against bearing cup try to use the same amount of shims used it is seated against shim . insert the magnets .
+	\item <s> install the lower bearing cone ( \# 12b ) onto input shaft from the front till they are against the oil slinger . press the one nearest the middle of the crosshead end of the four ( 4 ) start to the base . tighten .
+	\item <s> install upper bearing cup . insert output shaft with bearing cone on it up through main housing from the rear through rear bearing opening on center and left wing gearbox , from the bottom bushing is next to the cylinder mount .
+	\item <s> install outer bearing cup ( item 12 cup \& cone ) ) down over output shaft . repeat steps 2 through both ends are very strong and after running 1 / 2 ” thicknesses together to get mixed up on " top of output shaft , the number of shims required will vary , try to put same amount of shims as were removed . install output gear ( \# 00758506 ) to 2 . 5 ” setscrew towards the arm of the bellcrank nearest you . rotate the crankshaft so one of main housing . slide lower output bearing ( 5 ) onto side shaft till it seats against the alternator . these are on the outside of the side drive gear in main housing ( \# 00762520 ) always install center input / output shaft ( \# 00755617 ) next to rear bearing ( item 3 ) down over input shaft , tighten nut ( item 10 ) onto top of output shaft , make sure that bearing is cleaned , drill a drop of oil on each eccentric where gear goes . install external clip ( 1 ) , make sure it is against against shims , install front input shaft bearing , then refill with oil , install top cover ( using sealer for gasket ) , oil plugs and check for leaks , after running mower 1 / 2 to 1 hour check oil level and recheck for leaks .
+\end{itemize}
+
+
+
+\subsubsection{Sentences generated using a pentagram model}
+
+\begin{itemize}
+	\item <s> gearbox p / n 00757918
+	\item <s> install output shaft ( blade shaft ) , shaft , bearings \& gear into main housing ( item 1 ) from the top , install lower bearing cup ( item 5 ) till it is seated into cup . install gear ( item 17 ) , install bearing cap using arbor press off plate , inserting rectifier bridge ( 8 ) , make sure bearing is seated down till the “ u ” ( 1 . 0mm ) into inside of main housing . coat id with light coat the female slide so the slide part is vertical and the male slide is fully charged , push in shaft till upper front till they are against shims . install rear seal ( item 11 ) . attach to 1 hour . inspect seals for leaking , excessive end play in shaft after running 1 / 2 to 1 hour .
+	\item <s> when this has been done fill gearbox with oil , before deciding gearbox is full . after running mower for 7 ) to the eccentric straps will change bearing pre - load .
+	\item <s> check bearing pre - load . output shaft should have no end play and bearing must be set at a rolling torque .
+	\item <s> tighten bearing adjusting nut above gear till bearings have a flat surface and slide the assembly over shaft and against upper id of seals with light coat of grease .
+	\item <s> install input shaft , shaft , bearings \& gear in main housing ( \# 00752362 ) into the best looking end play but back lash is correct , if shaft has end play but back - lash is correct . coat the rear cylinder in the center hole in the slots , measure the gap in upper bearing cup .
+	\item <s> install the lower bearing cone ( item 4 bearing spacer from the bottom .
+	\item <s> install upper bearing cup ( \# 00758655 cup \& cone ) over shaft from you . rotate the mount so they are vertical with the numbers will result . arrange the cylinder mount and outer bearing cone is against shoulder on input shaft .
+	\item <s> install input shaft ( pto ) from inside surface thinly with mineral spirits . when the switch is " back lash ) if bearing pre - load is right case . install it into housing . slide inner bearing cone ( item 13 ) , with rear bearings , remove bearing carrier cap aside , when assembling the total , install input shaft before installing input shaft .
+	\item <s> install rear input bearing cone ( \# 00755628 ) into lower housing from the bottom . put upper bearing cone ( item 4 . ( with gears it may a small file the bushings flush on the other side , this type will not use hardened flat side , make them .
+\end{itemize}
 
 
 
