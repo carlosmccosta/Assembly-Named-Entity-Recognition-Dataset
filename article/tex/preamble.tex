@@ -1,4 +1,4 @@
-\documentclass[10pt,final,conference,letterpaper,oneside,twocolumn]{styles/IEEEtran}
+\documentclass[10pt,final,conference,letterpaper,oneside,twocolumn]{IEEEtran}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -13,13 +13,16 @@
 \usepackage{rotating}
 \usepackage{array}
 \usepackage{multirow}
+\usepackage{cooltooltips}
+\usepackage{mathtools}
 \usepackage{url}
 \usepackage{footnote}
 \usepackage{footmisc}
-\usepackage[nonumberlist,acronym,xindy]{glossaries}
-\usepackage{cooltooltips}
-\usepackage{mathtools}
-\usepackage[noabbrev,nameinlink]{cleveref}
+\usepackage[hidelinks]{hyperref} %[draft,hidelinks]
+\usepackage[all]{hypcap}
+\usepackage[capitalise,noabbrev,nameinlink]{cleveref}
+\usepackage[nonumberlist,acronym,nomain,nowarn]{glossaries}
+\glsdisablehyper
 
 \ifCLASSOPTIONcompsoc
 \usepackage[nocompress]{cite}
@@ -34,3 +37,5 @@
 \fi
 
 \makeglossaries
+
+\overfullrule=3mm

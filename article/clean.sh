@@ -5,13 +5,10 @@ echo "##### Cleaning master.tex build files"
 echo "####################################################################################################"
 
 
-
 rm -rf ./build
-mkdir -p build/references
-mkdir -p build/styles
+mkdir build
 
-ln -s "`pwd`/references/references.bib" "`pwd`/build/references/references.bib"
-ln -s "`pwd`/styles/IEEEtran.bst" "`pwd`/build/styles/IEEEtran.bst"
+ln -s "`pwd`/references.bib" "`pwd`/build/references.bib"
 
 
 echo "\n\n"
