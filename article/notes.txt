@@ -1,0 +1,106 @@
++ Title
+	Dataset for extraction of assembly information from instruction manuals
+
+- Abstract
+	Problem overview
+	Motivations
+	Applications
+	Highlights
+	Main results
+
+
+- Introduction
+	Problem description
+	Relevance of work / motivation
+	Usages
+	Highlights
+	Difficulties that it overcomes
+	Results
+	Paper outline
+
+
+- Related work (at least 3 articles in detail)
+	Robot control
+		Arms
+			Intuitive Industrial Robot Programming Through Incremental Multimodal Language and Augmented Reality
+				Robot pick and place programming using natural language and augmented reality
+			Approximate Decision Making by Natural Language Commands for Robots
+				Control of robotic arm using voice commands for pick and place tasks
+		Mobile robots
+			Learning to Parse Natural Language Commands to a Robot Control System
+				Steering a mobile robot using natural language
+		Humanoids
+			A Humanoid Robot that Listens, Speaks, Sees and Manipulates in Human Environments
+			Robot Controlling in Natural Language
+	NER
+		Active Machine Learning Technique For Named Entity Recognition
+		Design Challenges and Misconceptions in Named Entity Recognition
+		POLYGLOT-NER: Massive Multilingual Named Entity Recognition
+	NER comparisons
+		Analysis of named entity recognition and linking for tweets
+		Evaluation of Named Entity Recognition Tools on Microposts
+	NER dataset
+		Datasets and GATE Evaluation Framework for Benchmarking Wikipedia-Based NER Systems
+		N3 - A Collection of Datasets for Named Entity Recognition and Disambiguation in the NLP Interchange Format
+	NER assembly
+		Integrating Language, Vision and Action for Human Robot Dialog Systems
+			Multi agent system for collaborative assembly operations between a dual arm robot and an operator.
+			Cooperation between operator and robot is done using speech recognition and computer vision analysis (recognition of objects, operator gaze and gestures).
+		Natural Language Programming of Industrial Robots
+			Usage of a multi-lingual statistical semantic parser to extract assembly operations from NL sentences.
+			Client-server system with:
+				NL parser
+					Finds predicates and arguments in sentences, establishes coreference chains
+				KIF (Knowledge Integration Framework) - Ontologies, semantically annotated skills
+					Filters the predicates and returns only the ones relevant for assembly operations
+				ES (Engineering System) - High level programing interface, world model
+					Uses the predicates to select the appropriate skills and matches the arguments with the knowledge database to identify the objects and how to insert them in the assembly tree
+		Understanding and Executing Instructions for Everyday Manipulation Tasks from the World Wide Web
+			Generation of assembly robot plans using Stanford CoreNLP.
+			Main steps ->
+				parsing using PCFG
+				PoS tagging
+				Word sense retrieval and disambiguation using WordNet and Cyc ontology
+				Testing and analysis of the generated plan in simulation
+				Improvement of assembly plan by
+					Inference of missing information using classifiers
+					Optimization of robot movements
+
+
++ Data sources overview
+
+
++ Dataset preparation
+
+
++ Dataset results analysis
+	rank-frequency graphs
+		zipf's law
+	ngrams
+		most common and uncommon terms
+	smoothing
+	sentence generation
+	perplexity
+
+
+- Future work
+	Pre-processing
+	- Tokenisation: characters -> tokens/words
+	- Sentence splitting
+	- POS tagging: nouns, verbs, adjectives, ...
+	- Morphological analysis: word root/lemma
+	Gazetteers
+	Named entity tagger (JAPE transducer)
+	Orthomatcher (orthographic NE coreference)
+	Find entity mentions: Persons, Locations, ...
+	Type disambiguation (Person or Location or ..?)
+	Coreferencing: (different) mentions of the same entity
+
+
+- Conclusion
+	Relevance of implementation
+	Contributions made to state of art
+	Practical applications
+
+
+References
