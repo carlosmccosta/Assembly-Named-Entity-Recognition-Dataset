@@ -401,9 +401,7 @@ Analyzing \cref{subsec:unigram-sentences} it can be seen that a unigram model is
 
 \subsection{N-gram models evaluation}
 
-Language models can be evaluated using an extrinsic or intrinsic approach (chapter 11 of \cite{Clark2010}).
-
-Extrinsic evaluation provides insight into how well a language model is performing a given task (such as spell correction or speech recognition). Usual metrics for this type of evaluation include precision, accuracy, recall and F1. However, this type of evaluation requires an annotated dataset, and as such, it may be useful to perform a preliminary intrinsic evaluation of the model, in order to assess how well the language model can predict a given test set. The most common metric used to perform intrinsic evaluation is perplexity, which gives the inverse probability of the test set (normalized by the number of words). As such, minimizing perplexity will maximize the probability of correct word prediction when using the given language model.
+Language models can be evaluated using an extrinsic or intrinsic approach (chapter 11 of \cite{Clark2010}). Extrinsic evaluation provides insight into how well a language model is performing a given task (such as spell correction or speech recognition). Usual metrics for this type of evaluation include precision, accuracy, recall and F1. However, this type of evaluation requires an annotated dataset, and as such, it may be useful to perform a preliminary intrinsic evaluation of the model, in order to assess how well the language model can predict a given test set. The most common metric used to perform intrinsic evaluation is perplexity, which gives the inverse probability of the test set (normalized by the number of words). As such, minimizing perplexity will maximize the probability of correct word prediction when using the given language model.
 
 By analyzing \cref{tab:n-grams-models-perplexities} we can see that higher order n-grams are better at predicting an unseen test set (they have lower perplexity) and the models that used interpolation as a smoothing technique (Kneser-Ney and Witten-Bell) performed much better than the Laplace add-1 and no smoothing models.
 
