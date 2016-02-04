@@ -83,6 +83,12 @@
 	perplexity
 
 
+- Conclusion
+	Relevance of implementation
+	Contributions made to state of art
+	Practical applications
+
+
 - Future work
 	Pre-processing
 	- Tokenisation: characters -> tokens/words
@@ -95,12 +101,6 @@
 	Find entity mentions: Persons, Locations, ...
 	Type disambiguation (Person or Location or ..?)
 	Coreferencing: (different) mentions of the same entity
-
-
-- Conclusion
-	Relevance of implementation
-	Contributions made to state of art
-	Practical applications
 
 
 References
