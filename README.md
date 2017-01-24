@@ -1,2 +1,3 @@
-# information-extraction-assembly-operations-dataset
-Dataset for information extraction from assembly operations text manuals
+# Assembly-Named-Entity-Recognition-Dataset
+
+Dataset for Named Entity Recognition (NER) from assembly operations text manuals.
